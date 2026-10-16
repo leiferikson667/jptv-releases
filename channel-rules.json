@@ -1,0 +1,24 @@
+{
+  "epg": {
+    "Sky Cinema Action": "sky:4014",
+    "Sky Showcase": "sky:4061"
+  },
+  "main": {
+    "Prime: Premier Sports 1": "main",
+    "Prime: Premier Sports 2": "main",
+    "Sky Sports News HQ": "main",
+    "Sky Sports Action": "main"
+  },
+  "category": {
+    "Prime: Premier Sports 1": "Sport",
+    "Prime: Premier Sports 2": "Sport",
+    "Sky Sports News HQ": "Sport",
+    "Sky Sports Action": "Sport"
+  },
+  "merge": [
+    [
+      "Sky One",
+      "Sky Showcase"
+    ]
+  ]
+}

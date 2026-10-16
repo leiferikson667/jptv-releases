@@ -1,5 +1,5 @@
 {
-  "updated": "17 Oct 2026, 00:02",
+  "updated": "17 Oct 2026, 00:46",
   "channels": [
     {
       "number": 101,
@@ -84,21 +84,21 @@
     },
     {
       "number": 110,
-      "name": "U&Gold",
-      "category": "",
+      "name": "GOLD ◉",
+      "category": "Entertainment",
       "sky": "6513",
-      "channels": [],
+      "channels": ["UK: GOLD 4K ◉"],
       "epg": "sky:6513",
-      "logo": ""
+      "logo": "https:\/\/raw.githubusercontent.com\/tv-logo\/tv-logos\/main\/countries\/united-kingdom\/gold-uk.png"
     },
     {
       "number": 111,
-      "name": "U&Dave",
-      "category": "",
+      "name": "DAVE ◉",
+      "category": "Entertainment",
       "sky": "3809",
-      "channels": [],
+      "channels": ["UK: DAVE 4K ◉"],
       "epg": "sky:3809",
-      "logo": ""
+      "logo": "https:\/\/raw.githubusercontent.com\/tv-logo\/tv-logos\/main\/countries\/united-kingdom\/dave-uk.png"
     },
     {
       "number": 112,
@@ -1227,12 +1227,12 @@
     },
     {
       "number": 408,
-      "name": "Sky Sp Tennis",
-      "category": "",
+      "name": "Sky Sports Tennis",
+      "category": "Sport",
       "sky": "1284",
-      "channels": [],
+      "channels": ["UK: SKY SPORTS TENNIS HEVC 4K"],
       "epg": "sky:1284",
-      "logo": ""
+      "logo": "https:\/\/raw.githubusercontent.com\/tv-logo\/tv-logos\/main\/countries\/united-kingdom\/sky-sports-tennis-uk.png"
     },
     {
       "number": 409,
@@ -2919,15 +2919,6 @@
     },
     {
       "number": null,
-      "name": "DAVE ◉",
-      "category": "Entertainment",
-      "sky": null,
-      "channels": ["UK: DAVE 4K ◉"],
-      "epg": "Dave.uk",
-      "logo": "https:\/\/raw.githubusercontent.com\/tv-logo\/tv-logos\/main\/countries\/united-kingdom\/dave-uk.png"
-    },
-    {
-      "number": null,
       "name": "Disney JR",
       "category": "Kids",
       "sky": null,
@@ -2952,15 +2943,6 @@
       "channels": ["UK: GOLD +1 ◉"],
       "epg": "GOLD.uk",
       "logo": "https:\/\/raw.githubusercontent.com\/tv-logo\/tv-logos\/main\/countries\/united-kingdom\/gold-plus-uk.png"
-    },
-    {
-      "number": null,
-      "name": "GOLD ◉",
-      "category": "Entertainment",
-      "sky": null,
-      "channels": ["UK: GOLD 4K ◉"],
-      "epg": "GOLD.uk",
-      "logo": "https:\/\/raw.githubusercontent.com\/tv-logo\/tv-logos\/main\/countries\/united-kingdom\/gold-uk.png"
     },
     {
       "number": null,
@@ -3069,15 +3051,6 @@
       "channels": ["UK: SKY SPORTS PREMIER LEAGUE HEVC 4K"],
       "epg": "sky:4010",
       "logo": "https:\/\/raw.githubusercontent.com\/tv-logo\/tv-logos\/main\/countries\/united-kingdom\/sky-sports-premier-league-uk.png"
-    },
-    {
-      "number": null,
-      "name": "Sky Sports Tennis",
-      "category": "Sport",
-      "sky": null,
-      "channels": ["UK: SKY SPORTS TENNIS HEVC 4K"],
-      "epg": "",
-      "logo": "https:\/\/raw.githubusercontent.com\/tv-logo\/tv-logos\/main\/countries\/united-kingdom\/sky-sports-tennis-uk.png"
     },
     {
       "number": null,

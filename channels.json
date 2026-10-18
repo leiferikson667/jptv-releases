@@ -75,7 +75,7 @@
     },
     {
       "number": 109,
-      "name": "Alibi ◉",
+      "name": "U&Alibi ◉",
       "category": "Entertainment",
       "sky": "3825",
       "channels": ["UK: ALIBI 4K ◉"],
@@ -84,7 +84,7 @@
     },
     {
       "number": 110,
-      "name": "GOLD ◉",
+      "name": "U&Gold ◉",
       "category": "Entertainment",
       "sky": "6513",
       "channels": ["UK: GOLD 4K ◉"],
@@ -93,7 +93,7 @@
     },
     {
       "number": 111,
-      "name": "DAVE ◉",
+      "name": "U&Dave ◉",
       "category": "Entertainment",
       "sky": "3809",
       "channels": ["UK: DAVE 4K ◉"],
@@ -215,7 +215,7 @@
       "sky": "4003",
       "channels": ["UK: DISCOVERY 4K ◉"],
       "epg": "sky:4003",
-      "logo": "https:\/\/raw.githubusercontent.com\/tv-logo\/tv-logos\/main\/countries\/united-kingdom\/discovery-shed-uk.png"
+      "logo": "https:\/\/raw.githubusercontent.com\/tv-logo\/tv-logos\/main\/countries\/united-kingdom\/discovery-channel-uk.png.png"
     },
     {
       "number": 126,
@@ -273,12 +273,12 @@
     },
     {
       "number": 132,
-      "name": "W ◉",
+      "name": "U&W ◉",
       "category": "Entertainment",
       "sky": "2617",
       "channels": ["UK: W! - WATCH 4K ◉"],
       "epg": "sky:2617",
-      "logo": "https:\/\/raw.githubusercontent.com\/tv-logo\/tv-logos\/main\/countries\/united-kingdom\/w-network-uk.png"
+      "logo": "https:\/\/raw.githubusercontent.com\/tv-logo\/tv-logos\/main\/countries\/united-kingdom\/u-and-w-uk.png"
     },
     {
       "number": 133,
@@ -719,7 +719,7 @@
       "sky": "2404",
       "channels": ["UK: DISCOVERY +1 ◉"],
       "epg": "sky:2404",
-      "logo": "https:\/\/raw.githubusercontent.com\/tv-logo\/tv-logos\/main\/countries\/poland\/canal-plus-1-pl.png"
+      "logo": "https:\/\/raw.githubusercontent.com\/tv-logo\/tv-logos\/main\/countries\/poland\/discovery-channel-plus-uk.png"
     },
     {
       "number": 228,
@@ -737,7 +737,7 @@
       "sky": "2616",
       "channels": [],
       "epg": "sky:2616",
-      "logo": ""
+      "logo": "https:\/\/raw.githubusercontent.com\/tv-logo\/tv-logos\/main\/countries\/united-kingdom\/u-and-w-plus-uk.png"
     },
     {
       "number": 233,
@@ -764,7 +764,7 @@
       "sky": "3310",
       "channels": ["UK: MORE 4+1"],
       "epg": "sky:3310",
-      "logo": "https:\/\/raw.githubusercontent.com\/tv-logo\/tv-logos\/main\/countries\/united-kingdom\/bbc-uhd-uk.png"
+      "logo": "https:\/\/raw.githubusercontent.com\/tv-logo\/tv-logos\/main\/countries\/united-kingdom\/4-more-plus-uk.png"
     },
     {
       "number": 239,
@@ -845,7 +845,7 @@
       "sky": "5452",
       "channels": ["UK: ID +1 ◉"],
       "epg": "sky:5452",
-      "logo": "https:\/\/raw.githubusercontent.com\/tv-logo\/tv-logos\/main\/countries\/indonesia\/antv-id.png"
+      "logo": "https:\/\/raw.githubusercontent.com\/tv-logo\/tv-logos\/main\/countries\/indonesia\/investigation-discovery-plus-uk.png"
     },
     {
       "number": 255,
@@ -890,7 +890,7 @@
       "sky": "3760",
       "channels": ["UK: DISCOVERY HISTORY +1"],
       "epg": "sky:3760",
-      "logo": "https:\/\/raw.githubusercontent.com\/tv-logo\/tv-logos\/main\/countries\/poland\/canal-plus-1-pl.png"
+      "logo": "https:\/\/raw.githubusercontent.com\/tv-logo\/tv-logos\/main\/countries\/poland\/discovery-history-plus-uk.png"
     },
     {
       "number": 262,
@@ -966,12 +966,12 @@
     },
     {
       "number": 306,
-      "name": "Sky Action",
+      "name": "Sky Cinema Action",
       "category": "Entertainment",
       "sky": "4014",
       "channels": ["NOW: SKY ACTION ᴿᴬᵂ", "UK: SKY CINEMA ACTION 4K"],
       "epg": "sky:4014",
-      "logo": "https:\/\/raw.githubusercontent.com\/tv-logo\/tv-logos\/main\/countries\/united-kingdom\/sky-cinema-action-hz-uk.png"
+      "logo": "https:\/\/raw.githubusercontent.com\/tv-logo\/tv-logos\/main\/countries\/united-kingdom\/sky-cinema-action-uk.png"
     },
     {
       "number": 307,
@@ -1421,7 +1421,7 @@
       "sky": "1074",
       "channels": ["UK: BLOOMBERG HEVC 4K"],
       "epg": "sky:1074",
-      "logo": "https:\/\/raw.githubusercontent.com\/tv-logo\/tv-logos\/main\/countries\/united-kingdom\/bbc-uhd-uk.png"
+      "logo": "https:\/\/raw.githubusercontent.com\/tv-logo\/tv-logos\/main\/countries\/united-states\/bloomberg-television-us.png"
     },
     {
       "number": 503,
@@ -1434,12 +1434,12 @@
     },
     {
       "number": 504,
-      "name": "BBC Parlament ◉",
+      "name": "BBC Parliament ◉",
       "category": "News",
       "sky": "3020",
       "channels": ["UK: BBC PARLAMENT ◉", "UK: BBC PARLIAMENT ᴿᴬᵂ"],
       "epg": "sky:3020",
-      "logo": "https:\/\/raw.githubusercontent.com\/tv-logo\/tv-logos\/main\/countries\/united-kingdom\/bbc-parliament-hz-uk.png"
+      "logo": "https:\/\/raw.githubusercontent.com\/tv-logo\/tv-logos\/main\/countries\/united-kingdom\/bbc-parliament-uk.png.png"
     },
     {
       "number": 505,
@@ -1700,7 +1700,7 @@
       "sky": "4039",
       "channels": ["UK: NICK JUNIOR", "UK: NICK JR HEVC 4K"],
       "epg": "sky:4039",
-      "logo": "https:\/\/raw.githubusercontent.com\/tv-logo\/tv-logos\/main\/countries\/united-kingdom\/nick-uk.png"
+      "logo": "https:\/\/raw.githubusercontent.com\/tv-logo\/tv-logos\/main\/countries\/united-kingdom\/nick-jr-plus-uk.png"
     },
     {
       "number": 607,
@@ -2766,7 +2766,7 @@
     },
     {
       "number": null,
-      "name": "Watch +1 ◉",
+      "name": "U&W +1 ◉",
       "category": "Entertainment",
       "sky": null,
       "channels": ["UK: WATCH +1 ◉"],

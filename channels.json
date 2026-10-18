@@ -1,5 +1,5 @@
 {
-  "updated": "18 Oct 2026, 18:56",
+  "updated": "18 Oct 2026, 22:35",
   "channels": [
     {
       "number": 101,
@@ -143,7 +143,7 @@
       "sky": "2086",
       "channels": ["UK: BBC 4 \/ CBEEBIES 4K ◉", "UK: BBC FOUR ᴿᴬᵂ", "UK: BBC 4 ◉"],
       "epg": "BBC4.uk",
-      "logo": ""
+      "logo": "https:\/\/raw.githubusercontent.com\/tv-logo\/tv-logos\/main\/countries\/united-kingdom\/bbc-four-uk.png"
     },
     {
       "number": 118,
@@ -215,7 +215,7 @@
       "sky": "4003",
       "channels": ["UK: DISCOVERY 4K ◉"],
       "epg": "sky:4003",
-      "logo": ""
+      "logo": "https:\/\/raw.githubusercontent.com\/tv-logo\/tv-logos\/main\/countries\/united-kingdom\/discovery-shed-uk.png"
     },
     {
       "number": 126,
@@ -278,7 +278,7 @@
       "sky": "2617",
       "channels": ["UK: W! - WATCH 4K ◉"],
       "epg": "sky:2617",
-      "logo": ""
+      "logo": "https:\/\/raw.githubusercontent.com\/tv-logo\/tv-logos\/main\/countries\/united-kingdom\/w-network-uk.png"
     },
     {
       "number": 133,
@@ -294,7 +294,7 @@
       "name": "S4C ◉",
       "category": "Entertainment",
       "sky": "2296",
-      "channels": ["UK: S4C ◉"],
+      "channels": [],
       "epg": "sky:2296",
       "logo": "https:\/\/raw.githubusercontent.com\/tv-logo\/tv-logos\/main\/countries\/united-kingdom\/s4c-uk.png"
     },
@@ -314,7 +314,7 @@
       "sky": "4043",
       "channels": ["UK: MORE 4 4K ◉", "UK: MORE4 ◉"],
       "epg": "sky:4043",
-      "logo": ""
+      "logo": "https:\/\/raw.githubusercontent.com\/tv-logo\/tv-logos\/main\/countries\/united-kingdom\/4-more-uk.png"
     },
     {
       "number": 137,
@@ -404,7 +404,7 @@
       "sky": "3352",
       "channels": ["PRIME: TRUE CRIME UK ᴿᴬᵂ"],
       "epg": "sky:3352",
-      "logo": ""
+      "logo": "https:\/\/raw.githubusercontent.com\/tv-logo\/tv-logos\/main\/countries\/united-kingdom\/true-crime-uk-uk.png"
     },
     {
       "number": 147,
@@ -584,7 +584,7 @@
       "sky": "1872",
       "channels": ["UK: TOGETHER ◉"],
       "epg": "sky:1872",
-      "logo": ""
+      "logo": "https:\/\/raw.githubusercontent.com\/tv-logo\/tv-logos\/main\/countries\/united-kingdom\/together-tv-uk.png"
     },
     {
       "number": 173,
@@ -719,7 +719,7 @@
       "sky": "2404",
       "channels": ["UK: DISCOVERY +1 ◉"],
       "epg": "sky:2404",
-      "logo": ""
+      "logo": "https:\/\/raw.githubusercontent.com\/tv-logo\/tv-logos\/main\/countries\/poland\/canal-plus-1-pl.png"
     },
     {
       "number": 228,
@@ -764,7 +764,7 @@
       "sky": "3310",
       "channels": ["UK: MORE 4+1"],
       "epg": "sky:3310",
-      "logo": ""
+      "logo": "https:\/\/raw.githubusercontent.com\/tv-logo\/tv-logos\/main\/countries\/united-kingdom\/bbc-uhd-uk.png"
     },
     {
       "number": 239,
@@ -845,7 +845,7 @@
       "sky": "5452",
       "channels": ["UK: ID +1 ◉"],
       "epg": "sky:5452",
-      "logo": ""
+      "logo": "https:\/\/raw.githubusercontent.com\/tv-logo\/tv-logos\/main\/countries\/indonesia\/antv-id.png"
     },
     {
       "number": 255,
@@ -890,7 +890,7 @@
       "sky": "3760",
       "channels": ["UK: DISCOVERY HISTORY +1"],
       "epg": "sky:3760",
-      "logo": ""
+      "logo": "https:\/\/raw.githubusercontent.com\/tv-logo\/tv-logos\/main\/countries\/poland\/canal-plus-1-pl.png"
     },
     {
       "number": 262,
@@ -971,7 +971,7 @@
       "sky": "4014",
       "channels": ["NOW: SKY ACTION ᴿᴬᵂ", "UK: SKY CINEMA ACTION 4K"],
       "epg": "sky:4014",
-      "logo": ""
+      "logo": "https:\/\/raw.githubusercontent.com\/tv-logo\/tv-logos\/main\/countries\/united-kingdom\/sky-cinema-action-hz-uk.png"
     },
     {
       "number": 307,
@@ -1124,7 +1124,7 @@
       "sky": "4505",
       "channels": ["UK: CLUBLAND TV"],
       "epg": "sky:4505",
-      "logo": ""
+      "logo": "https:\/\/raw.githubusercontent.com\/tv-logo\/tv-logos\/main\/countries\/united-kingdom\/clubland-uk.png"
     },
     {
       "number": 355,
@@ -1439,7 +1439,7 @@
       "sky": "3020",
       "channels": ["UK: BBC PARLAMENT ◉", "UK: BBC PARLIAMENT ᴿᴬᵂ"],
       "epg": "sky:3020",
-      "logo": ""
+      "logo": "https:\/\/raw.githubusercontent.com\/tv-logo\/tv-logos\/main\/countries\/united-kingdom\/bbc-parliament-hz-uk.png"
     },
     {
       "number": 505,
@@ -1646,7 +1646,7 @@
       "sky": "3392",
       "channels": ["UK: SON LIFE"],
       "epg": "sky:3392",
-      "logo": ""
+      "logo": "https:\/\/raw.githubusercontent.com\/tv-logo\/tv-logos\/main\/countries\/united-kingdom\/sony-max-uk.png"
     },
     {
       "number": 601,
@@ -1709,7 +1709,7 @@
       "sky": "2078",
       "channels": ["UK: CBBC 4K ◉"],
       "epg": "sky:2078",
-      "logo": ""
+      "logo": "https:\/\/raw.githubusercontent.com\/tv-logo\/tv-logos\/main\/countries\/united-kingdom\/bbc-cbbc-uk.png"
     },
     {
       "number": 608,
@@ -1718,7 +1718,7 @@
       "sky": "2088",
       "channels": ["UK: BBC CBEEBIES ᴿᴬᵂ"],
       "epg": "sky:2088",
-      "logo": ""
+      "logo": "https:\/\/raw.githubusercontent.com\/tv-logo\/tv-logos\/main\/countries\/united-kingdom\/bbc-cbeebies-uk.png"
     },
     {
       "number": 609,
@@ -1763,7 +1763,7 @@
       "sky": "1183",
       "channels": ["UK: DISNEY JUNIOR 4K", "UK: DISNEY JR HD"],
       "epg": "sky:1183",
-      "logo": ""
+      "logo": "https:\/\/raw.githubusercontent.com\/tv-logo\/tv-logos\/main\/countries\/united-kingdom\/disney-jr-uk.png"
     },
     {
       "number": 615,
@@ -1772,7 +1772,7 @@
       "sky": "1845",
       "channels": ["UK: NICKELODEON +1"],
       "epg": "sky:1845",
-      "logo": ""
+      "logo": "https:\/\/raw.githubusercontent.com\/tv-logo\/tv-logos\/main\/countries\/united-kingdom\/nickelodeon-plus-uk.png"
     },
     {
       "number": 619,
@@ -1781,7 +1781,7 @@
       "sky": "5089",
       "channels": ["UK: NICK JUNIOR +1"],
       "epg": "sky:5089",
-      "logo": ""
+      "logo": "https:\/\/raw.githubusercontent.com\/tv-logo\/tv-logos\/main\/countries\/france\/mon-nickelodeon-junior-fr.png"
     },
     {
       "number": 623,
@@ -1817,7 +1817,7 @@
       "sky": "1076",
       "channels": ["UK: QVC UK ◉"],
       "epg": "sky:1076",
-      "logo": ""
+      "logo": "https:\/\/raw.githubusercontent.com\/tv-logo\/tv-logos\/main\/countries\/united-kingdom\/qvc-uk.png"
     },
     {
       "number": 661,
@@ -1907,7 +1907,7 @@
       "sky": "1169",
       "channels": ["UK: HOBBY MAKER ◉"],
       "epg": "sky:1169",
-      "logo": ""
+      "logo": "https:\/\/raw.githubusercontent.com\/tv-logo\/tv-logos\/main\/countries\/czech-republic\/hobby-tv-cz.png"
     },
     {
       "number": 671,
@@ -2391,7 +2391,7 @@
       "name": "ATN ◉",
       "category": "Entertainment",
       "sky": "6753",
-      "channels": ["UK: ATN ◉"],
+      "channels": [],
       "epg": "sky:6753",
       "logo": ""
     },
@@ -2771,7 +2771,7 @@
       "sky": null,
       "channels": ["UK: WATCH +1 ◉"],
       "epg": "sky:2616",
-      "logo": ""
+      "logo": "https:\/\/raw.githubusercontent.com\/tv-logo\/tv-logos\/main\/countries\/united-kingdom\/watch-free-uk-uk.png"
     }
   ]
 }

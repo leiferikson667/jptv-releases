@@ -1,183 +1,147 @@
 {
-  "updated": "17 Oct 2026, 01:14 (linked by Claude)",
+  "updated": "18 Oct 2026, 18:56",
   "channels": [
     {
       "number": 101,
       "name": "BBC One Scotland ◉",
       "category": "Entertainment",
       "sky": "3000",
-      "channels": [
-        "UK: BBC ONE SCOT HD ◉",
-        "UK: BBC ONE SCOTLAND ᴿᴬᵂ"
-      ],
+      "channels": ["UK: BBC ONE SCOT HD ◉", "UK: BBC ONE SCOTLAND ᴿᴬᵂ"],
       "epg": "sky:2082",
-      "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-one-uk.png"
+      "logo": "https:\/\/raw.githubusercontent.com\/tv-logo\/tv-logos\/main\/countries\/united-kingdom\/bbc-one-uk.png"
     },
     {
       "number": 102,
-      "name": "BBC Two Scotland ◉",
+      "name": "BBC 2 ◉",
       "category": "Entertainment",
-      "sky": "2075",
-      "channels": [
-        "UK: BBC TWO SCOTLAND ◉"
-      ],
+      "sky": null,
+      "channels": ["UK: BBC 2 4K ◉"],
       "epg": "BBC2.uk",
-      "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-two-uk.png"
+      "logo": "https:\/\/raw.githubusercontent.com\/tv-logo\/tv-logos\/main\/countries\/united-kingdom\/bbc-two-uk.png"
     },
     {
       "number": 103,
       "name": "ITV 1 ◉",
       "category": "Entertainment",
       "sky": "6504",
-      "channels": [
-        "UK: ITV 1 4K ◉"
-      ],
+      "channels": ["UK: ITV 1 4K ◉"],
       "epg": "sky:6504",
-      "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/itv-1-uk.png"
+      "logo": "https:\/\/raw.githubusercontent.com\/tv-logo\/tv-logos\/main\/countries\/united-kingdom\/itv-1-uk.png"
     },
     {
       "number": 104,
       "name": "Channel 4 ◉",
       "category": "Entertainment",
       "sky": "4075",
-      "channels": [
-        "UK: CHANNEL 4 4K ◉"
-      ],
+      "channels": ["UK: CHANNEL 4 4K ◉"],
       "epg": "sky:4075",
-      "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/channel-4-uk.png"
+      "logo": "https:\/\/raw.githubusercontent.com\/tv-logo\/tv-logos\/main\/countries\/united-kingdom\/channel-4-uk.png"
     },
     {
       "number": 105,
       "name": "Channel 5 ◉",
       "category": "Entertainment",
       "sky": "4058",
-      "channels": [
-        "UK: CHANNEL 5 4K ◉"
-      ],
+      "channels": ["UK: CHANNEL 5 4K ◉"],
       "epg": "sky:4058",
-      "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/channel-5-uk.png"
+      "logo": "https:\/\/raw.githubusercontent.com\/tv-logo\/tv-logos\/main\/countries\/united-kingdom\/channel-5-uk.png"
     },
     {
       "number": 106,
       "name": "Sky One",
-      "category": "Movies",
+      "category": "Entertainment",
       "sky": "4061",
-      "channels": [
-        "UK: SKY ONE 4K",
-        "UK: SKY SHOWCASE 4K"
-      ],
+      "channels": ["UK: SKY ONE 4K", "UK: SKY SHOWCASE 4K"],
       "epg": "sky:4061",
-      "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-one-uk.png"
+      "logo": "https:\/\/raw.githubusercontent.com\/tv-logo\/tv-logos\/main\/countries\/united-kingdom\/sky-one-uk.png"
     },
     {
       "number": 107,
       "name": "Sky Witness",
-      "category": "Movies",
+      "category": "Entertainment",
       "sky": "4066",
-      "channels": [
-        "UK: SKY WITNESS HEVC 4K"
-      ],
+      "channels": ["UK: SKY WITNESS HEVC 4K"],
       "epg": "sky:4066",
-      "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-witness-uk.png"
+      "logo": "https:\/\/raw.githubusercontent.com\/tv-logo\/tv-logos\/main\/countries\/united-kingdom\/sky-witness-uk.png"
     },
     {
       "number": 108,
       "name": "Sky Atlantic ◉",
       "category": "Entertainment",
       "sky": "4053",
-      "channels": [
-        "UK: SKY ATLANTIC 4K ◉"
-      ],
+      "channels": ["UK: SKY ATLANTIC 4K ◉"],
       "epg": "sky:4053",
-      "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-atlantic-uk.png"
+      "logo": "https:\/\/raw.githubusercontent.com\/tv-logo\/tv-logos\/main\/countries\/united-kingdom\/sky-atlantic-uk.png"
     },
     {
       "number": 109,
       "name": "Alibi ◉",
       "category": "Entertainment",
       "sky": "3825",
-      "channels": [
-        "UK: ALIBI 4K ◉"
-      ],
+      "channels": ["UK: ALIBI 4K ◉"],
       "epg": "Alibi.uk",
-      "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/alibi-uk.png"
+      "logo": "https:\/\/raw.githubusercontent.com\/tv-logo\/tv-logos\/main\/countries\/united-kingdom\/alibi-uk.png"
     },
     {
       "number": 110,
       "name": "GOLD ◉",
       "category": "Entertainment",
       "sky": "6513",
-      "channels": [
-        "UK: GOLD 4K ◉"
-      ],
+      "channels": ["UK: GOLD 4K ◉"],
       "epg": "sky:6513",
-      "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/gold-uk.png"
+      "logo": "https:\/\/raw.githubusercontent.com\/tv-logo\/tv-logos\/main\/countries\/united-kingdom\/gold-uk.png"
     },
     {
       "number": 111,
       "name": "DAVE ◉",
       "category": "Entertainment",
       "sky": "3809",
-      "channels": [
-        "UK: DAVE 4K ◉"
-      ],
+      "channels": ["UK: DAVE 4K ◉"],
       "epg": "sky:3809",
-      "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/dave-uk.png"
+      "logo": "https:\/\/raw.githubusercontent.com\/tv-logo\/tv-logos\/main\/countries\/united-kingdom\/dave-uk.png"
     },
     {
       "number": 112,
       "name": "Comedy Central ◉",
-      "category": "",
+      "category": "Entertainment",
       "sky": "4056",
-      "channels": [
-        "UK: COMEDY CENTRAL 4K ◉"
-      ],
+      "channels": ["UK: COMEDY CENTRAL 4K ◉"],
       "epg": "sky:4056",
-      "logo": ""
+      "logo": "https:\/\/raw.githubusercontent.com\/tv-logo\/tv-logos\/main\/countries\/united-kingdom\/comedy-central-uk.png"
     },
     {
       "number": 113,
       "name": "Sky Comedy",
-      "category": "Movies",
+      "category": "Entertainment",
       "sky": "1143",
-      "channels": [
-        "UK: SKY COMEDY 4K"
-      ],
+      "channels": ["UK: SKY COMEDY 4K"],
       "epg": "sky:1143",
-      "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-comedy-uk.png"
+      "logo": "https:\/\/raw.githubusercontent.com\/tv-logo\/tv-logos\/main\/countries\/united-kingdom\/sky-comedy-uk.png"
     },
     {
       "number": 114,
       "name": "Sky Documentaries ◉",
       "category": "Documentaries",
       "sky": "1136",
-      "channels": [
-        "UK: SKY DOCUMENTARIES 4K ◉"
-      ],
+      "channels": ["UK: SKY DOCUMENTARIES 4K ◉"],
       "epg": "sky:1136",
-      "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-documentaries-uk.png"
+      "logo": "https:\/\/raw.githubusercontent.com\/tv-logo\/tv-logos\/main\/countries\/united-kingdom\/sky-documentaries-uk.png"
     },
     {
       "number": 115,
       "name": "BBC Three",
-      "category": "",
+      "category": "Entertainment",
       "sky": "2080",
-      "channels": [
-        "UK: BBC THREE ᴿᴬᵂ"
-      ],
+      "channels": ["UK: BBC THREE ᴿᴬᵂ"],
       "epg": "sky:2080",
-      "logo": ""
+      "logo": "https:\/\/raw.githubusercontent.com\/tv-logo\/tv-logos\/main\/countries\/united-kingdom\/bbc-three-uk.png"
     },
     {
       "number": 116,
-      "name": "BBC 4 / Cbeebies ◉",
+      "name": "BBC 4 \/ Cbeebies ◉",
       "category": "Kids",
       "sky": "2086",
-      "channels": [
-        "UK: BBC 4 / CBEEBIES 4K ◉",
-        "UK: BBC FOUR ᴿᴬᵂ",
-        "UK: BBC 4 ◉"
-      ],
+      "channels": ["UK: BBC 4 \/ CBEEBIES 4K ◉", "UK: BBC FOUR ᴿᴬᵂ", "UK: BBC 4 ◉"],
       "epg": "BBC4.uk",
       "logo": ""
     },
@@ -186,100 +150,81 @@
       "name": "ITV 2",
       "category": "Entertainment",
       "sky": "6532",
-      "channels": [
-        "UK: ITV 2 HEVC 4K"
-      ],
+      "channels": ["UK: ITV 2 HEVC 4K"],
       "epg": "sky:6532",
-      "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/itv-2-uk.png"
+      "logo": "https:\/\/raw.githubusercontent.com\/tv-logo\/tv-logos\/main\/countries\/united-kingdom\/itv-2-uk.png"
     },
     {
       "number": 119,
       "name": "ITV 3 ◉",
       "category": "Entertainment",
       "sky": "6533",
-      "channels": [
-        "UK: ITV 3 4K ◉"
-      ],
+      "channels": ["UK: ITV 3 4K ◉"],
       "epg": "sky:6533",
-      "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/itv-3-uk.png"
+      "logo": "https:\/\/raw.githubusercontent.com\/tv-logo\/tv-logos\/main\/countries\/united-kingdom\/itv-3-uk.png"
     },
     {
       "number": 120,
       "name": "ITV 4 ◉",
       "category": "Entertainment",
       "sky": "6534",
-      "channels": [
-        "UK: ITV 4 4K ◉"
-      ],
+      "channels": ["UK: ITV 4 4K ◉"],
       "epg": "sky:6534",
-      "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/itv-4-uk.png"
+      "logo": "https:\/\/raw.githubusercontent.com\/tv-logo\/tv-logos\/main\/countries\/united-kingdom\/itv-4-uk.png"
     },
     {
       "number": 121,
       "name": "Sky Crime ◉",
-      "category": "Movies",
+      "category": "Entertainment",
       "sky": "1212",
-      "channels": [
-        "UK: SKY CRIME 4K ◉"
-      ],
+      "channels": ["UK: SKY CRIME 4K ◉"],
       "epg": "sky:1212",
-      "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-crime-uk.png"
+      "logo": "https:\/\/raw.githubusercontent.com\/tv-logo\/tv-logos\/main\/countries\/united-kingdom\/sky-crime-uk.png"
     },
     {
       "number": 122,
       "name": "Sky Arts ◉",
       "category": "Entertainment",
       "sky": "4063",
-      "channels": [
-        "UK: SKY ARTS 4K ◉",
-        "NOW: SKY ARTS 1 ᴿᴬᵂ"
-      ],
+      "channels": ["UK: SKY ARTS 4K ◉", "NOW: SKY ARTS 1 ᴿᴬᵂ"],
       "epg": "sky:4063",
-      "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-arts-uk.png"
+      "logo": "https:\/\/raw.githubusercontent.com\/tv-logo\/tv-logos\/main\/countries\/united-kingdom\/sky-arts-uk.png"
     },
     {
       "number": 123,
       "name": "Sky History",
       "category": "Documentaries",
       "sky": "4086",
-      "channels": [
-        "NOW: SKY HISTORY ᴿᴬᵂ"
-      ],
+      "channels": ["NOW: SKY HISTORY ᴿᴬᵂ"],
       "epg": "sky:4086",
-      "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-history-uk.png"
+      "logo": "https:\/\/raw.githubusercontent.com\/tv-logo\/tv-logos\/main\/countries\/united-kingdom\/sky-history-uk.png"
     },
     {
       "number": 124,
       "name": "Sky Nature ◉",
       "category": "Documentaries",
       "sky": "1165",
-      "channels": [
-        "UK: SKY NATURE 4K ◉"
-      ],
+      "channels": ["UK: SKY NATURE 4K ◉"],
       "epg": "sky:1165",
-      "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-nature-uk.png"
+      "logo": "https:\/\/raw.githubusercontent.com\/tv-logo\/tv-logos\/main\/countries\/united-kingdom\/sky-nature-uk.png"
     },
     {
       "number": 125,
       "name": "Discovery ◉",
       "category": "Documentaries",
       "sky": "4003",
-      "channels": [
-        "UK: DISCOVERY 4K ◉"
-      ],
+      "channels": ["UK: DISCOVERY 4K ◉"],
       "epg": "sky:4003",
       "logo": ""
     },
     {
       "number": 126,
       "name": "MTV",
-      "category": "",
+      "category": "Music",
       "sky": "3831",
-      "channels": [
-        "UK: MTV 4K"
-      ],
+      "channels": ["UK: MTV 4K"],
       "epg": "sky:3831",
-      "logo": ""
+      "logo": "https:\/\/raw.githubusercontent.com\/tv-logo\/tv-logos\/main\/countries\/united-kingdom\/mtv-uk.png"
     },
     {
       "number": 127,
@@ -295,54 +240,43 @@
       "name": "5 STAR ◉",
       "category": "Entertainment",
       "sky": "3023",
-      "channels": [
-        "UK: 5 STAR ◉"
-      ],
+      "channels": ["UK: 5 STAR ◉"],
       "epg": "sky:3023",
-      "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/5-star-uk.png"
+      "logo": "https:\/\/raw.githubusercontent.com\/tv-logo\/tv-logos\/main\/countries\/united-kingdom\/5-star-uk.png"
     },
     {
       "number": 129,
       "name": "National Geographic ◉",
       "category": "Documentaries",
       "sky": "4031",
-      "channels": [
-        "UK:: NATIONAL GEOGRAPHIC 4K ◉",
-        "UK: NATIONAL GEO HEVC 4K"
-      ],
+      "channels": ["UK:: NATIONAL GEOGRAPHIC 4K ◉", "UK: NATIONAL GEO HEVC 4K"],
       "epg": "sky:4031",
-      "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/national-geographic-uk.png"
+      "logo": "https:\/\/raw.githubusercontent.com\/tv-logo\/tv-logos\/main\/countries\/united-kingdom\/national-geographic-uk.png"
     },
     {
       "number": 130,
       "name": "Challenge ◉",
       "category": "Entertainment",
       "sky": "2202",
-      "channels": [
-        "UK: CHALLENGE ◉"
-      ],
+      "channels": ["UK: CHALLENGE ◉"],
       "epg": "sky:2202",
-      "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/challenge-uk.png"
+      "logo": "https:\/\/raw.githubusercontent.com\/tv-logo\/tv-logos\/main\/countries\/united-kingdom\/challenge-uk.png"
     },
     {
       "number": 131,
       "name": "ITV Quiz",
       "category": "Entertainment",
       "sky": "3026",
-      "channels": [
-        "UK : ITV QUIZ 4K"
-      ],
+      "channels": ["UK : ITV QUIZ 4K"],
       "epg": "sky:3026",
-      "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/itv-quiz-uk.png"
+      "logo": "https:\/\/raw.githubusercontent.com\/tv-logo\/tv-logos\/main\/countries\/united-kingdom\/itv-quiz-uk.png"
     },
     {
       "number": 132,
       "name": "W ◉",
-      "category": "",
+      "category": "Entertainment",
       "sky": "2617",
-      "channels": [
-        "UK: W! - WATCH 4K ◉"
-      ],
+      "channels": ["UK: W! - WATCH 4K ◉"],
       "epg": "sky:2617",
       "logo": ""
     },
@@ -351,43 +285,34 @@
       "name": "TLC",
       "category": "Entertainment",
       "sky": "5450",
-      "channels": [
-        "UK: TLC 4K"
-      ],
+      "channels": ["UK: TLC 4K"],
       "epg": "sky:5450",
-      "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/tlc-uk.png"
+      "logo": "https:\/\/raw.githubusercontent.com\/tv-logo\/tv-logos\/main\/countries\/united-kingdom\/tlc-uk.png"
     },
     {
       "number": 134,
       "name": "S4C ◉",
       "category": "Entertainment",
       "sky": "2296",
-      "channels": [
-        "UK: S4C ◉"
-      ],
+      "channels": ["UK: S4C ◉"],
       "epg": "sky:2296",
-      "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/s4c-uk.png"
+      "logo": "https:\/\/raw.githubusercontent.com\/tv-logo\/tv-logos\/main\/countries\/united-kingdom\/s4c-uk.png"
     },
     {
       "number": 135,
       "name": "E4 ◉",
       "category": "Entertainment",
       "sky": "4076",
-      "channels": [
-        "UK: E4 4K ◉"
-      ],
+      "channels": ["UK: E4 4K ◉"],
       "epg": "sky:4076",
-      "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/e-4-uk.png"
+      "logo": "https:\/\/raw.githubusercontent.com\/tv-logo\/tv-logos\/main\/countries\/united-kingdom\/e-4-uk.png"
     },
     {
       "number": 136,
       "name": "More 4 ◉",
-      "category": "",
+      "category": "Entertainment",
       "sky": "4043",
-      "channels": [
-        "UK: MORE 4 4K ◉",
-        "UK: MORE4 ◉"
-      ],
+      "channels": ["UK: MORE 4 4K ◉", "UK: MORE4 ◉"],
       "epg": "sky:4043",
       "logo": ""
     },
@@ -396,107 +321,88 @@
       "name": "4SEVEN ◉",
       "category": "Entertainment",
       "sky": "3150",
-      "channels": [
-        "UK: 4SEVEN ◉"
-      ],
+      "channels": ["UK: 4SEVEN ◉"],
       "epg": "sky:3150",
-      "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/4-seven-uk.png"
+      "logo": "https:\/\/raw.githubusercontent.com\/tv-logo\/tv-logos\/main\/countries\/united-kingdom\/4-seven-uk.png"
     },
     {
       "number": 138,
       "name": "E4 Extra ◉",
-      "category": "",
+      "category": "Entertainment",
       "sky": "1758",
-      "channels": [
-        "UK: E4 EXTRA ◉"
-      ],
+      "channels": ["UK: E4 EXTRA ◉"],
       "epg": "sky:1758",
-      "logo": ""
+      "logo": "https:\/\/raw.githubusercontent.com\/tv-logo\/tv-logos\/main\/countries\/united-kingdom\/e-4-extra-uk.png"
     },
     {
       "number": 139,
       "name": "Crime & Investigation ◉",
-      "category": "",
+      "category": "Documentaries",
       "sky": "4088",
-      "channels": [
-        "UK: CRIME INVESTIGATION 4K ◉"
-      ],
+      "channels": ["UK: CRIME INVESTIGATION 4K ◉"],
       "epg": "sky:4088",
-      "logo": ""
+      "logo": "https:\/\/raw.githubusercontent.com\/tv-logo\/tv-logos\/main\/countries\/united-kingdom\/crime-and-investigation-uk.png"
     },
     {
       "number": 140,
       "name": "Quest ◉",
       "category": "Documentaries",
       "sky": "1128",
-      "channels": [
-        "UK: QUEST 4K ◉"
-      ],
+      "channels": ["UK: QUEST 4K ◉"],
       "epg": "sky:1128",
-      "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/quest-uk.png"
+      "logo": "https:\/\/raw.githubusercontent.com\/tv-logo\/tv-logos\/main\/countries\/united-kingdom\/quest-uk.png"
     },
     {
       "number": 141,
       "name": "5 USA ◉",
       "category": "Entertainment",
       "sky": "3022",
-      "channels": [
-        "UK: 5 USA ◉"
-      ],
+      "channels": ["UK: 5 USA ◉"],
       "epg": "sky:3022",
-      "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/5-usa-uk.png"
+      "logo": "https:\/\/raw.githubusercontent.com\/tv-logo\/tv-logos\/main\/countries\/united-kingdom\/5-usa-uk.png"
     },
     {
       "number": 142,
       "name": "Really ◉",
       "category": "Entertainment",
       "sky": "2325",
-      "channels": [
-        "UK: REALLY ◉"
-      ],
+      "channels": ["UK: REALLY ◉"],
       "epg": "sky:2325",
-      "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/really-uk.png"
+      "logo": "https:\/\/raw.githubusercontent.com\/tv-logo\/tv-logos\/main\/countries\/united-kingdom\/really-uk.png"
     },
     {
       "number": 143,
       "name": "Drama ◉",
       "category": "Entertainment",
       "sky": "2612",
-      "channels": [
-        "UK: DRAMA ◉"
-      ],
+      "channels": ["UK: DRAMA ◉"],
       "epg": "sky:2612",
-      "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/drama-uk.png"
+      "logo": "https:\/\/raw.githubusercontent.com\/tv-logo\/tv-logos\/main\/countries\/united-kingdom\/drama-uk.png"
     },
     {
       "number": 144,
       "name": "Food Network ◉",
       "category": "Entertainment",
       "sky": "3590",
-      "channels": [
-        "UK: FOOD NETWORK ◉"
-      ],
+      "channels": ["UK: FOOD NETWORK ◉"],
       "epg": "sky:3590",
-      "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/food-network-uk.png"
+      "logo": "https:\/\/raw.githubusercontent.com\/tv-logo\/tv-logos\/main\/countries\/united-kingdom\/food-network-uk.png"
     },
     {
       "number": 145,
       "name": "Sky Sci-fi",
       "category": "Entertainment",
       "sky": "4074",
-      "channels": [
-        "NOW: SKY SCI-FI ᴿᴬᵂ",
-        "NOW: SKY SCFI/HOR ᴿᴬᵂ"
-      ],
+      "channels": ["NOW: SKY SCI-FI ᴿᴬᵂ", "NOW: SKY SCFI\/HOR ᴿᴬᵂ"],
       "epg": "sky:4074",
-      "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sci-fi-uk.png"
+      "logo": "https:\/\/raw.githubusercontent.com\/tv-logo\/tv-logos\/main\/countries\/united-kingdom\/sky-sci-fi-uk.png"
     },
     {
       "number": 146,
-      "name": "TRUE CRIME",
-      "category": "",
+      "name": "Prime: True Crime UK",
+      "category": "Entertainment",
       "sky": "3352",
-      "channels": [],
+      "channels": ["PRIME: TRUE CRIME UK ᴿᴬᵂ"],
       "epg": "sky:3352",
       "logo": ""
     },
@@ -514,33 +420,27 @@
       "name": "Legend ◉",
       "category": "Movies",
       "sky": "4610",
-      "channels": [
-        "UK: LEGEND ◉"
-      ],
+      "channels": ["UK: LEGEND ◉"],
       "epg": "sky:4610",
-      "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/legend-uk.png"
+      "logo": "https:\/\/raw.githubusercontent.com\/tv-logo\/tv-logos\/main\/countries\/united-kingdom\/legend-uk.png"
     },
     {
       "number": 149,
       "name": "Quest Red",
       "category": "Documentaries",
       "sky": "2411",
-      "channels": [
-        "UK: QUEST RED"
-      ],
+      "channels": ["UK: QUEST RED"],
       "epg": "sky:2411",
-      "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/quest-red-uk.png"
+      "logo": "https:\/\/raw.githubusercontent.com\/tv-logo\/tv-logos\/main\/countries\/united-kingdom\/quest-red-uk.png"
     },
     {
       "number": 150,
       "name": "5 Action ◉",
       "category": "Movies",
       "sky": "1036",
-      "channels": [
-        "UK: 5 ACTION HD ◉"
-      ],
+      "channels": ["UK: 5 ACTION HD ◉"],
       "epg": "sky:1036",
-      "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/5-action-uk.png"
+      "logo": "https:\/\/raw.githubusercontent.com\/tv-logo\/tv-logos\/main\/countries\/united-kingdom\/5-action-uk.png"
     },
     {
       "number": 151,
@@ -556,99 +456,81 @@
       "name": "5 Select ◉",
       "category": "Entertainment",
       "sky": "3028",
-      "channels": [
-        "UK: 5 SELECT ◉"
-      ],
+      "channels": ["UK: 5 SELECT ◉"],
       "epg": "sky:3028",
-      "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/5-select-uk.png"
+      "logo": "https:\/\/raw.githubusercontent.com\/tv-logo\/tv-logos\/main\/countries\/united-kingdom\/5-select-uk.png"
     },
     {
       "number": 154,
       "name": "Investigation Discovery ◉",
       "category": "Documentaries",
       "sky": "2413",
-      "channels": [
-        "UK: INVESTIGATION DISCOVERY ◉"
-      ],
+      "channels": ["UK: INVESTIGATION DISCOVERY ◉"],
       "epg": "sky:2413",
-      "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/investigation-discovery-uk.png"
+      "logo": "https:\/\/raw.githubusercontent.com\/tv-logo\/tv-logos\/main\/countries\/united-kingdom\/investigation-discovery-uk.png"
     },
     {
       "number": 155,
       "name": "Yesterday ◉",
-      "category": "",
+      "category": "Documentaries",
       "sky": "2305",
-      "channels": [
-        "UK: YESTERDAY ◉"
-      ],
+      "channels": ["UK: YESTERDAY ◉"],
       "epg": "sky:2305",
-      "logo": ""
+      "logo": "https:\/\/raw.githubusercontent.com\/tv-logo\/tv-logos\/main\/countries\/united-kingdom\/yesterday-uk.png"
     },
     {
       "number": 156,
       "name": "Blaze ◉",
       "category": "Documentaries",
       "sky": "1065",
-      "channels": [
-        "UK: BLAZE 4K ◉"
-      ],
+      "channels": ["UK: BLAZE 4K ◉"],
       "epg": "sky:1065",
-      "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/blaze-uk.png"
+      "logo": "https:\/\/raw.githubusercontent.com\/tv-logo\/tv-logos\/main\/countries\/united-kingdom\/blaze-uk.png"
     },
     {
       "number": 157,
       "name": "Great! TV ◉",
-      "category": "",
+      "category": "Entertainment",
       "sky": "4266",
-      "channels": [
-        "UK: GREAT TV ◉"
-      ],
+      "channels": ["UK: GREAT TV ◉"],
       "epg": "sky:4266",
-      "logo": ""
+      "logo": "https:\/\/raw.githubusercontent.com\/tv-logo\/tv-logos\/main\/countries\/united-kingdom\/great-tv-uk.png"
     },
     {
       "number": 158,
       "name": "Discovery Turbo ◉",
       "category": "Documentaries",
       "sky": "2409",
-      "channels": [
-        "UK: DISCOVERY TURBO ◉"
-      ],
+      "channels": ["UK: DISCOVERY TURBO ◉"],
       "epg": "sky:2409",
-      "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/discovery-turbo-uk.png"
+      "logo": "https:\/\/raw.githubusercontent.com\/tv-logo\/tv-logos\/main\/countries\/united-kingdom\/discovery-turbo-uk.png"
     },
     {
       "number": 159,
       "name": "DMAX ◉",
       "category": "Documentaries",
       "sky": "3618",
-      "channels": [
-        "UK: DMAX ◉"
-      ],
+      "channels": ["UK: DMAX ◉"],
       "epg": "sky:3618",
-      "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/dmax-uk.png"
+      "logo": "https:\/\/raw.githubusercontent.com\/tv-logo\/tv-logos\/main\/countries\/united-kingdom\/dmax-uk.png"
     },
     {
       "number": 161,
       "name": "Discovery History ◉",
       "category": "Documentaries",
       "sky": "2407",
-      "channels": [
-        "UK: DISCOVERY HISTORY ◉"
-      ],
+      "channels": ["UK: DISCOVERY HISTORY ◉"],
       "epg": "sky:2407",
-      "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/discovery-history-uk.png"
+      "logo": "https:\/\/raw.githubusercontent.com\/tv-logo\/tv-logos\/main\/countries\/united-kingdom\/discovery-history-uk.png"
     },
     {
       "number": 162,
       "name": "Animal Planet ◉",
       "category": "Documentaries",
       "sky": "2402",
-      "channels": [
-        "UK: ANIMAL PLANET 4K ◉"
-      ],
+      "channels": ["UK: ANIMAL PLANET 4K ◉"],
       "epg": "sky:2402",
-      "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/animal-planet-uk.png"
+      "logo": "https:\/\/raw.githubusercontent.com\/tv-logo\/tv-logos\/main\/countries\/united-kingdom\/animal-planet-uk.png"
     },
     {
       "number": 163,
@@ -664,54 +546,43 @@
       "name": "National Geographic Wild ◉",
       "category": "Documentaries",
       "sky": "4025",
-      "channels": [
-        "UK: : NATIONAL GEOGRAPHIC WILD 4K ◉",
-        "UK: NAT GEO WILD HEVC 4K"
-      ],
+      "channels": ["UK: : NATIONAL GEOGRAPHIC WILD 4K ◉", "UK: NAT GEO WILD HEVC 4K"],
       "epg": "sky:4025",
-      "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/national-geographic-wild-uk.png"
+      "logo": "https:\/\/raw.githubusercontent.com\/tv-logo\/tv-logos\/main\/countries\/united-kingdom\/national-geographic-wild-uk.png"
     },
     {
       "number": 166,
       "name": "Eden ◉",
-      "category": "",
+      "category": "Documentaries",
       "sky": "2302",
-      "channels": [
-        "UK: EDEN 4K ◉"
-      ],
+      "channels": ["UK: EDEN 4K ◉"],
       "epg": "sky:2302",
-      "logo": ""
+      "logo": "https:\/\/raw.githubusercontent.com\/tv-logo\/tv-logos\/main\/countries\/united-kingdom\/eden-uk.png"
     },
     {
       "number": 167,
       "name": "Discovery Science ◉",
       "category": "Documentaries",
       "sky": "2406",
-      "channels": [
-        "UK: DISCOVERY SCIENCE ◉"
-      ],
+      "channels": ["UK: DISCOVERY SCIENCE ◉"],
       "epg": "sky:2406",
-      "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/discovery-science-uk.png"
+      "logo": "https:\/\/raw.githubusercontent.com\/tv-logo\/tv-logos\/main\/countries\/united-kingdom\/discovery-science-uk.png"
     },
     {
       "number": 169,
       "name": "BBC Alba",
       "category": "Entertainment",
       "sky": "3021",
-      "channels": [
-        "UK: BBC ALBA ᴿᴬᵂ"
-      ],
+      "channels": ["UK: BBC ALBA ᴿᴬᵂ"],
       "epg": "sky:3021",
-      "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-alba-uk.png"
+      "logo": "https:\/\/raw.githubusercontent.com\/tv-logo\/tv-logos\/main\/countries\/united-kingdom\/bbc-alba-uk.png"
     },
     {
       "number": 170,
       "name": "Together ◉",
       "category": "Documentaries",
       "sky": "1872",
-      "channels": [
-        "UK: TOGETHER ◉"
-      ],
+      "channels": ["UK: TOGETHER ◉"],
       "epg": "sky:1872",
       "logo": ""
     },
@@ -720,11 +591,9 @@
       "name": "PBS America ◉",
       "category": "Documentaries",
       "sky": "5500",
-      "channels": [
-        "UK: PBS AMERICA ◉"
-      ],
+      "channels": ["UK: PBS AMERICA ◉"],
       "epg": "sky:5500",
-      "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/pbs-america-uk.png"
+      "logo": "https:\/\/raw.githubusercontent.com\/tv-logo\/tv-logos\/main\/countries\/united-kingdom\/pbs-america-uk.png"
     },
     {
       "number": 178,
@@ -740,11 +609,9 @@
       "name": "BBC Scotland",
       "category": "Entertainment",
       "sky": "1138",
-      "channels": [
-        "UK: BBC SCOTLAND ᴿᴬᵂ"
-      ],
+      "channels": ["UK: BBC SCOTLAND ᴿᴬᵂ"],
       "epg": "sky:1138",
-      "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-scotland-uk.png"
+      "logo": "https:\/\/raw.githubusercontent.com\/tv-logo\/tv-logos\/main\/countries\/united-kingdom\/bbc-scotland-uk.png"
     },
     {
       "number": 182,
@@ -760,55 +627,45 @@
       "name": "ITV 1 +1 ◉",
       "category": "Entertainment",
       "sky": "6155",
-      "channels": [
-        "UK: ITV 1 +1 ◉"
-      ],
+      "channels": ["UK: ITV 1 +1 ◉"],
       "epg": "sky:6155",
-      "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/itv-1-plus-uk.png"
+      "logo": "https:\/\/raw.githubusercontent.com\/tv-logo\/tv-logos\/main\/countries\/united-kingdom\/itv-1-plus-uk.png"
     },
     {
       "number": 204,
       "name": "Channel 4 +1 ◉",
-      "category": "",
+      "category": "Entertainment",
       "sky": "1670",
-      "channels": [
-        "UK: CHANNEL 4 +1 ◉"
-      ],
+      "channels": ["UK: CHANNEL 4 +1 ◉"],
       "epg": "sky:1670",
-      "logo": ""
+      "logo": "https:\/\/raw.githubusercontent.com\/tv-logo\/tv-logos\/main\/countries\/united-kingdom\/channel-4-plus-uk.png"
     },
     {
       "number": 205,
       "name": "Channel 5 +1 ◉",
       "category": "Entertainment",
       "sky": "1839",
-      "channels": [
-        "UK: CHANNEL 5 +1 ◉"
-      ],
+      "channels": ["UK: CHANNEL 5 +1 ◉"],
       "epg": "Channel5.uk",
-      "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/channel-5-plus-uk.png"
+      "logo": "https:\/\/raw.githubusercontent.com\/tv-logo\/tv-logos\/main\/countries\/united-kingdom\/channel-5-plus-uk.png"
     },
     {
       "number": 209,
       "name": "Alibi +1 ◉",
       "category": "Entertainment",
       "sky": "2630",
-      "channels": [
-        "UK: ALIBI +1 ◉"
-      ],
+      "channels": ["UK: ALIBI +1 ◉"],
       "epg": "Alibi.uk",
-      "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/alibi-plus-uk.png"
+      "logo": "https:\/\/raw.githubusercontent.com\/tv-logo\/tv-logos\/main\/countries\/united-kingdom\/alibi-plus-uk.png"
     },
     {
       "number": 210,
       "name": "GOLD +1 ◉",
       "category": "Entertainment",
       "sky": "2703",
-      "channels": [
-        "UK: GOLD +1 ◉"
-      ],
+      "channels": ["UK: GOLD +1 ◉"],
       "epg": "sky:2703",
-      "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/gold-plus-uk.png"
+      "logo": "https:\/\/raw.githubusercontent.com\/tv-logo\/tv-logos\/main\/countries\/united-kingdom\/gold-plus-uk.png"
     },
     {
       "number": 211,
@@ -833,55 +690,45 @@
       "name": "ITV 2+1 ◉",
       "category": "Entertainment",
       "sky": "6241",
-      "channels": [
-        "UK: ITV 2+1 ◉"
-      ],
+      "channels": ["UK: ITV 2+1 ◉"],
       "epg": "sky:6241",
-      "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/itv-2-plus-uk.png"
+      "logo": "https:\/\/raw.githubusercontent.com\/tv-logo\/tv-logos\/main\/countries\/united-kingdom\/itv-2-plus-uk.png"
     },
     {
       "number": 219,
       "name": "ITV 3+1 ◉",
       "category": "Entertainment",
       "sky": "6261",
-      "channels": [
-        "UK: ITV 3+1 ◉"
-      ],
+      "channels": ["UK: ITV 3+1 ◉"],
       "epg": "sky:6261",
-      "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/itv-3-plus-uk.png"
+      "logo": "https:\/\/raw.githubusercontent.com\/tv-logo\/tv-logos\/main\/countries\/united-kingdom\/itv-3-plus-uk.png"
     },
     {
       "number": 220,
       "name": "ITV 4+1 ◉",
       "category": "Entertainment",
       "sky": "6274",
-      "channels": [
-        "UK: ITV 4+1 ◉"
-      ],
+      "channels": ["UK: ITV 4+1 ◉"],
       "epg": "sky:6274",
-      "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/itv-4-plus-uk.png"
+      "logo": "https:\/\/raw.githubusercontent.com\/tv-logo\/tv-logos\/main\/countries\/united-kingdom\/itv-4-plus-uk.png"
     },
     {
       "number": 225,
       "name": "Discovery +1 ◉",
       "category": "Documentaries",
       "sky": "2404",
-      "channels": [
-        "UK: DISCOVERY +1 ◉"
-      ],
+      "channels": ["UK: DISCOVERY +1 ◉"],
       "epg": "sky:2404",
       "logo": ""
     },
     {
       "number": 228,
       "name": "5Star +1 ◉",
-      "category": "",
+      "category": "Entertainment",
       "sky": "3024",
-      "channels": [
-        "UK: 5 STAR+1 ◉"
-      ],
+      "channels": ["UK: 5 STAR+1 ◉"],
       "epg": "sky:3024",
-      "logo": ""
+      "logo": "https:\/\/raw.githubusercontent.com\/tv-logo\/tv-logos\/main\/countries\/united-kingdom\/5-star-plus-uk.png"
     },
     {
       "number": 232,
@@ -906,55 +753,45 @@
       "name": "E4 +1 ◉",
       "category": "Entertainment",
       "sky": "3300",
-      "channels": [
-        "UK: E4 +1 ◉"
-      ],
+      "channels": ["UK: E4 +1 ◉"],
       "epg": "sky:3300",
-      "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/e-4-plus-uk.png"
+      "logo": "https:\/\/raw.githubusercontent.com\/tv-logo\/tv-logos\/main\/countries\/united-kingdom\/e-4-plus-uk.png"
     },
     {
       "number": 236,
       "name": "MORE 4+1",
       "category": "Entertainment",
       "sky": "3310",
-      "channels": [
-        "UK: MORE 4+1"
-      ],
+      "channels": ["UK: MORE 4+1"],
       "epg": "sky:3310",
       "logo": ""
     },
     {
       "number": 239,
       "name": "Crime & Investigation +1 ◉",
-      "category": "",
+      "category": "Documentaries",
       "sky": "3620",
-      "channels": [
-        "UK: CRIME INVESTIGATION +1 ◉"
-      ],
+      "channels": ["UK: CRIME INVESTIGATION +1 ◉"],
       "epg": "sky:3620",
-      "logo": ""
+      "logo": "https:\/\/raw.githubusercontent.com\/tv-logo\/tv-logos\/main\/countries\/united-kingdom\/crime-and-investigation-plus-uk.png"
     },
     {
       "number": 240,
       "name": "Quest +1 ◉",
       "category": "Documentaries",
       "sky": "3621",
-      "channels": [
-        "UK: QUEST +1 ◉"
-      ],
+      "channels": ["UK: QUEST +1 ◉"],
       "epg": "sky:3621",
-      "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/quest-plus-uk.png"
+      "logo": "https:\/\/raw.githubusercontent.com\/tv-logo\/tv-logos\/main\/countries\/united-kingdom\/quest-plus-uk.png"
     },
     {
       "number": 241,
       "name": "5 USA +1 ◉",
       "category": "Entertainment",
       "sky": "3027",
-      "channels": [
-        "UK: 5 USA +1 ◉"
-      ],
+      "channels": ["UK: 5 USA +1 ◉"],
       "epg": "sky:3027",
-      "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/5-usa-plus-uk.png"
+      "logo": "https:\/\/raw.githubusercontent.com\/tv-logo\/tv-logos\/main\/countries\/united-kingdom\/5-usa-plus-uk.png"
     },
     {
       "number": 242,
@@ -968,24 +805,20 @@
     {
       "number": 243,
       "name": "Drama +1 ◉",
-      "category": "",
+      "category": "Entertainment",
       "sky": "1081",
-      "channels": [
-        "UK: DRAMA + 1 ◉"
-      ],
+      "channels": ["UK: DRAMA + 1 ◉"],
       "epg": "sky:1081",
-      "logo": ""
+      "logo": "https:\/\/raw.githubusercontent.com\/tv-logo\/tv-logos\/main\/countries\/united-kingdom\/drama-plus-uk.png"
     },
     {
       "number": 244,
       "name": "Food Network +1 ◉",
-      "category": "",
+      "category": "Entertainment",
       "sky": "3592",
-      "channels": [
-        "UK: FOOD NETWORK +1 ◉"
-      ],
+      "channels": ["UK: FOOD NETWORK +1 ◉"],
       "epg": "sky:3592",
-      "logo": ""
+      "logo": "https:\/\/raw.githubusercontent.com\/tv-logo\/tv-logos\/main\/countries\/united-kingdom\/food-network-plus-uk.png"
     },
     {
       "number": 246,
@@ -1001,20 +834,16 @@
       "name": "Quest Red +1 ◉",
       "category": "Documentaries",
       "sky": "4547",
-      "channels": [
-        "UK: Quest Red +1 ◉"
-      ],
+      "channels": ["UK: Quest Red +1 ◉"],
       "epg": "sky:4547",
-      "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/quest-red-plus-uk.png"
+      "logo": "https:\/\/raw.githubusercontent.com\/tv-logo\/tv-logos\/main\/countries\/united-kingdom\/quest-red-plus-uk.png"
     },
     {
       "number": 254,
       "name": "ID +1 ◉",
-      "category": "",
+      "category": "Entertainment",
       "sky": "5452",
-      "channels": [
-        "UK: ID +1 ◉"
-      ],
+      "channels": ["UK: ID +1 ◉"],
       "epg": "sky:5452",
       "logo": ""
     },
@@ -1030,68 +859,56 @@
     {
       "number": 257,
       "name": "Great! TV +1 ◉",
-      "category": "",
+      "category": "Movies",
       "sky": "5338",
-      "channels": [
-        "UK: GREAT TV CHANNEL +1 ◉"
-      ],
+      "channels": ["UK: GREAT TV CHANNEL +1 ◉"],
       "epg": "sky:5338",
-      "logo": ""
+      "logo": "https:\/\/raw.githubusercontent.com\/tv-logo\/tv-logos\/main\/countries\/united-kingdom\/great-tv-plus-uk.png"
     },
     {
       "number": 258,
       "name": "Discovery Turbo +1 ◉",
-      "category": "",
+      "category": "Documentaries",
       "sky": "5245",
-      "channels": [
-        "UK: DISCOVERY TURBO +1 ◉"
-      ],
+      "channels": ["UK: DISCOVERY TURBO +1 ◉"],
       "epg": "sky:5245",
-      "logo": ""
+      "logo": "https:\/\/raw.githubusercontent.com\/tv-logo\/tv-logos\/main\/countries\/united-kingdom\/discovery-turbo-plus-uk.png"
     },
     {
       "number": 259,
       "name": "DMAX +1 ◉",
       "category": "Documentaries",
       "sky": "1865",
-      "channels": [
-        "UK: DMAX +1 ◉"
-      ],
+      "channels": ["UK: DMAX +1 ◉"],
       "epg": "sky:1865",
-      "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/dmax-plus-uk.png"
+      "logo": "https:\/\/raw.githubusercontent.com\/tv-logo\/tv-logos\/main\/countries\/united-kingdom\/dmax-plus-uk.png"
     },
     {
       "number": 261,
       "name": "Discovery History +1",
       "category": "Documentaries",
       "sky": "3760",
-      "channels": [
-        "UK: DISCOVERY HISTORY +1"
-      ],
+      "channels": ["UK: DISCOVERY HISTORY +1"],
       "epg": "sky:3760",
       "logo": ""
     },
     {
       "number": 262,
       "name": "Animal Planet +1 ◉",
-      "category": "",
+      "category": "Entertainment",
       "sky": "1352",
-      "channels": [
-        "UK: ANIMAL PLNT +1 ◉"
-      ],
+      "channels": ["UK: ANIMAL PLNT +1 ◉"],
       "epg": "sky:1352",
-      "logo": ""
+      "logo": "https:\/\/raw.githubusercontent.com\/tv-logo\/tv-logos\/main\/countries\/united-kingdom\/animal-planet-plus-uk.png"
     },
     {
       "number": 266,
       "name": "Eden +1 ◉",
-      "category": "",
+      "category": "Documentaries",
       "sky": "2307",
-      "channels": [
-        "UK: EDEN +1 ◉"
-      ],
+      "channels": ["UK: EDEN +1 ◉"],
       "epg": "sky:2307",
-      "logo": ""
+      "logo": "https:\/\/raw.githubusercontent.com\/tv-logo\/tv-logos\/main\/countries\/united-kingdom\/eden-plus-uk.png"
     },
     {
       "number": 267,
@@ -1107,22 +924,18 @@
       "name": "Sky Cinema Premiere",
       "category": "Movies",
       "sky": "4021",
-      "channels": [
-        "UK: SKY CINEMA PREMIERE 4K"
-      ],
+      "channels": ["UK: SKY CINEMA PREMIERE 4K"],
       "epg": "sky:4021",
-      "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-cinema-premiere-uk.png"
+      "logo": "https:\/\/raw.githubusercontent.com\/tv-logo\/tv-logos\/main\/countries\/united-kingdom\/sky-cinema-premiere-uk.png"
     },
     {
       "number": 302,
       "name": "Sky Cinema Animation",
       "category": "Movies",
       "sky": "4020",
-      "channels": [
-        "UK: SKY CINEMA ANIMATION 4K"
-      ],
+      "channels": ["UK: SKY CINEMA ANIMATION 4K"],
       "epg": "sky:4020",
-      "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-cinema-animation-uk.png"
+      "logo": "https:\/\/raw.githubusercontent.com\/tv-logo\/tv-logos\/main\/countries\/united-kingdom\/sky-cinema-animation-uk.png"
     },
     {
       "number": 303,
@@ -1138,11 +951,9 @@
       "name": "Sky Cinema Family",
       "category": "Movies",
       "sky": "4018",
-      "channels": [
-        "UK: SKY CINEMA FAMILY 4K"
-      ],
+      "channels": ["UK: SKY CINEMA FAMILY 4K"],
       "epg": "sky:4018",
-      "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-cinema-family-uk.png"
+      "logo": "https:\/\/raw.githubusercontent.com\/tv-logo\/tv-logos\/main\/countries\/united-kingdom\/sky-cinema-family-uk.png"
     },
     {
       "number": 305,
@@ -1158,9 +969,7 @@
       "name": "Sky Action",
       "category": "Entertainment",
       "sky": "4014",
-      "channels": [
-        "NOW: SKY ACTION ᴿᴬᵂ"
-      ],
+      "channels": ["NOW: SKY ACTION ᴿᴬᵂ", "UK: SKY CINEMA ACTION 4K"],
       "epg": "sky:4014",
       "logo": ""
     },
@@ -1169,36 +978,27 @@
       "name": "Sky Cinema Greats",
       "category": "Movies",
       "sky": "4015",
-      "channels": [
-        "UK: SKY CINEMA GREATS 4K",
-        "NOW: SKY GREATS ᴿᴬᵂ"
-      ],
+      "channels": ["UK: SKY CINEMA GREATS 4K", "NOW: SKY GREATS ᴿᴬᵂ"],
       "epg": "sky:4015",
-      "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-cinema-greats-uk.png"
+      "logo": "https:\/\/raw.githubusercontent.com\/tv-logo\/tv-logos\/main\/countries\/united-kingdom\/sky-cinema-greats-uk.png"
     },
     {
       "number": 309,
       "name": "Sky Cinema Thriller",
       "category": "Movies",
       "sky": "4062",
-      "channels": [
-        "UK: SKY CINEMA THRILLER 4K",
-        "NOW: SKY THRILLER ᴿᴬᵂ"
-      ],
+      "channels": ["UK: SKY CINEMA THRILLER 4K", "NOW: SKY THRILLER ᴿᴬᵂ"],
       "epg": "sky:4062",
-      "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-cinema-thriller-uk.png"
+      "logo": "https:\/\/raw.githubusercontent.com\/tv-logo\/tv-logos\/main\/countries\/united-kingdom\/sky-cinema-thriller-uk.png"
     },
     {
       "number": 310,
       "name": "Sky Cinema Drama",
       "category": "Movies",
       "sky": "4016",
-      "channels": [
-        "UK: SKY CINEMA DRAMA 4K",
-        "NOW: SKY DRAMA ᴿᴬᵂ"
-      ],
+      "channels": ["UK: SKY CINEMA DRAMA 4K", "NOW: SKY DRAMA ᴿᴬᵂ"],
       "epg": "sky:4016",
-      "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-cinema-drama-uk.png"
+      "logo": "https:\/\/raw.githubusercontent.com\/tv-logo\/tv-logos\/main\/countries\/united-kingdom\/sky-cinema-drama-uk.png"
     },
     {
       "number": 312,
@@ -1212,13 +1012,11 @@
     {
       "number": 313,
       "name": "Film 4 ◉",
-      "category": "",
+      "category": "Movies",
       "sky": "4044",
-      "channels": [
-        "UK: FILM 4 4K ◉"
-      ],
+      "channels": ["UK: FILM 4 4K ◉"],
       "epg": "sky:4044",
-      "logo": ""
+      "logo": "https:\/\/raw.githubusercontent.com\/tv-logo\/tv-logos\/main\/countries\/united-kingdom\/film-4-uk.png"
     },
     {
       "number": 314,
@@ -1258,34 +1056,30 @@
     },
     {
       "number": 318,
-      "name": "Great! Action",
-      "category": "",
+      "name": "Great Movies Action ◉",
+      "category": "Movies",
       "sky": "3708",
-      "channels": [],
+      "channels": ["UK: GREAT MOVIES ACTION ◉"],
       "epg": "sky:3708",
-      "logo": ""
+      "logo": "https:\/\/raw.githubusercontent.com\/tv-logo\/tv-logos\/main\/countries\/united-kingdom\/great-movies-uk.png"
     },
     {
       "number": 319,
       "name": "Great! Action +1 ◉",
-      "category": "",
+      "category": "Movies",
       "sky": "3721",
-      "channels": [
-        "UK: GREAT MOVIES ACTION +1 ◉"
-      ],
+      "channels": ["UK: GREAT MOVIES ACTION +1 ◉"],
       "epg": "sky:3721",
-      "logo": ""
+      "logo": "https:\/\/raw.githubusercontent.com\/tv-logo\/tv-logos\/main\/countries\/united-kingdom\/great-action-plus-uk.png"
     },
     {
       "number": 320,
       "name": "Great Mystery",
       "category": "Entertainment",
       "sky": "3709",
-      "channels": [
-        "UK: GREAT MYSTERY"
-      ],
+      "channels": ["UK: GREAT MYSTERY"],
       "epg": "sky:3709",
-      "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/great-mystery-uk.png"
+      "logo": "https:\/\/raw.githubusercontent.com\/tv-logo\/tv-logos\/main\/countries\/united-kingdom\/great-mystery-uk.png"
     },
     {
       "number": 321,
@@ -1319,20 +1113,16 @@
       "name": "Talking Pictures ◉",
       "category": "Movies",
       "sky": "5252",
-      "channels": [
-        "UK: TALKING PICTURES ◉"
-      ],
+      "channels": ["UK: TALKING PICTURES ◉"],
       "epg": "sky:5252",
-      "logo": ""
+      "logo": "https:\/\/raw.githubusercontent.com\/tv-logo\/tv-logos\/main\/countries\/united-kingdom\/talking-pictures-tv-uk.png"
     },
     {
       "number": 354,
       "name": "Clubland TV",
       "category": "Music",
       "sky": "4505",
-      "channels": [
-        "UK: CLUBLAND TV"
-      ],
+      "channels": ["UK: CLUBLAND TV"],
       "epg": "sky:4505",
       "logo": ""
     },
@@ -1341,33 +1131,27 @@
       "name": "NOW 70S",
       "category": "Music",
       "sky": "3403",
-      "channels": [
-        "UK: NOW 70S"
-      ],
+      "channels": ["UK: NOW 70S"],
       "epg": "sky:3403",
-      "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/now-70s-uk.png"
+      "logo": "https:\/\/raw.githubusercontent.com\/tv-logo\/tv-logos\/main\/countries\/united-kingdom\/now-70s-uk.png"
     },
     {
       "number": 356,
       "name": "NOW 80S",
       "category": "Music",
       "sky": "4541",
-      "channels": [
-        "UK: NOW 80S"
-      ],
+      "channels": ["UK: NOW 80S"],
       "epg": "sky:4541",
-      "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/now-80s-uk.png"
+      "logo": "https:\/\/raw.githubusercontent.com\/tv-logo\/tv-logos\/main\/countries\/united-kingdom\/now-80s-uk.png"
     },
     {
       "number": 357,
       "name": "NOW 90s & 00s",
-      "category": "",
+      "category": "Music",
       "sky": "1103",
-      "channels": [
-        "UK: NOW 90S"
-      ],
+      "channels": ["UK: NOW 90S"],
       "epg": "sky:1103",
-      "logo": ""
+      "logo": "https:\/\/raw.githubusercontent.com\/tv-logo\/tv-logos\/main\/countries\/united-kingdom\/now-90s-uk.png"
     },
     {
       "number": 358,
@@ -1383,293 +1167,234 @@
       "name": "Sky Sports Main Event",
       "category": "Sport",
       "sky": "4002",
-      "channels": [
-        "NOW: SKY SPORTS MAIN EVENT ᵁᴴᴰ ³⁸⁴⁰ᴾ",
-        "UK: SKY SPORTS MAIN EVENTS HEVC 4K",
-        "VIP: SKY SPORTS MAIN EVENT ⁴ᵏ & ³⁸⁴⁰ᴾ"
-      ],
+      "channels": ["NOW: SKY SPORTS MAIN EVENT ᵁᴴᴰ ³⁸⁴⁰ᴾ", "UK: SKY SPORTS MAIN EVENTS HEVC 4K", "VIP: SKY SPORTS MAIN EVENT ⁴ᵏ & ³⁸⁴⁰ᴾ"],
       "epg": "sky:4002",
-      "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-main-event-uk.png"
+      "logo": "https:\/\/raw.githubusercontent.com\/tv-logo\/tv-logos\/main\/countries\/united-kingdom\/sky-sports-main-event-uk.png"
     },
     {
       "number": 402,
       "name": "Sky Sports Premier League",
       "category": "Sport",
       "sky": "4010",
-      "channels": [
-        "UK: SKY SPORTS PREMIER LEAGUE HEVC 4K"
-      ],
+      "channels": ["UK: SKY SPORTS PREMIER LEAGUE HEVC 4K"],
       "epg": "sky:4010",
-      "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-premier-league-uk.png"
+      "logo": "https:\/\/raw.githubusercontent.com\/tv-logo\/tv-logos\/main\/countries\/united-kingdom\/sky-sports-premier-league-uk.png"
     },
     {
       "number": 403,
       "name": "Sky Sports Football",
       "category": "Sport",
       "sky": "3939",
-      "channels": [
-        "UK: SKY SPORTS FOOTBALL HEVC 4K"
-      ],
+      "channels": ["UK: SKY SPORTS FOOTBALL HEVC 4K"],
       "epg": "sky:3939",
-      "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-football-uk.png"
+      "logo": "https:\/\/raw.githubusercontent.com\/tv-logo\/tv-logos\/main\/countries\/united-kingdom\/sky-sports-football-uk.png"
     },
     {
       "number": 404,
       "name": "Sky Sports +",
       "category": "Sport",
       "sky": "3940",
-      "channels": [
-        "UK: SKY SPORTS + HEVC 4K"
-      ],
+      "channels": ["UK: SKY SPORTS + HEVC 4K"],
       "epg": "sky:3940",
-      "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-plus-hz-uk.png"
+      "logo": "https:\/\/raw.githubusercontent.com\/tv-logo\/tv-logos\/main\/countries\/united-kingdom\/sky-sports-plus-hz-uk.png"
     },
     {
       "number": 405,
       "name": "Sky Sports Cricket",
       "category": "Sport",
       "sky": "4081",
-      "channels": [
-        "UK: SKY SPORTS CRICKET HEVC 4K"
-      ],
+      "channels": ["UK: SKY SPORTS CRICKET HEVC 4K"],
       "epg": "sky:4081",
-      "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-cricket-uk.png"
+      "logo": "https:\/\/raw.githubusercontent.com\/tv-logo\/tv-logos\/main\/countries\/united-kingdom\/sky-sports-cricket-uk.png"
     },
     {
       "number": 406,
       "name": "Sky Sports Golf",
       "category": "Sport",
       "sky": "4026",
-      "channels": [
-        "UK: SKY SPORTS GOLF HEVC 4K"
-      ],
+      "channels": ["UK: SKY SPORTS GOLF HEVC 4K"],
       "epg": "sky:4026",
-      "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-golf-uk.png"
+      "logo": "https:\/\/raw.githubusercontent.com\/tv-logo\/tv-logos\/main\/countries\/united-kingdom\/sky-sports-golf-uk.png"
     },
     {
       "number": 407,
       "name": "Sky Sports F1",
       "category": "Sport",
       "sky": "3835",
-      "channels": [
-        "NOW: SKY SPORTS F1 ᵁᴴᴰ ³⁸⁴⁰ᴾ"
-      ],
+      "channels": ["NOW: SKY SPORTS F1 ᵁᴴᴰ ³⁸⁴⁰ᴾ"],
       "epg": "sky:3835",
-      "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-f1-uk.png"
+      "logo": "https:\/\/raw.githubusercontent.com\/tv-logo\/tv-logos\/main\/countries\/united-kingdom\/sky-sports-f1-uk.png"
     },
     {
       "number": 408,
       "name": "Sky Sports Tennis",
       "category": "Sport",
       "sky": "1284",
-      "channels": [
-        "UK: SKY SPORTS TENNIS HEVC 4K"
-      ],
+      "channels": ["UK: SKY SPORTS TENNIS HEVC 4K"],
       "epg": "sky:1284",
-      "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-tennis-uk.png"
+      "logo": "https:\/\/raw.githubusercontent.com\/tv-logo\/tv-logos\/main\/countries\/united-kingdom\/sky-sports-tennis-uk.png"
     },
     {
       "number": 409,
       "name": "Sky Sports News",
       "category": "Sport",
       "sky": "4049",
-      "channels": [
-        "UK: SKY SPORTS NEWS HEVC 4K"
-      ],
+      "channels": ["UK: SKY SPORTS NEWS HEVC 4K"],
       "epg": "sky:4049",
-      "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-news-uk.png"
+      "logo": "https:\/\/raw.githubusercontent.com\/tv-logo\/tv-logos\/main\/countries\/united-kingdom\/sky-sports-news-uk.png"
     },
     {
       "number": 410,
       "name": "TNT Sports 1",
       "category": "Sport",
       "sky": "3625",
-      "channels": [
-        "UK: TNT SPORTS 1 HEVC 4K"
-      ],
+      "channels": ["UK: TNT SPORTS 1 HEVC 4K"],
       "epg": "sky:3625",
-      "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/tnt-sports-1-uk.png"
+      "logo": "https:\/\/raw.githubusercontent.com\/tv-logo\/tv-logos\/main\/countries\/united-kingdom\/tnt-sports-1-uk.png"
     },
     {
       "number": 411,
       "name": "TNT Sports 2",
       "category": "Sport",
       "sky": "3627",
-      "channels": [
-        "UK: TNT SPORTS 2 HEVC 4K"
-      ],
+      "channels": ["UK: TNT SPORTS 2 HEVC 4K"],
       "epg": "sky:3627",
-      "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/tnt-sports-2-uk.png"
+      "logo": "https:\/\/raw.githubusercontent.com\/tv-logo\/tv-logos\/main\/countries\/united-kingdom\/tnt-sports-2-uk.png"
     },
     {
       "number": 412,
       "name": "TNT Sport Ultimate",
       "category": "Sport",
       "sky": "4022",
-      "channels": [
-        "UK: TNT SPORT ULTIMATE ᵁᴴᴰ ³⁸⁴⁰ᴾ"
-      ],
+      "channels": ["UK: TNT SPORT ULTIMATE ᵁᴴᴰ ³⁸⁴⁰ᴾ"],
       "epg": "",
-      "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/tnt-sports-ultimate-uk.png"
+      "logo": "https:\/\/raw.githubusercontent.com\/tv-logo\/tv-logos\/main\/countries\/united-kingdom\/tnt-sports-ultimate-uk.png"
     },
     {
       "number": 413,
       "name": "TNT Sports 3",
       "category": "Sport",
       "sky": "3629",
-      "channels": [
-        "UK: TNT SPORTS 3 HEVC 4K"
-      ],
+      "channels": ["UK: TNT SPORTS 3 HEVC 4K"],
       "epg": "sky:3629",
-      "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/tnt-sports-3-uk.png"
+      "logo": "https:\/\/raw.githubusercontent.com\/tv-logo\/tv-logos\/main\/countries\/united-kingdom\/tnt-sports-3-uk.png"
     },
     {
       "number": 414,
       "name": "TNT Sports 4",
       "category": "Sport",
       "sky": "4040",
-      "channels": [
-        "UK: TNT SPORTS 4 HEVC 4K"
-      ],
+      "channels": ["UK: TNT SPORTS 4 HEVC 4K"],
       "epg": "sky:4040",
-      "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/tnt-sports-4-uk.png"
+      "logo": "https:\/\/raw.githubusercontent.com\/tv-logo\/tv-logos\/main\/countries\/united-kingdom\/tnt-sports-4-uk.png"
     },
     {
       "number": 415,
       "name": "Sky Sports Racing",
       "category": "Sport",
       "sky": "4032",
-      "channels": [
-        "UK: SKY SPORTS RACING HEVC 4K"
-      ],
+      "channels": ["UK: SKY SPORTS RACING HEVC 4K"],
       "epg": "sky:4032",
-      "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-racing-uk.png"
+      "logo": "https:\/\/raw.githubusercontent.com\/tv-logo\/tv-logos\/main\/countries\/united-kingdom\/sky-sports-racing-uk.png"
     },
     {
       "number": 416,
       "name": "Sky Sports Mix",
       "category": "Sport",
       "sky": "4090",
-      "channels": [
-        "UK: SKY SPORTS MIX HEVC 4K"
-      ],
+      "channels": ["UK: SKY SPORTS MIX HEVC 4K"],
       "epg": "sky:4090",
-      "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-mix-uk.png"
+      "logo": "https:\/\/raw.githubusercontent.com\/tv-logo\/tv-logos\/main\/countries\/united-kingdom\/sky-sports-mix-uk.png"
     },
     {
       "number": 417,
       "name": "Sky Sports Action",
       "category": "Sport",
       "sky": null,
-      "channels": [
-        "UK: SKY SPORTS ACTION HEVC 4K"
-      ],
+      "channels": ["UK: SKY SPORTS ACTION HEVC 4K"],
       "epg": "sky:4022",
-      "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-action-uk.png"
+      "logo": "https:\/\/raw.githubusercontent.com\/tv-logo\/tv-logos\/main\/countries\/united-kingdom\/sky-sports-action-uk.png"
     },
     {
       "number": 418,
       "name": "MUTV",
       "category": "Sport",
       "sky": "1003",
-      "channels": [
-        "UK: MUTV ᴿᴬᵂ"
-      ],
+      "channels": ["UK: MUTV ᴿᴬᵂ"],
       "epg": "sky:1003",
-      "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/mutv-uk.png"
+      "logo": "https:\/\/raw.githubusercontent.com\/tv-logo\/tv-logos\/main\/countries\/united-kingdom\/mutv-uk.png"
     },
     {
       "number": 419,
       "name": "Premier Sport 1",
       "category": "Sport",
       "sky": "1289",
-      "channels": [
-        "VIP: PREMIER SPORT 1 ᴿᴬᵂ",
-        "UK: VIAPLAY SPORT 1 ᴿᴬᵂ",
-        "PRIME: PREMIER SPORTS 1 ᴿᴬᵂ"
-      ],
+      "channels": ["VIP: PREMIER SPORT 1 ᴿᴬᵂ", "UK: VIAPLAY SPORT 1 ᴿᴬᵂ", "PRIME: PREMIER SPORTS 1 ᴿᴬᵂ"],
       "epg": "sky:1289",
-      "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/premier-sports-1-uk.png"
+      "logo": "https:\/\/raw.githubusercontent.com\/tv-logo\/tv-logos\/main\/countries\/united-kingdom\/premier-sports-1-uk.png"
     },
     {
       "number": 420,
       "name": "Premier Sport 2",
       "category": "Sport",
       "sky": "1290",
-      "channels": [
-        "VIP: PREMIER SPORT 2 ᴿᴬᵂ",
-        "UK: VIAPLAY SPORTS 2 ᴿᴬᵂ",
-        "PRIME: PREMIER SPORTS 2 ᴿᴬᵂ"
-      ],
+      "channels": ["VIP: PREMIER SPORT 2 ᴿᴬᵂ", "UK: VIAPLAY SPORTS 2 ᴿᴬᵂ", "PRIME: PREMIER SPORTS 2 ᴿᴬᵂ"],
       "epg": "sky:1290",
-      "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/premier-sports-2-uk.png"
+      "logo": "https:\/\/raw.githubusercontent.com\/tv-logo\/tv-logos\/main\/countries\/united-kingdom\/premier-sports-2-uk.png"
     },
     {
       "number": 421,
       "name": "Premier Sports 1 Ireland",
       "category": "Sport",
       "sky": null,
-      "channels": [
-        "UK: PREMIER SPORTS 1 IRELAND HEVC 4K"
-      ],
+      "channels": ["UK: PREMIER SPORTS 1 IRELAND HEVC 4K"],
       "epg": "PremierSports1.ie",
-      "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/premier-sports-1-uk.png"
+      "logo": "https:\/\/raw.githubusercontent.com\/tv-logo\/tv-logos\/main\/countries\/united-kingdom\/premier-sports-1-uk.png"
     },
     {
       "number": 422,
       "name": "Premier Sports 2 Ireland",
       "category": "Sport",
       "sky": null,
-      "channels": [
-        "UK: PREMIER SPORTS 2 IRELAND HEVC 4K"
-      ],
+      "channels": ["UK: PREMIER SPORTS 2 IRELAND HEVC 4K"],
       "epg": "PremierSports2.ie",
-      "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/premier-sports-2-uk.png"
+      "logo": "https:\/\/raw.githubusercontent.com\/tv-logo\/tv-logos\/main\/countries\/united-kingdom\/premier-sports-2-uk.png"
     },
     {
       "number": 423,
       "name": "LFC TV ◉",
-      "category": "",
+      "category": "Sport",
       "sky": "3845",
-      "channels": [
-        "UK: LFC TV ᴴᴰ ◉"
-      ],
+      "channels": ["UK: LFC TV ᴴᴰ ◉"],
       "epg": "sky:3845",
-      "logo": ""
+      "logo": "https:\/\/raw.githubusercontent.com\/tv-logo\/tv-logos\/main\/countries\/united-kingdom\/lfctv-uk.png"
     },
     {
       "number": 424,
       "name": "Racing TV",
       "category": "Sport",
       "sky": "5272",
-      "channels": [
-        "VIP: RACING TV ᴴᴰ",
-        "UK: RACING ᴿᴬᵂ"
-      ],
+      "channels": ["VIP: RACING TV ᴴᴰ", "UK: RACING ᴿᴬᵂ"],
       "epg": "sky:5272",
-      "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/racing-tv-uk.png"
+      "logo": "https:\/\/raw.githubusercontent.com\/tv-logo\/tv-logos\/main\/countries\/united-kingdom\/racing-tv-uk.png"
     },
     {
       "number": 490,
       "name": "TNT Sports Box Office",
       "category": "Sport",
       "sky": "1210",
-      "channels": [
-        "UK: TNT SPORTS BOX OFFICE 4K"
-      ],
+      "channels": ["UK: TNT SPORTS BOX OFFICE 4K"],
       "epg": "sky:1210",
-      "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/tnt-sports-box-office-uk.png"
+      "logo": "https:\/\/raw.githubusercontent.com\/tv-logo\/tv-logos\/main\/countries\/united-kingdom\/tnt-sports-box-office-uk.png"
     },
     {
       "number": 491,
       "name": "Sky Sports Box Office",
       "category": "Sport",
       "sky": "1035",
-      "channels": [
-        "VIP: SKY SPORTS BOX OFFICE ᴿᴬᵂ ᴿᴬᵂ"
-      ],
+      "channels": ["VIP: SKY SPORTS BOX OFFICE ᴿᴬᵂ ᴿᴬᵂ"],
       "epg": "sky:1035",
-      "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-box-office-uk.png"
+      "logo": "https:\/\/raw.githubusercontent.com\/tv-logo\/tv-logos\/main\/countries\/united-kingdom\/sky-sports-box-office-uk.png"
     },
     {
       "number": 494,
@@ -1685,20 +1410,16 @@
       "name": "Sky News",
       "category": "News",
       "sky": "4050",
-      "channels": [
-        "UK: SKY NEWS HEVC 4K"
-      ],
+      "channels": ["UK: SKY NEWS HEVC 4K"],
       "epg": "sky:4050",
-      "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-news-uk.png"
+      "logo": "https:\/\/raw.githubusercontent.com\/tv-logo\/tv-logos\/main\/countries\/united-kingdom\/sky-news-uk.png"
     },
     {
       "number": 502,
       "name": "Bloomberg",
       "category": "News",
       "sky": "1074",
-      "channels": [
-        "UK: BLOOMBERG HEVC 4K"
-      ],
+      "channels": ["UK: BLOOMBERG HEVC 4K"],
       "epg": "sky:1074",
       "logo": ""
     },
@@ -1707,20 +1428,16 @@
       "name": "BBC News",
       "category": "News",
       "sky": "2085",
-      "channels": [
-        "UK: BBC NEWS HEVC 4K"
-      ],
+      "channels": ["UK: BBC NEWS HEVC 4K"],
       "epg": "sky:2085",
-      "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-news-uk.png"
+      "logo": "https:\/\/raw.githubusercontent.com\/tv-logo\/tv-logos\/main\/countries\/united-kingdom\/bbc-news-uk.png"
     },
     {
       "number": 504,
       "name": "BBC Parlament ◉",
       "category": "News",
       "sky": "3020",
-      "channels": [
-        "UK: BBC PARLAMENT ◉"
-      ],
+      "channels": ["UK: BBC PARLAMENT ◉", "UK: BBC PARLIAMENT ᴿᴬᵂ"],
       "epg": "sky:3020",
       "logo": ""
     },
@@ -1729,11 +1446,9 @@
       "name": "CNBC ◉",
       "category": "News",
       "sky": "1088",
-      "channels": [
-        "UK: CNBC ◉"
-      ],
+      "channels": ["UK: CNBC ◉"],
       "epg": "sky:1088",
-      "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-europe/cnbc-eu.png"
+      "logo": "https:\/\/raw.githubusercontent.com\/tv-logo\/tv-logos\/main\/countries\/world-europe\/cnbc-eu.png"
     },
     {
       "number": 506,
@@ -1758,11 +1473,9 @@
       "name": "Euronews ◉",
       "category": "News",
       "sky": "4604",
-      "channels": [
-        "UK: EURONEWS ◉"
-      ],
+      "channels": ["UK: EURONEWS ◉"],
       "epg": "sky:4604",
-      "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/euro-news-int.png"
+      "logo": "https:\/\/raw.githubusercontent.com\/tv-logo\/tv-logos\/main\/countries\/international\/euro-news-int.png"
     },
     {
       "number": 509,
@@ -1776,46 +1489,38 @@
     {
       "number": 510,
       "name": "France 24 ◉",
-      "category": "",
+      "category": "News",
       "sky": "1121",
-      "channels": [
-        "UK: FRANCE 24 ◉"
-      ],
+      "channels": ["UK: FRANCE 24 ◉"],
       "epg": "sky:1121",
-      "logo": ""
+      "logo": "https:\/\/raw.githubusercontent.com\/tv-logo\/tv-logos\/main\/countries\/international\/france-24-int.png"
     },
     {
       "number": 511,
       "name": "Al Jazeera ◉",
-      "category": "",
+      "category": "News",
       "sky": "1023",
-      "channels": [
-        "UK: AL JAZEERA EN HD ◉"
-      ],
+      "channels": ["UK: AL JAZEERA EN HD ◉"],
       "epg": "sky:1023",
-      "logo": ""
+      "logo": "https:\/\/raw.githubusercontent.com\/tv-logo\/tv-logos\/main\/countries\/united-kingdom\/aljazeera-uk.png"
     },
     {
       "number": 512,
       "name": "GB News ◉",
-      "category": "",
+      "category": "News",
       "sky": "1196",
-      "channels": [
-        "UK: GB NEWS 4K ◉"
-      ],
+      "channels": ["UK: GB NEWS 4K ◉"],
       "epg": "sky:1196",
-      "logo": ""
+      "logo": "https:\/\/raw.githubusercontent.com\/tv-logo\/tv-logos\/main\/countries\/united-kingdom\/gb-news-uk.png"
     },
     {
       "number": 513,
       "name": "TRT World ◉",
-      "category": "",
+      "category": "News",
       "sky": "5071",
-      "channels": [
-        "UK: TRT WORLD ◉"
-      ],
+      "channels": ["UK: TRT WORLD ◉"],
       "epg": "sky:5071",
-      "logo": ""
+      "logo": "https:\/\/raw.githubusercontent.com\/tv-logo\/tv-logos\/main\/countries\/turkey\/trt-world-tr.png"
     },
     {
       "number": 515,
@@ -1831,11 +1536,9 @@
       "name": "Arise News ◉",
       "category": "News",
       "sky": "5040",
-      "channels": [
-        "UK: ARISE NEWS ◉"
-      ],
+      "channels": ["UK: ARISE NEWS ◉"],
       "epg": "sky:5040",
-      "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/arise-news-uk.png"
+      "logo": "https:\/\/raw.githubusercontent.com\/tv-logo\/tv-logos\/main\/countries\/united-kingdom\/arise-news-uk.png"
     },
     {
       "number": 518,
@@ -1851,11 +1554,9 @@
       "name": "TVC News ◉",
       "category": "News",
       "sky": "5882",
-      "channels": [
-        "UK: TVC NEWS ◉"
-      ],
+      "channels": ["UK: TVC NEWS ◉"],
       "epg": "sky:5882",
-      "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-africa/tvc-news-afr.png"
+      "logo": "https:\/\/raw.githubusercontent.com\/tv-logo\/tv-logos\/main\/countries\/world-africa\/tvc-news-afr.png"
     },
     {
       "number": 521,
@@ -1878,13 +1579,11 @@
     {
       "number": 580,
       "name": "God Channel ◉",
-      "category": "",
+      "category": "Entertainment",
       "sky": "3105",
-      "channels": [
-        "UK: GOD CHANNEL ◉"
-      ],
+      "channels": ["UK: GOD CHANNEL ◉"],
       "epg": "sky:3105",
-      "logo": ""
+      "logo": "https:\/\/raw.githubusercontent.com\/tv-logo\/tv-logos\/main\/countries\/international\/god-channel-int.png"
     },
     {
       "number": 581,
@@ -1907,24 +1606,20 @@
     {
       "number": 583,
       "name": "Daystar ◉",
-      "category": "",
+      "category": "Entertainment",
       "sky": "5541",
-      "channels": [
-        "UK: DAYSTAR HD ◉"
-      ],
+      "channels": ["UK: DAYSTAR HD ◉"],
       "epg": "sky:5541",
-      "logo": ""
+      "logo": "https:\/\/raw.githubusercontent.com\/tv-logo\/tv-logos\/main\/countries\/australia\/daystar-au.png"
     },
     {
       "number": 585,
       "name": "Love World ◉",
       "category": "Entertainment",
       "sky": "1228",
-      "channels": [
-        "UK: LOVE WORLD 4K ◉"
-      ],
+      "channels": ["UK: LOVE WORLD 4K ◉"],
       "epg": "sky:1228",
-      "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/loveworld-uk.png"
+      "logo": "https:\/\/raw.githubusercontent.com\/tv-logo\/tv-logos\/main\/countries\/united-kingdom\/loveworld-uk.png"
     },
     {
       "number": 586,
@@ -1949,9 +1644,7 @@
       "name": "Son Life",
       "category": "Music",
       "sky": "3392",
-      "channels": [
-        "UK: SON LIFE"
-      ],
+      "channels": ["UK: SON LIFE"],
       "epg": "sky:3392",
       "logo": ""
     },
@@ -1960,11 +1653,9 @@
       "name": "Cartoon Network",
       "category": "Kids",
       "sky": "4077",
-      "channels": [
-        "UK: CARTOON NETWORK 4K"
-      ],
+      "channels": ["UK: CARTOON NETWORK 4K"],
       "epg": "sky:4077",
-      "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/cartoon-network-uk.png"
+      "logo": "https:\/\/raw.githubusercontent.com\/tv-logo\/tv-logos\/main\/countries\/united-kingdom\/cartoon-network-uk.png"
     },
     {
       "number": 602,
@@ -1980,63 +1671,52 @@
       "name": "Boomerang",
       "category": "Kids",
       "sky": "5609",
-      "channels": [
-        "UK: BOOMERANG HEVC 4K"
-      ],
+      "channels": ["UK: BOOMERANG HEVC 4K"],
       "epg": "sky:5609",
-      "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/boomerang-uk.png"
+      "logo": "https:\/\/raw.githubusercontent.com\/tv-logo\/tv-logos\/main\/countries\/united-kingdom\/boomerang-uk.png"
     },
     {
       "number": 604,
       "name": "Nickelodeon",
       "category": "Kids",
       "sky": "4069",
-      "channels": [
-        "UK: NICKELODEON 4K"
-      ],
+      "channels": ["UK: NICKELODEON 4K"],
       "epg": "sky:4069",
-      "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/nickelodeon-uk.png"
+      "logo": "https:\/\/raw.githubusercontent.com\/tv-logo\/tv-logos\/main\/countries\/united-kingdom\/nickelodeon-uk.png"
     },
     {
       "number": 605,
-      "name": "Nick Alvinnn!!!",
-      "category": "",
+      "name": "Nicktoons",
+      "category": "Kids",
       "sky": "1849",
-      "channels": [],
+      "channels": ["NOW: NICKTOONS ᴿᴬᵂ"],
       "epg": "sky:1849",
-      "logo": ""
+      "logo": "https:\/\/raw.githubusercontent.com\/tv-logo\/tv-logos\/main\/countries\/united-kingdom\/nick-toons-uk.png"
     },
     {
       "number": 606,
       "name": "Nick Junior",
       "category": "Kids",
       "sky": "4039",
-      "channels": [
-        "UK: NICK JUNIOR",
-        "UK: NICK JR HEVC 4K"
-      ],
+      "channels": ["UK: NICK JUNIOR", "UK: NICK JR HEVC 4K"],
       "epg": "sky:4039",
-      "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/nick-uk.png"
+      "logo": "https:\/\/raw.githubusercontent.com\/tv-logo\/tv-logos\/main\/countries\/united-kingdom\/nick-uk.png"
     },
     {
       "number": 607,
       "name": "CBBC ◉",
       "category": "Kids",
       "sky": "2078",
-      "channels": [
-        "UK: CBBC 4K ◉"
-      ],
+      "channels": ["UK: CBBC 4K ◉"],
       "epg": "sky:2078",
       "logo": ""
     },
     {
       "number": 608,
       "name": "CBeebies",
-      "category": "",
+      "category": "Kids",
       "sky": "2088",
-      "channels": [
-        "UK: BBC CBEEBIES ᴿᴬᵂ"
-      ],
+      "channels": ["UK: BBC CBEEBIES ᴿᴬᵂ"],
       "epg": "sky:2088",
       "logo": ""
     },
@@ -2045,22 +1725,18 @@
       "name": "Sky Kids",
       "category": "Kids",
       "sky": "1147",
-      "channels": [
-        "UK: SKY KIDS 4K"
-      ],
+      "channels": ["UK: SKY KIDS 4K"],
       "epg": "sky:1147",
-      "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-kids-uk.png"
+      "logo": "https:\/\/raw.githubusercontent.com\/tv-logo\/tv-logos\/main\/countries\/united-kingdom\/sky-kids-uk.png"
     },
     {
       "number": 610,
       "name": "Cartoonito",
       "category": "Kids",
       "sky": "1371",
-      "channels": [
-        "UK: CARTOONITO"
-      ],
+      "channels": ["UK: CARTOONITO"],
       "epg": "sky:1371",
-      "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/cartoonito-uk.png"
+      "logo": "https:\/\/raw.githubusercontent.com\/tv-logo\/tv-logos\/main\/countries\/united-kingdom\/cartoonito-uk.png"
     },
     {
       "number": 611,
@@ -2076,21 +1752,16 @@
       "name": "Nick Junior Too",
       "category": "Kids",
       "sky": "4340",
-      "channels": [
-        "UK: NICK JUNIOR TOO"
-      ],
+      "channels": ["UK: NICK JUNIOR TOO"],
       "epg": "sky:4340",
-      "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/nick-uk.png"
+      "logo": "https:\/\/raw.githubusercontent.com\/tv-logo\/tv-logos\/main\/countries\/united-kingdom\/nick-uk.png"
     },
     {
       "number": 613,
       "name": "Disney Junior",
       "category": "Kids",
       "sky": "1183",
-      "channels": [
-        "UK: DISNEY JUNIOR 4K",
-        "UK: DISNEY JR HD"
-      ],
+      "channels": ["UK: DISNEY JUNIOR 4K", "UK: DISNEY JR HD"],
       "epg": "sky:1183",
       "logo": ""
     },
@@ -2099,9 +1770,7 @@
       "name": "Nickelodeon +1",
       "category": "Kids",
       "sky": "1845",
-      "channels": [
-        "UK: NICKELODEON +1"
-      ],
+      "channels": ["UK: NICKELODEON +1"],
       "epg": "sky:1845",
       "logo": ""
     },
@@ -2110,9 +1779,7 @@
       "name": "Nick Junior +1",
       "category": "Kids",
       "sky": "5089",
-      "channels": [
-        "UK: NICK JUNIOR +1"
-      ],
+      "channels": ["UK: NICK JUNIOR +1"],
       "epg": "sky:5089",
       "logo": ""
     },
@@ -2121,21 +1788,18 @@
       "name": "Baby TV",
       "category": "Kids",
       "sky": "3645",
-      "channels": [
-        "UK: BABY TV 4K",
-        "UK; Baby TV HEVC 4K"
-      ],
+      "channels": ["UK: BABY TV 4K", "UK; Baby TV HEVC 4K"],
       "epg": "sky:3645",
-      "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/baby-tv-uk.png"
+      "logo": "https:\/\/raw.githubusercontent.com\/tv-logo\/tv-logos\/main\/countries\/united-kingdom\/baby-tv-uk.png"
     },
     {
       "number": 640,
-      "name": "Cartoon Netwrk",
-      "category": "",
+      "name": "CNN ◉",
+      "category": "Kids",
       "sky": "5601",
-      "channels": [],
+      "channels": ["UK: CNN 4K ◉"],
       "epg": "sky:5601",
-      "logo": ""
+      "logo": "https:\/\/raw.githubusercontent.com\/tv-logo\/tv-logos\/main\/countries\/united-states\/cnn-us.png"
     },
     {
       "number": 642,
@@ -2151,9 +1815,7 @@
       "name": "QVC UK ◉",
       "category": "Shopping",
       "sky": "1076",
-      "channels": [
-        "UK: QVC UK ◉"
-      ],
+      "channels": ["UK: QVC UK ◉"],
       "epg": "sky:1076",
       "logo": ""
     },
@@ -2171,9 +1833,7 @@
       "name": "TJC ◉",
       "category": "Shopping",
       "sky": "1113",
-      "channels": [
-        "UK: TJC ◉"
-      ],
+      "channels": ["UK: TJC ◉"],
       "epg": "sky:1113",
       "logo": ""
     },
@@ -2182,22 +1842,18 @@
       "name": "QVC Beauty ◉",
       "category": "Shopping",
       "sky": "4105",
-      "channels": [
-        "UK: QVC BEAUTY ◉"
-      ],
+      "channels": ["UK: QVC BEAUTY ◉"],
       "epg": "sky:4105",
-      "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/qvc-beauty-uk.png"
+      "logo": "https:\/\/raw.githubusercontent.com\/tv-logo\/tv-logos\/main\/countries\/united-kingdom\/qvc-beauty-uk.png"
     },
     {
       "number": 664,
       "name": "QVC Style ◉",
       "category": "Shopping",
       "sky": "1118",
-      "channels": [
-        "UK: QVC STYLE ◉"
-      ],
+      "channels": ["UK: QVC STYLE ◉"],
       "epg": "sky:1118",
-      "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/qvc-style-uk.png"
+      "logo": "https:\/\/raw.githubusercontent.com\/tv-logo\/tv-logos\/main\/countries\/united-kingdom\/qvc-style-uk.png"
     },
     {
       "number": 665,
@@ -2213,53 +1869,43 @@
       "name": "High Street TV 1 ◉",
       "category": "Entertainment",
       "sky": "3580",
-      "channels": [
-        "UK: HIGH STREET TV 1 ◉"
-      ],
+      "channels": ["UK: HIGH STREET TV 1 ◉"],
       "epg": "sky:3580",
-      "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/high-street-tv-uk.png"
+      "logo": "https:\/\/raw.githubusercontent.com\/tv-logo\/tv-logos\/main\/countries\/united-kingdom\/high-street-tv-uk.png"
     },
     {
       "number": 667,
       "name": "High Street TV 2 ◉",
       "category": "Entertainment",
       "sky": "5706",
-      "channels": [
-        "UK: HIGH STREET TV 2 ◉"
-      ],
+      "channels": ["UK: HIGH STREET TV 2 ◉"],
       "epg": "sky:5706",
-      "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/high-street-tv-uk.png"
+      "logo": "https:\/\/raw.githubusercontent.com\/tv-logo\/tv-logos\/main\/countries\/united-kingdom\/high-street-tv-uk.png"
     },
     {
       "number": 668,
       "name": "Ideal World ◉",
       "category": "Shopping",
       "sky": "1101",
-      "channels": [
-        "UK: IDEAL WORLD 4K ◉"
-      ],
+      "channels": ["UK: IDEAL WORLD 4K ◉"],
       "epg": "sky:1101",
-      "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/ideal-world-uk.png"
+      "logo": "https:\/\/raw.githubusercontent.com\/tv-logo\/tv-logos\/main\/countries\/united-kingdom\/ideal-world-uk.png"
     },
     {
       "number": 669,
       "name": "Best Direct ◉",
       "category": "Entertainment",
       "sky": "4100",
-      "channels": [
-        "UK: BEST DIRECT ◉"
-      ],
+      "channels": ["UK: BEST DIRECT ◉"],
       "epg": "sky:4100",
-      "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/best-direct-uk.png"
+      "logo": "https:\/\/raw.githubusercontent.com\/tv-logo\/tv-logos\/main\/countries\/united-kingdom\/best-direct-uk.png"
     },
     {
       "number": 670,
       "name": "Hobby Maker ◉",
-      "category": "",
+      "category": "Entertainment",
       "sky": "1169",
-      "channels": [
-        "UK: HOBBY MAKER ◉"
-      ],
+      "channels": ["UK: HOBBY MAKER ◉"],
       "epg": "sky:1169",
       "logo": ""
     },
@@ -2277,22 +1923,18 @@
       "name": "High Street TV 3 ◉",
       "category": "Entertainment",
       "sky": "3404",
-      "channels": [
-        "UK: HIGH STREET TV 3 ◉"
-      ],
+      "channels": ["UK: HIGH STREET TV 3 ◉"],
       "epg": "sky:3404",
-      "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/high-street-tv-uk.png"
+      "logo": "https:\/\/raw.githubusercontent.com\/tv-logo\/tv-logos\/main\/countries\/united-kingdom\/high-street-tv-uk.png"
     },
     {
       "number": 673,
       "name": "TV Warehouse ◉",
       "category": "Entertainment",
       "sky": "3632",
-      "channels": [
-        "UK: TV WAREHOUSE ◉"
-      ],
+      "channels": ["UK: TV WAREHOUSE ◉"],
       "epg": "sky:3632",
-      "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/tv-warehouse-uk.png"
+      "logo": "https:\/\/raw.githubusercontent.com\/tv-logo\/tv-logos\/main\/countries\/united-kingdom\/tv-warehouse-uk.png"
     },
     {
       "number": 674,
@@ -2308,11 +1950,9 @@
       "name": "Cruise 1ST TV",
       "category": "News",
       "sky": "1018",
-      "channels": [
-        "UK: CRUISE 1ST  TV"
-      ],
+      "channels": ["UK: CRUISE 1ST  TV"],
       "epg": "sky:1018",
-      "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/cruise-1st-tv-uk.png"
+      "logo": "https:\/\/raw.githubusercontent.com\/tv-logo\/tv-logos\/main\/countries\/united-kingdom\/cruise-1st-tv-uk.png"
     },
     {
       "number": 701,
@@ -2749,11 +2389,9 @@
     {
       "number": 779,
       "name": "ATN ◉",
-      "category": "",
+      "category": "Entertainment",
       "sky": "6753",
-      "channels": [
-        "UK: ATN ◉"
-      ],
+      "channels": ["UK: ATN ◉"],
       "epg": "sky:6753",
       "logo": ""
     },
@@ -2913,137 +2551,110 @@
     {
       "number": 952,
       "name": "BBC One North East",
-      "category": "",
+      "category": "Entertainment",
       "sky": "3009",
-      "channels": [
-        "UK: BBC ONE NORTH EAST & CUMBRIA ᴿᴬᵂ",
-        "UK: BBC ONE NORTH EAST& CAM ◉"
-      ],
+      "channels": ["UK: BBC ONE NORTH EAST & CUMBRIA ᴿᴬᵂ", "UK: BBC ONE NORTH EAST& CAM ◉"],
       "epg": "sky:3009",
-      "logo": ""
+      "logo": "https:\/\/raw.githubusercontent.com\/tv-logo\/tv-logos\/main\/countries\/united-kingdom\/bbc-one-uk.png"
     },
     {
       "number": 953,
       "name": "BBC One North West ◉",
-      "category": "",
+      "category": "Entertainment",
       "sky": "3007",
-      "channels": [
-        "UK: BBC ONE NORTH WEST ◉"
-      ],
+      "channels": ["UK: BBC ONE NORTH WEST ◉"],
       "epg": "sky:3007",
-      "logo": ""
+      "logo": "https:\/\/raw.githubusercontent.com\/tv-logo\/tv-logos\/main\/countries\/united-kingdom\/bbc-one-uk.png"
     },
     {
       "number": 954,
       "name": "BBC One Yorkshire ◉",
-      "category": "",
+      "category": "Entertainment",
       "sky": "3017",
-      "channels": [
-        "UK: BBC ONE YORKS ◉"
-      ],
+      "channels": ["UK: BBC ONE YORKS ◉"],
       "epg": "sky:3017",
-      "logo": ""
+      "logo": "https:\/\/raw.githubusercontent.com\/tv-logo\/tv-logos\/main\/countries\/united-kingdom\/bbc-one-uk.png"
     },
     {
       "number": 955,
       "name": "BBC One Yorks & Lincs ◉",
-      "category": "",
+      "category": "Entertainment",
       "sky": "3004",
-      "channels": [
-        "UK: BBC ONE YK LI ◉",
-        "UK: BBC ONE EAST YORKSHIRE & LINCOLNSHIRE ᴿᴬᵂ"
-      ],
+      "channels": ["UK: BBC ONE YK LI ◉", "UK: BBC ONE EAST YORKSHIRE & LINCOLNSHIRE ᴿᴬᵂ"],
       "epg": "sky:3004",
-      "logo": ""
+      "logo": "https:\/\/raw.githubusercontent.com\/tv-logo\/tv-logos\/main\/countries\/united-kingdom\/bbc-one-uk.png"
     },
     {
       "number": 956,
       "name": "BBC One West Midlands ◉",
-      "category": "",
+      "category": "Entertainment",
       "sky": "3003",
-      "channels": [
-        "UK: BBC ONE WEST MIDLANDS ◉"
-      ],
+      "channels": ["UK: BBC ONE WEST MIDLANDS ◉"],
       "epg": "sky:3003",
-      "logo": ""
+      "logo": "https:\/\/raw.githubusercontent.com\/tv-logo\/tv-logos\/main\/countries\/united-kingdom\/bbc-one-uk.png"
     },
     {
       "number": 957,
       "name": "BBC One East Midlands ◉",
-      "category": "",
+      "category": "Entertainment",
       "sky": "3005",
-      "channels": [
-        "UK: BBC ONE EAST MIDLANDS ◉"
-      ],
+      "channels": ["UK: BBC ONE EAST MIDLANDS ◉"],
       "epg": "sky:3005",
-      "logo": ""
+      "logo": "https:\/\/raw.githubusercontent.com\/tv-logo\/tv-logos\/main\/countries\/united-kingdom\/bbc-one-uk.png"
     },
     {
       "number": 958,
       "name": "BBC One East",
-      "category": "",
+      "category": "Entertainment",
       "sky": "3006",
-      "channels": [
-        "UK: BBC ONE EAST ᴿᴬᵂ"
-      ],
+      "channels": ["UK: BBC ONE EAST ᴿᴬᵂ"],
       "epg": "sky:3006",
-      "logo": ""
+      "logo": "https:\/\/raw.githubusercontent.com\/tv-logo\/tv-logos\/main\/countries\/united-kingdom\/bbc-one-uk.png"
     },
     {
       "number": 959,
       "name": "BBC One South East ◉",
-      "category": "",
+      "category": "Entertainment",
       "sky": "3008",
-      "channels": [
-        "UK: BBC ONE SOUTH EAST ◉"
-      ],
+      "channels": ["UK: BBC ONE SOUTH EAST ◉"],
       "epg": "sky:3008",
-      "logo": ""
+      "logo": "https:\/\/raw.githubusercontent.com\/tv-logo\/tv-logos\/main\/countries\/united-kingdom\/bbc-one-uk.png"
     },
     {
       "number": 960,
       "name": "BBC One West ◉",
-      "category": "",
+      "category": "Entertainment",
       "sky": "3001",
-      "channels": [
-        "UK: BBC ONE WEST ◉"
-      ],
+      "channels": ["UK: BBC ONE WEST ◉"],
       "epg": "sky:3001",
-      "logo": ""
+      "logo": "https:\/\/raw.githubusercontent.com\/tv-logo\/tv-logos\/main\/countries\/united-kingdom\/bbc-one-uk.png"
     },
     {
       "number": 961,
       "name": "BBC One South",
-      "category": "",
+      "category": "Entertainment",
       "sky": "3011",
-      "channels": [
-        "UK: BBC ONE SOUTH ᴿᴬᵂ"
-      ],
+      "channels": ["UK: BBC ONE SOUTH ᴿᴬᵂ"],
       "epg": "sky:3011",
-      "logo": ""
+      "logo": "https:\/\/raw.githubusercontent.com\/tv-logo\/tv-logos\/main\/countries\/united-kingdom\/bbc-one-uk.png"
     },
     {
       "number": 962,
       "name": "BBC One South West ◉",
-      "category": "",
+      "category": "Entertainment",
       "sky": "3014",
-      "channels": [
-        "UK: BBC ONE SOUTH WEST ◉"
-      ],
+      "channels": ["UK: BBC ONE SOUTH WEST ◉"],
       "epg": "sky:3014",
-      "logo": ""
+      "logo": "https:\/\/raw.githubusercontent.com\/tv-logo\/tv-logos\/main\/countries\/united-kingdom\/bbc-one-uk.png"
     },
     {
       "number": 963,
       "name": "BBC One Channel Islands ◉",
-      "category": "",
+      "category": "Entertainment",
       "sky": "3018",
-      "channels": [
-        "UK: BBC ONE CHANNEL ISLAND ◉",
-        "UK: BBC ONE CHANNEL ISLANDS ᴿᴬᵂ"
-      ],
+      "channels": ["UK: BBC ONE CHANNEL ISLAND ◉", "UK: BBC ONE CHANNEL ISLANDS ᴿᴬᵂ"],
       "epg": "sky:3018",
-      "logo": ""
+      "logo": "https:\/\/raw.githubusercontent.com\/tv-logo\/tv-logos\/main\/countries\/united-kingdom\/bbc-one-uk.png"
     },
     {
       "number": 964,
@@ -3057,47 +2668,38 @@
     {
       "number": 965,
       "name": "BBC One Wales ◉",
-      "category": "",
+      "category": "Entertainment",
       "sky": "2083",
-      "channels": [
-        "UK: BBC ONE WALES HD ◉"
-      ],
+      "channels": ["UK: BBC ONE WALES HD ◉"],
       "epg": "sky:2083",
-      "logo": ""
+      "logo": "https:\/\/raw.githubusercontent.com\/tv-logo\/tv-logos\/main\/countries\/united-kingdom\/bbc-one-wales-uk.png"
     },
     {
       "number": 966,
       "name": "BBC One Northern Ireland ◉",
-      "category": "",
+      "category": "Entertainment",
       "sky": "2081",
-      "channels": [
-        "UK: BBC ONE NI HD ◉"
-      ],
+      "channels": ["UK: BBC ONE NI HD ◉"],
       "epg": "sky:2081",
-      "logo": ""
+      "logo": "https:\/\/raw.githubusercontent.com\/tv-logo\/tv-logos\/main\/countries\/united-kingdom\/bbc-one-northern-ireland-uk.png"
     },
     {
       "number": 968,
       "name": "BBC Two Wales ◉",
-      "category": "",
+      "category": "Entertainment",
       "sky": "3015",
-      "channels": [
-        "UK: BBC TWO WALES HD ◉"
-      ],
+      "channels": ["UK: BBC TWO WALES HD ◉"],
       "epg": "sky:3015",
-      "logo": ""
+      "logo": "https:\/\/raw.githubusercontent.com\/tv-logo\/tv-logos\/main\/countries\/united-kingdom\/bbc-two-wales-uk.png"
     },
     {
       "number": 969,
       "name": "BBC Two Northern Ireland",
-      "category": "",
+      "category": "Entertainment",
       "sky": "3019",
-      "channels": [
-        "UK: BBC TWO NI ᴿᴬᵂ",
-        "UK: BBC TWO NORTHERN IRELAND ◉"
-      ],
+      "channels": ["UK: BBC TWO NI ᴿᴬᵂ", "UK: BBC TWO NORTHERN IRELAND ◉"],
       "epg": "sky:3019",
-      "logo": ""
+      "logo": "https:\/\/raw.githubusercontent.com\/tv-logo\/tv-logos\/main\/countries\/united-kingdom\/bbc-two-northern-ireland-uk.png"
     },
     {
       "number": 970,
@@ -3119,91 +2721,57 @@
     },
     {
       "number": null,
-      "name": "BBC Parliament",
-      "category": "News",
-      "sky": null,
-      "channels": [
-        "UK: BBC PARLIAMENT ᴿᴬᵂ"
-      ],
-      "epg": "sky:3020",
-      "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-parliament-uk.png"
-    },
-    {
-      "number": null,
-      "name": "Comedy Cent XTRA+1 ◉",
+      "name": "BBC Two Scotland ◉",
       "category": "Entertainment",
-      "sky": null,
-      "channels": [
-        "UK: COMEDY CENT XTRA+1 ◉"
-      ],
-      "epg": "ComedyCentral.uk",
-      "logo": ""
-    },
-    {
-      "number": null,
-      "name": "ID",
-      "category": "Entertainment",
-      "sky": null,
-      "channels": [
-        "UK: ID"
-      ],
-      "epg": "",
-      "logo": ""
-    },
-    {
-      "number": null,
-      "name": "MTV 90s",
-      "category": "Music",
-      "sky": null,
-      "channels": [
-        "UK: MTV 90s"
-      ],
-      "epg": "MTV90s.uk",
-      "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/mtv-90s-uk.png"
+      "sky": "2075",
+      "channels": [],
+      "epg": "BBC2.uk",
+      "logo": "https:\/\/raw.githubusercontent.com\/tv-logo\/tv-logos\/main\/countries\/united-kingdom\/bbc-two-uk.png"
     },
     {
       "number": null,
       "name": "Sky Cinema Comedy",
       "category": "Movies",
       "sky": null,
-      "channels": [
-        "UK: SKY CINEMA COMEDY 4K"
-      ],
+      "channels": ["UK: SKY CINEMA COMEDY 4K"],
       "epg": "sky:4019",
-      "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-cinema-comedy-uk.png"
+      "logo": "https:\/\/raw.githubusercontent.com\/tv-logo\/tv-logos\/main\/countries\/united-kingdom\/sky-cinema-comedy-uk.png"
     },
     {
       "number": null,
-      "name": "Sky Max",
-      "category": "Entertainment",
+      "name": "Sky Sports 1",
+      "category": "Sport",
       "sky": null,
-      "channels": [
-        "UK: SKY MAX 4K"
-      ],
-      "epg": "SkyMax.uk",
-      "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-max-uk.png"
+      "channels": ["UK: SKY SPORTS 1 ᵁᴴᴰ ³⁸⁴⁰ᴾ", "VIP: SKY SPORTS 1 ⁴ᵏ & ³⁸⁴⁰ᴾ"],
+      "epg": "sport1.cz",
+      "logo": "https:\/\/raw.githubusercontent.com\/tv-logo\/tv-logos\/main\/countries\/new-zealand\/sky-sport-1-nz.png"
     },
     {
       "number": null,
-      "name": "STV ◉",
-      "category": "Entertainment",
+      "name": "Sky Sports 2",
+      "category": "Sport",
       "sky": null,
-      "channels": [
-        "UK: STV 4K ◉"
-      ],
-      "epg": "STV.uk",
-      "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/stv-uk.png"
+      "channels": ["UK: SKY SPORTS 2 ᵁᴴᴰ ³⁸⁴⁰ᴾ", "VIP: SKY SPORTS 2 ⁴ᵏ & ³⁸⁴⁰ᴾ"],
+      "epg": "sport2.cz",
+      "logo": "https:\/\/raw.githubusercontent.com\/tv-logo\/tv-logos\/main\/countries\/new-zealand\/sky-sport-2-nz.png"
     },
     {
       "number": null,
-      "name": "That's 60s",
-      "category": "Music",
+      "name": "TNT Sports Ultimate &",
+      "category": "Sport",
       "sky": null,
-      "channels": [
-        "UK:  That's 60s"
-      ],
+      "channels": ["VIP: TNT SPORTS ULTIMATE ⁴ᵏ & ³⁸⁴⁰ᴾ"],
       "epg": "",
-      "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/thats-60s-uk.png"
+      "logo": "https:\/\/raw.githubusercontent.com\/tv-logo\/tv-logos\/main\/countries\/united-kingdom\/tnt-sports-ultimate-uk.png"
+    },
+    {
+      "number": null,
+      "name": "Watch +1 ◉",
+      "category": "Entertainment",
+      "sky": null,
+      "channels": ["UK: WATCH +1 ◉"],
+      "epg": "sky:2616",
+      "logo": ""
     }
   ]
 }

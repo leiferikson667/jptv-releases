@@ -1867,7 +1867,7 @@
     {
       "number": 666,
       "name": "High Street TV 1 ◉",
-      "category": "Entertainment",
+      "category": "Shopping",
       "sky": "3580",
       "channels": ["UK: HIGH STREET TV 1 ◉"],
       "epg": "sky:3580",
@@ -1876,7 +1876,7 @@
     {
       "number": 667,
       "name": "High Street TV 2 ◉",
-      "category": "Entertainment",
+      "category": "Shopping",
       "sky": "5706",
       "channels": ["UK: HIGH STREET TV 2 ◉"],
       "epg": "sky:5706",
@@ -1894,7 +1894,7 @@
     {
       "number": 669,
       "name": "Best Direct ◉",
-      "category": "Entertainment",
+      "category": "Shopping",
       "sky": "4100",
       "channels": ["UK: BEST DIRECT ◉"],
       "epg": "sky:4100",
@@ -1903,7 +1903,7 @@
     {
       "number": 670,
       "name": "Hobby Maker ◉",
-      "category": "Entertainment",
+      "category": "Shopping",
       "sky": "1169",
       "channels": ["UK: HOBBY MAKER ◉"],
       "epg": "sky:1169",
@@ -1921,7 +1921,7 @@
     {
       "number": 672,
       "name": "High Street TV 3 ◉",
-      "category": "Entertainment",
+      "category": "Shopping",
       "sky": "3404",
       "channels": ["UK: HIGH STREET TV 3 ◉"],
       "epg": "sky:3404",
@@ -2765,10 +2765,10 @@
       "logo": "https:\/\/raw.githubusercontent.com\/tv-logo\/tv-logos\/main\/countries\/united-kingdom\/tnt-sports-ultimate-uk.png"
     },
     {
-      "number": null,
+      "number": 325,
       "name": "U&W +1 ◉",
       "category": "Entertainment",
-      "sky": "325",
+      "sky": null,
       "channels": ["UK: WATCH +1 ◉"],
       "epg": "sky:2616",
       "logo": "https:\/\/raw.githubusercontent.com\/tv-logo\/tv-logos\/main\/countries\/united-kingdom\/u-and-w-plus-uk.png"

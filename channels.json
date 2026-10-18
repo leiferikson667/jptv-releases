@@ -1,5 +1,5 @@
 {
-  "updated": "18 Oct 2026, 22:40",
+  "updated": "19 Oct 2026, 00:05",
   "channels": [
     {
       "number": 101,
@@ -197,7 +197,7 @@
       "sky": "4086",
       "channels": ["NOW: SKY HISTORY ᴿᴬᵂ"],
       "epg": "sky:4086",
-      "logo": "https:\/\/raw.githubusercontent.com\/leiferikson667/jptv-releases\/main\/sky-history-uk.png"
+      "logo": "https:\/\/raw.githubusercontent.com\/leiferikson667\/jptv-releases\/main\/sky-history-uk.png"
     },
     {
       "number": 124,
@@ -1644,7 +1644,7 @@
       "name": "Son Life",
       "category": "Music",
       "sky": "3392",
-      "channels": ["UK: SON LIFE"],
+      "channels": [],
       "epg": "sky:3392",
       "logo": "https:\/\/raw.githubusercontent.com\/tv-logo\/tv-logos\/main\/countries\/united-kingdom\/sony-max-uk.png"
     },
@@ -2768,7 +2768,7 @@
       "number": null,
       "name": "U&W +1 ◉",
       "category": "Entertainment",
-      "sky": 325,
+      "sky": "325",
       "channels": ["UK: WATCH +1 ◉"],
       "epg": "sky:2616",
       "logo": "https:\/\/raw.githubusercontent.com\/tv-logo\/tv-logos\/main\/countries\/united-kingdom\/u-and-w-plus-uk.png"

@@ -138,7 +138,7 @@
     },
     {
       "number": 116,
-      "name": "BBC 4 \/ Cbeebies ◉",
+      "name": "BBC Four ◉",
       "category": "Kids",
       "sky": "2086",
       "channels": ["UK: BBC 4 \/ CBEEBIES 4K ◉", "UK: BBC FOUR ᴿᴬᵂ", "UK: BBC 4 ◉"],
@@ -197,7 +197,7 @@
       "sky": "4086",
       "channels": ["NOW: SKY HISTORY ᴿᴬᵂ"],
       "epg": "sky:4086",
-      "logo": "https:\/\/raw.githubusercontent.com\/tv-logo\/tv-logos\/main\/countries\/united-kingdom\/sky-history-uk.png"
+      "logo": "https:\/\/raw.githubusercontent.com\/leiferikson667/jptv-releases\/main\/countries\/united-kingdom\/sky-history-uk.png"
     },
     {
       "number": 124,
@@ -215,7 +215,7 @@
       "sky": "4003",
       "channels": ["UK: DISCOVERY 4K ◉"],
       "epg": "sky:4003",
-      "logo": "https:\/\/raw.githubusercontent.com\/tv-logo\/tv-logos\/main\/countries\/united-kingdom\/discovery-channel-uk.png.png"
+      "logo": "https:\/\/raw.githubusercontent.com\/tv-logo\/tv-logos\/main\/countries\/united-kingdom\/discovery-channel-uk.png"
     },
     {
       "number": 126,

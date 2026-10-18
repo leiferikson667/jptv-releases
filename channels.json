@@ -845,7 +845,7 @@
       "sky": "5452",
       "channels": ["UK: ID +1 ◉"],
       "epg": "sky:5452",
-      "logo": "https:\/\/raw.githubusercontent.com\/tv-logo\/tv-logos\/main\/countries\/indonesia\/investigation-discovery-plus-uk.png"
+      "logo": "https:\/\/raw.githubusercontent.com\/tv-logo\/tv-logos\/main\/countries\/united-kingdom\/investigation-discovery-plus-uk.png"
     },
     {
       "number": 255,
@@ -890,7 +890,7 @@
       "sky": "3760",
       "channels": ["UK: DISCOVERY HISTORY +1"],
       "epg": "sky:3760",
-      "logo": "https:\/\/raw.githubusercontent.com\/tv-logo\/tv-logos\/main\/countries\/poland\/discovery-history-plus-uk.png"
+      "logo": "https:\/\/raw.githubusercontent.com\/tv-logo\/tv-logos\/main\/countries\/united-kingdom\/discovery-history-plus-uk.png"
     },
     {
       "number": 262,
@@ -903,7 +903,7 @@
     },
     {
       "number": 266,
-      "name": "Eden +1 ◉",
+      "name": "U&Eden +1 ◉",
       "category": "Documentaries",
       "sky": "2307",
       "channels": ["UK: EDEN +1 ◉"],
@@ -1754,7 +1754,7 @@
       "sky": "4340",
       "channels": ["UK: NICK JUNIOR TOO"],
       "epg": "sky:4340",
-      "logo": "https:\/\/raw.githubusercontent.com\/tv-logo\/tv-logos\/main\/countries\/united-kingdom\/nick-uk.png"
+      "logo": "https:\/\/raw.githubusercontent.com\/tv-logo\/tv-logos\/main\/countries\/united-kingdom\/nick-jr-too-uk.png"
     },
     {
       "number": 613,
@@ -1781,7 +1781,7 @@
       "sky": "5089",
       "channels": ["UK: NICK JUNIOR +1"],
       "epg": "sky:5089",
-      "logo": "https:\/\/raw.githubusercontent.com\/tv-logo\/tv-logos\/main\/countries\/france\/mon-nickelodeon-junior-fr.png"
+      "logo": "https:\/\/raw.githubusercontent.com\/tv-logo\/tv-logos\/main\/countries\/united-kingdom\/nick-jr-plus-uk.png"
     },
     {
       "number": 623,
@@ -2768,10 +2768,10 @@
       "number": null,
       "name": "U&W +1 ◉",
       "category": "Entertainment",
-      "sky": null,
+      "sky": 325,
       "channels": ["UK: WATCH +1 ◉"],
       "epg": "sky:2616",
-      "logo": "https:\/\/raw.githubusercontent.com\/tv-logo\/tv-logos\/main\/countries\/united-kingdom\/watch-free-uk-uk.png"
+      "logo": "https:\/\/raw.githubusercontent.com\/tv-logo\/tv-logos\/main\/countries\/united-kingdom\/u-and-w-plus-uk.png"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "updated": "18 Oct 2026, 22:35",
+  "updated": "18 Oct 2026, 22:40",
   "channels": [
     {
       "number": 101,
@@ -1421,7 +1421,7 @@
       "sky": "1074",
       "channels": ["UK: BLOOMBERG HEVC 4K"],
       "epg": "sky:1074",
-      "logo": ""
+      "logo": "https:\/\/raw.githubusercontent.com\/tv-logo\/tv-logos\/main\/countries\/united-kingdom\/bbc-uhd-uk.png"
     },
     {
       "number": 503,
@@ -1833,7 +1833,7 @@
       "name": "TJC ◉",
       "category": "Shopping",
       "sky": "1113",
-      "channels": ["UK: TJC ◉"],
+      "channels": [],
       "epg": "sky:1113",
       "logo": ""
     },

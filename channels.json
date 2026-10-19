@@ -1,5 +1,5 @@
 {
-  "updated": "19 Oct 2026, 00:05",
+  "updated": "19 Oct 2026, 17:22",
   "channels": [
     {
       "number": 101,
@@ -1116,6 +1116,15 @@
       "channels": ["UK: TALKING PICTURES ◉"],
       "epg": "sky:5252",
       "logo": "https:\/\/raw.githubusercontent.com\/tv-logo\/tv-logos\/main\/countries\/united-kingdom\/talking-pictures-tv-uk.png"
+    },
+    {
+      "number": 325,
+      "name": "U&W +1 ◉",
+      "category": "Entertainment",
+      "sky": null,
+      "channels": ["UK: WATCH +1 ◉"],
+      "epg": "sky:2616",
+      "logo": "https:\/\/raw.githubusercontent.com\/tv-logo\/tv-logos\/main\/countries\/united-kingdom\/u-and-w-plus-uk.png"
     },
     {
       "number": 354,
@@ -2763,15 +2772,6 @@
       "channels": ["VIP: TNT SPORTS ULTIMATE ⁴ᵏ & ³⁸⁴⁰ᴾ"],
       "epg": "",
       "logo": "https:\/\/raw.githubusercontent.com\/tv-logo\/tv-logos\/main\/countries\/united-kingdom\/tnt-sports-ultimate-uk.png"
-    },
-    {
-      "number": 325,
-      "name": "U&W +1 ◉",
-      "category": "Entertainment",
-      "sky": null,
-      "channels": ["UK: WATCH +1 ◉"],
-      "epg": "sky:2616",
-      "logo": "https:\/\/raw.githubusercontent.com\/tv-logo\/tv-logos\/main\/countries\/united-kingdom\/u-and-w-plus-uk.png"
     }
   ]
 }

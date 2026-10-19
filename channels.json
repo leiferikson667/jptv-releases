@@ -3,7 +3,7 @@
   "channels": [
     {
       "number": 101,
-      "name": "BBC One Scotland ◉",
+      "name": "BBC One ◉",
       "category": "Entertainment",
       "sky": "3000",
       "channels": ["UK: BBC ONE SCOT HD ◉", "UK: BBC ONE SCOTLAND ᴿᴬᵂ"],
@@ -12,7 +12,7 @@
     },
     {
       "number": 102,
-      "name": "BBC 2 ◉",
+      "name": "BBC Two ◉",
       "category": "Entertainment",
       "sky": null,
       "channels": ["UK: BBC 2 4K ◉"],

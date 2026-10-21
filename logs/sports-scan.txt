@@ -1,4 +1,47 @@
-JPTV Live Sports scan · Tue 20 Oct 2026, 17:49
+JPTV Live Sports scan · Wed 21 Oct 2026, 21:29
+
+Games found per category
+  0  IE| CLUBBER PPV   [PPV / event category read]
+  0  IE| LOI PPV   [PPV / event category read]
+  0  IE| NIFL PREMIERSHIP PPV   [PPV / event category read]
+  0  IE| SETANTA PPV   [PPV / event category read]
+  0  UK| AMAZON PRIME PPV   [PPV / event category read]
+  0  UK| BBC STREAM PPV   [PPV / event category read]
+  0  UK| CHAMPIONSHIP PPV   [PPV / event category read]
+  0  UK| CYMRU FOOTBALL PPV   [PPV / event category read]
+  0  UK| DAZN PPV   [PPV / event category read]
+  0  UK| DAZN PPV VIP   [PPV / event category read]
+  0  UK| EPL PREMIER LEAGUE PPV   [PPV / event category read]
+  0  UK| EPL PREMIER LEAGUE PPV ⱽᴵᴾ   [PPV / event category read]
+  0  UK| ESPN+ PPV   [PPV / event category read]
+  0  UK| EU GAME PASS PPV   [PPV / event category read]
+  0  UK| FA PLAYER PPV   [PPV / event category read]
+  0  UK| HBO MAX PPV   [PPV / event category read]
+  0  UK| HUB PREMIER PPV   [PPV / event category read]
+  0  UK| LA LIGA TEAM PPV   [PPV / event category read]
+  0  UK| LEAGUE ONE PPV   [PPV / event category read]
+  0  UK| LEAGUE TWO PPV   [PPV / event category read]
+  0  UK| LIGUE 1 PPV   [PPV / event category read]
+  0  UK| LIVE FOOTBALL PPV   [PPV / event category read]
+  0  UK| MAX PPV   [PPV / event category read]
+  0  UK| MONO MAX PPV   [PPV / event category read]
+  0  UK| NATIONAL LEAGUE PPV   [PPV / event category read]
+  0  UK| NETFLIX PPV   [PPV / event category read]
+  0  UK| PPV EVENT   [PPV / event category read]
+  0  UK| PPV EVENT ⁽ᴮᴷ⁾   [PPV / event category read]
+  0  UK| PREMIER LEAGUE+ PPV   [PPV / event category read]
+  0  UK| PSF PPV   [PPV / event category read]
+  0  UK| SCOTTISH CUP PPV   [PPV / event category read]
+  0  UK| SERIE A TEAM PPV   [PPV / event category read]
+  0  UK| SKY SPORT+ PPV ᴿᴬᵂ   [PPV / event category read]
+  0  UK| SPFL/SCOTTISH PPV   [PPV / event category read]
+  0  UK| TNT SPORT EVENT   [PPV / event category read]
+  0  UK| UEFA PPV   [PPV / event category read]
+  0  UK| VIDIO EPL PPV   [PPV / event category read]
+  7  UEFA PPV
+  4  Sport
+  1  Now TV Sport
+  1  League One PPV
 
 Channels looked at: 1545 (radio stations left out: 63)
 
@@ -41,7 +84,7 @@ PPV / event categories read from the provider (38)
   IE| NIFL PREMIERSHIP PPV  ·  9 channels
   IE| CLUBBER PPV  ·  41 channels
   (95 live categories on the provider; 37 are PPV / event ones and were read)
-Leagues: ucl, uel, uecl, epl, spfl, champ, scocup, laliga, seriea, bundes, l1, ligue1 · today's fixtures still to come or on now: 21
+Leagues: ucl, uel, uecl, epl, spfl, champ, scocup, laliga, seriea, bundes, l1, ligue1 · today's fixtures still to come or on now: 8
 
 Event channels read (their own short guide) (140)
   UK: Live Football 01 : Argentina vs Benin 12:00am Wed  [UK| LIVE FOOTBALL PPV]  ·  0 programmes
@@ -186,64 +229,28 @@ Event channels read (their own short guide) (140)
   UK: SKY SPORTS+ EVENT 38  [Sky Sport+ PPV]  ·  0 programmes
 
 Today's games and where they were found
-  17:45  Fenerbahce v Slavia Prague  (ucl)
-      guide: TNT Sports 3 HEVC 4K  — Live UCL: Fenerbahce v S. Prague
-      PPV: UEFA | 01 - AZ Alkmaar vs H Be'er Sheva 17:45 pm
-  17:45  Sabah FK v Borussia Dortmund  (ucl)
-      guide: TNT Sports 2 HEVC 4K  — Live UCL: Sabah v Dortmund
-      PPV: UEFA | 02 - Celje vs Omonia 17:45 pm
-  20:00  AS Roma v Slovan Bratislava  (ucl)
-      PPV: UEFA | 09 - Benfica vs Celtic 20:00 pm
-  20:00  FC Porto v PSV Eindhoven  (ucl)
-      not found on any of your channels
-  20:00  Liverpool v Villarreal  (ucl)
-      guide: Premier Sports 1 Ireland HEVC 4K  — Live UEFA Champions League
-      PPV: UEFA | 04 - Olympiaue lyonnais vs Crystal Palace 17:45 pm
-  20:00  Manchester City v AEK Athens  (ucl)
-      guide: TNT Sports 1 HEVC 4K  — Live UCL: Man City v AEK Athens
+  20:00  Aston Villa v Viking FK  (ucl)
       guide: TNT Sports 3 HEVC 4K  — Live: UCL Goals Show Xtra
-      PPV: UEFA | 05 - Red Bull Salzburg vs AC Milan 17:45 pm
-  20:00  Napoli v Bodo/Glimt  (ucl)
-      PPV: UEFA | 06 - Sparta Prague vs Lillestrom 17:45 pm
-  20:00  Paris Saint-Germain v Barcelona  (ucl)
-      guide: TNT Sports 2 HEVC 4K  — Live UCL: Paris SG v Barcelona
-      PPV: UEFA | 07 - Torreense vs Sunderland 17:45 pm
-  20:00  VfB Stuttgart v Atlético Madrid  (ucl)
-      PPV: UEFA | 10 - Bournemouth vs Sturm Graz 20:00 pm
-  19:45  Wolverhampton Wanderers v Portsmouth  (champ)
-      guide: Sky Sports + HEVC 4K  — Live EFL: Wolves v Portsmouth
-      PPV: CHAMP: WOLVERHAMPTON WANDERERS
-      PPV: CHAMP: PORTSMOUTH
-  19:45  AFC Wimbledon v Mansfield Town  (l1)
-      PPV: L1: MANSFIELD TOWN
-      PPV: L1: AFC WIMBLEDON
-  19:45  Blackpool v Milton Keynes Dons  (l1)
-      PPV: L1: MK DONS
-      PPV: L1: BLACKPOOL
-  19:45  Bromley v Leicester City  (l1)
-      PPV: L1: LEICESTER CITY
-      PPV: L1: BROMLEY
-  19:45  Burton Albion v Bradford City  (l1)
-      PPV: L1: BURTON ALBION
-      PPV: L1: BRADFORD CITY
-  19:45  Cambridge United v Wycombe Wanderers  (l1)
-      PPV: L1: WYCOMBE WANDERERS
-      PPV: L1: CAMBRIDGE UNITED
-  19:45  Doncaster Rovers v Stockport County  (l1)
-      PPV: L1: STOCKPORT COUNTY
-      PPV: L1: DONCASTER ROVERS
-  19:45  Huddersfield Town v Peterborough United  (l1)
-      PPV: L1: PETERBOROUGH UNITED
-      PPV: L1: HUDDERSFIELD TOWN
-  19:45  Luton Town v Barnsley  (l1)
-      PPV: L1: LUTON TOWN
-      PPV: L1: BARNSLEY
-  19:45  Notts County v Sheffield Wednesday  (l1)
-      PPV: L1: SHEFFIELD WEDNESDAY
-      PPV: L1: NOTTS COUNTY
-  19:45  Oxford United v Wigan Athletic  (l1)
-      PPV: L1: WIGAN ATHLETIC
-      PPV: L1: OXFORD UNITED
-  19:45  Stevenage v Plymouth Argyle  (l1)
-      PPV: L1: STEVENAGE
-      PPV: L1: PLYMOUTH ARGYLE
+      guide: TNT Sports 2 HEVC 4K  — Live UCL: Aston Villa v Viking
+      PPV: UK: UEFA | 03 - Aston Villa vs Viking 20:00 pm
+  20:00  Bayern Munich v Arsenal  (ucl)
+      guide: TNT Sports 3 HEVC 4K  — Live: UCL Goals Show Xtra
+      guide: TNT Sports 1 HEVC 4K  — Live UCL: Bayern Munich v Arsenal
+      PPV: UK: UEFA | 04 - Bayern Munich  vs Araenal 8:00pm
+  20:00  Club Brugge v Lens  (ucl)
+      PPV: UK: UEFA | 05 - Club Brugge vs Lens 20:00 pm
+  20:00  Internazionale v Shakhtar Donetsk  (ucl)
+      PPV: UK: UEFA | 06 - Inter Milan vs Shakhtar Donetsk 20:00 pm
+  20:00  Real Betis v Feyenoord Rotterdam  (ucl)
+      PPV: UK: UEFA | 07 - Real Betis  vs Feyenoord 8:00pm
+  20:00  Real Madrid v RB Leipzig  (ucl)
+      guide: TNT Sports 3 HEVC 4K  — Live: UCL Goals Show Xtra
+      guide: TNT Sports 4 HEVC 4K  — Live UCL: Real Madrid v RB Leipzig
+      PPV: UK: UEFA | 08 - Real Madrid vs Leipzig 8:00pm
+  20:00  Sporting CP v LASK Linz  (ucl)
+      PPV: UK: UEFA | 09 - Sporting vs LASK 8:00pm
+  20:00  Reading v Leyton Orient  (l1)
+      guide: Sky Sports Football HEVC 4K  — Live EFL: Reading v Leyton Orient
+      guide: Sky Sports Main Event UHD 3840P  — Live EFL: Reading v Leyton Orient
+      PPV: UK: L1: READING
+      PPV: UK: L1: LEYTON ORIENT

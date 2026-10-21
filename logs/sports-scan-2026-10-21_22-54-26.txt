@@ -1,0 +1,83 @@
+JPTV Live Sports scan · Wed 21 Oct 2026, 22:54
+
+Games found per category
+  0  IE| CLUBBER PPV   [PPV / event category read]
+  0  IE| LOI PPV   [PPV / event category read]
+  0  IE| NIFL PREMIERSHIP PPV   [PPV / event category read]
+  0  IE| SETANTA PPV   [PPV / event category read]
+  0  UK| AMAZON PRIME PPV   [PPV / event category read]
+  0  UK| BBC STREAM PPV   [PPV / event category read]
+  0  UK| CHAMPIONSHIP PPV   [PPV / event category read]
+  0  UK| CYMRU FOOTBALL PPV   [PPV / event category read]
+  0  UK| DAZN PPV   [PPV / event category read]
+  0  UK| DAZN PPV VIP   [PPV / event category read]
+  0  UK| EPL PREMIER LEAGUE PPV   [PPV / event category read]
+  0  UK| EPL PREMIER LEAGUE PPV ⱽᴵᴾ   [PPV / event category read]
+  0  UK| ESPN+ PPV   [PPV / event category read]
+  0  UK| EU GAME PASS PPV   [PPV / event category read]
+  0  UK| FA PLAYER PPV   [PPV / event category read]
+  0  UK| HBO MAX PPV   [PPV / event category read]
+  0  UK| HUB PREMIER PPV   [PPV / event category read]
+  0  UK| LA LIGA TEAM PPV   [PPV / event category read]
+  0  UK| LEAGUE ONE PPV   [PPV / event category read]
+  0  UK| LEAGUE TWO PPV   [PPV / event category read]
+  0  UK| LIGUE 1 PPV   [PPV / event category read]
+  0  UK| LIVE FOOTBALL PPV   [PPV / event category read]
+  0  UK| MAX PPV   [PPV / event category read]
+  0  UK| MONO MAX PPV   [PPV / event category read]
+  0  UK| NATIONAL LEAGUE PPV   [PPV / event category read]
+  0  UK| NETFLIX PPV   [PPV / event category read]
+  0  UK| PPV EVENT   [PPV / event category read]
+  0  UK| PPV EVENT ⁽ᴮᴷ⁾   [PPV / event category read]
+  0  UK| PREMIER LEAGUE+ PPV   [PPV / event category read]
+  0  UK| PSF PPV   [PPV / event category read]
+  0  UK| SCOTTISH CUP PPV   [PPV / event category read]
+  0  UK| SERIE A TEAM PPV   [PPV / event category read]
+  0  UK| SKY SPORT+ PPV ᴿᴬᵂ   [PPV / event category read]
+  0  UK| SPFL/SCOTTISH PPV   [PPV / event category read]
+  0  UK| TNT SPORT EVENT   [PPV / event category read]
+  0  UK| UEFA PPV   [PPV / event category read]
+  0  UK| VIDIO EPL PPV   [PPV / event category read]
+
+Channels looked at: 1545 (radio stations left out: 63)
+
+PPV / event categories read from the provider (38)
+  UK| LIVE FOOTBALL PPV  ·  35 channels
+  UK| VIDIO EPL PPV  ·  36 channels
+  UK| EPL PREMIER LEAGUE PPV ⱽᴵᴾ  ·  37 channels
+  UK| EPL PREMIER LEAGUE PPV  ·  32 channels
+  UK| PREMIER LEAGUE+ PPV  ·  11 channels
+  UK| SPFL/SCOTTISH PPV  ·  26 channels
+  UK| UEFA PPV  ·  38 channels
+  UK| SCOTTISH CUP PPV  ·  8 channels
+  UK| CYMRU FOOTBALL PPV  ·  17 channels
+  UK| SKY SPORT+ PPV ᴿᴬᵂ  ·  71 channels
+  UK| TNT SPORT EVENT  ·  19 channels
+  UK| MAX PPV  ·  101 channels
+  UK| HBO MAX PPV  ·  31 channels
+  UK| DAZN PPV VIP  ·  100 channels
+  UK| DAZN PPV  ·  64 channels
+  UK| AMAZON PRIME PPV  ·  39 channels
+  UK| NATIONAL LEAGUE PPV  ·  39 channels
+  UK| CHAMPIONSHIP PPV  ·  25 channels
+  UK| LEAGUE ONE PPV  ·  25 channels
+  UK| LEAGUE TWO PPV  ·  25 channels
+  UK| LA LIGA TEAM PPV  ·  23 channels
+  UK| LIGUE 1 PPV  ·  11 channels
+  UK| SERIE A TEAM PPV  ·  21 channels
+  UK| HUB PREMIER PPV  ·  13 channels
+  UK| EU GAME PASS PPV  ·  21 channels
+  UK| PPV EVENT  ·  68 channels
+  UK| PPV EVENT ⁽ᴮᴷ⁾  ·  71 channels
+  UK| NETFLIX PPV  ·  5 channels
+  UK| ESPN+ PPV  ·  112 channels
+  UK| FA PLAYER PPV  ·  11 channels
+  UK| MONO MAX PPV  ·  33 channels
+  UK| BBC STREAM PPV  ·  20 channels
+  UK| PSF PPV  ·  26 channels
+  IE| LOI PPV  ·  16 channels
+  IE| SETANTA PPV  ·  31 channels
+  IE| NIFL PREMIERSHIP PPV  ·  9 channels
+  IE| CLUBBER PPV  ·  41 channels
+  (95 live categories on the provider; 37 are PPV / event ones and were read)
+Leagues: ucl, uel, uecl, epl, spfl, champ, scocup, laliga, seriea, bundes, l1, ligue1 · today's fixtures still to come or on now: 0

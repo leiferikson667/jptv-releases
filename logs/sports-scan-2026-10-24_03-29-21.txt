@@ -1,0 +1,424 @@
+JPTV Live Sports scan · Sat 24 Oct 2026, 03:29
+
+Games found per category
+  4  UK| EPL PREMIER LEAGUE PPV ⱽᴵᴾ   [PPV / event category read]
+  0  IE| CLUBBER PPV   [PPV / event category read]
+  0  IE| LOI PPV   [PPV / event category read]
+  0  IE| NIFL PREMIERSHIP PPV   [PPV / event category read]
+  0  IE| SETANTA PPV   [PPV / event category read]
+  0  UK| AMAZON PRIME PPV   [PPV / event category read]
+  0  UK| BBC STREAM PPV   [PPV / event category read]
+  0  UK| CHAMPIONSHIP PPV   [PPV / event category read]
+  0  UK| CYMRU FOOTBALL PPV   [PPV / event category read]
+  0  UK| DAZN PPV   [PPV / event category read]
+  0  UK| DAZN PPV VIP   [PPV / event category read]
+  0  UK| EPL PREMIER LEAGUE PPV   [PPV / event category read]
+  0  UK| ESPN+ PPV   [PPV / event category read]
+  0  UK| EU GAME PASS PPV   [PPV / event category read]
+  0  UK| FA PLAYER PPV   [PPV / event category read]
+  0  UK| HBO MAX PPV   [PPV / event category read]
+  0  UK| HUB PREMIER PPV   [PPV / event category read]
+  0  UK| LA LIGA TEAM PPV   [PPV / event category read]
+  0  UK| LEAGUE ONE PPV   [PPV / event category read]
+  0  UK| LEAGUE TWO PPV   [PPV / event category read]
+  0  UK| LIGUE 1 PPV   [PPV / event category read]
+  0  UK| LIVE FOOTBALL PPV   [PPV / event category read]
+  0  UK| MAX PPV   [PPV / event category read]
+  0  UK| MONO MAX PPV   [PPV / event category read]
+  0  UK| NATIONAL LEAGUE PPV   [PPV / event category read]
+  0  UK| NETFLIX PPV   [PPV / event category read]
+  0  UK| PPV EVENT   [PPV / event category read]
+  0  UK| PPV EVENT ⁽ᴮᴷ⁾   [PPV / event category read]
+  0  UK| PREMIER LEAGUE+ PPV   [PPV / event category read]
+  0  UK| PSF PPV   [PPV / event category read]
+  0  UK| SCOTTISH CUP PPV   [PPV / event category read]
+  0  UK| SERIE A TEAM PPV   [PPV / event category read]
+  0  UK| SKY SPORT+ PPV ᴿᴬᵂ   [PPV / event category read]
+  0  UK| SPFL/SCOTTISH PPV   [PPV / event category read]
+  0  UK| TNT SPORT EVENT   [PPV / event category read]
+  0  UK| UEFA PPV   [PPV / event category read]
+  0  UK| VIDIO EPL PPV   [PPV / event category read]
+  12  League One PPV
+  11  Championship PPV
+  6  Sport
+  4  EPL Premier League PPV
+  4  Spfl/scottish PPV
+  4  Serie A Team PPV
+  3  LA Liga Team PPV
+  2  Now TV Sport
+
+Channels looked at: 1545 (radio stations left out: 63)
+
+PPV / event categories read from the provider (38)
+  UK| LIVE FOOTBALL PPV  ·  35 channels
+  UK| VIDIO EPL PPV  ·  36 channels
+  UK| EPL PREMIER LEAGUE PPV ⱽᴵᴾ  ·  37 channels
+  UK| EPL PREMIER LEAGUE PPV  ·  32 channels
+  UK| PREMIER LEAGUE+ PPV  ·  11 channels
+  UK| SPFL/SCOTTISH PPV  ·  26 channels
+  UK| UEFA PPV  ·  38 channels
+  UK| SCOTTISH CUP PPV  ·  8 channels
+  UK| CYMRU FOOTBALL PPV  ·  17 channels
+  UK| SKY SPORT+ PPV ᴿᴬᵂ  ·  71 channels
+  UK| TNT SPORT EVENT  ·  19 channels
+  UK| MAX PPV  ·  101 channels
+  UK| HBO MAX PPV  ·  31 channels
+  UK| DAZN PPV VIP  ·  100 channels
+  UK| DAZN PPV  ·  64 channels
+  UK| AMAZON PRIME PPV  ·  39 channels
+  UK| NATIONAL LEAGUE PPV  ·  39 channels
+  UK| CHAMPIONSHIP PPV  ·  25 channels
+  UK| LEAGUE ONE PPV  ·  25 channels
+  UK| LEAGUE TWO PPV  ·  25 channels
+  UK| LA LIGA TEAM PPV  ·  23 channels
+  UK| LIGUE 1 PPV  ·  11 channels
+  UK| SERIE A TEAM PPV  ·  21 channels
+  UK| HUB PREMIER PPV  ·  13 channels
+  UK| EU GAME PASS PPV  ·  21 channels
+  UK| PPV EVENT  ·  68 channels
+  UK| PPV EVENT ⁽ᴮᴷ⁾  ·  71 channels
+  UK| NETFLIX PPV  ·  5 channels
+  UK| ESPN+ PPV  ·  112 channels
+  UK| FA PLAYER PPV  ·  11 channels
+  UK| MONO MAX PPV  ·  33 channels
+  UK| BBC STREAM PPV  ·  20 channels
+  UK| PSF PPV  ·  26 channels
+  IE| LOI PPV  ·  16 channels
+  IE| SETANTA PPV  ·  31 channels
+  IE| NIFL PREMIERSHIP PPV  ·  9 channels
+  IE| CLUBBER PPV  ·  41 channels
+  (95 live categories on the provider; 37 are PPV / event / football competition ones and were read)
+Leagues: ucl, uel, uecl, epl, spfl, champ, scocup, laliga, seriea, bundes, l1, ligue1 · today's fixtures: 65 (on now 0, still to come 65, finished 0)
+
+Event channels read (their own short guide) (140)
+  UK: Live Football 01 : Argentina vs Benin 12:00am Wed  [UK| LIVE FOOTBALL PPV]  ·  0 programmes
+  UK: Live Football 02 : Usa vs Canada 1:00am Wed  [UK| LIVE FOOTBALL PPV]  ·  0 programmes
+  UK: Live Football 03 : France vs Belgium  19:45 pm  [UK| LIVE FOOTBALL PPV]  ·  0 programmes
+  UK: Live Football 04 : Italy vs Turkey  19:45 pm  [UK| LIVE FOOTBALL PPV]  ·  0 programmes
+  UK: Live Football 05 : Montenegro vs Armenia 19:45 pm  [UK| LIVE FOOTBALL PPV]  ·  0 programmes
+  UK: Live Football 06 : Northan ireland vs Georgia 19:45 pm  [UK| LIVE FOOTBALL PPV]  ·  0 programmes
+  UK: Live Football 07 : Romania  vs Sweden  19:45 pm  [UK| LIVE FOOTBALL PPV]  ·  0 programmes
+  UK: Live Football 08 : Ukraine  vs Hungary  19:45 pm  [UK| LIVE FOOTBALL PPV]  ·  0 programmes
+  UK: Live Football 09 : Faroe Islands vs Slovakia 19:45 pm  [UK| LIVE FOOTBALL PPV]  ·  0 programmes
+  UK: Live Football 10:  [UK| LIVE FOOTBALL PPV]  ·  0 programmes
+  UK: Live Football 11:  [UK| LIVE FOOTBALL PPV]  ·  0 programmes
+  UK: Live Football 12:  [UK| LIVE FOOTBALL PPV]  ·  0 programmes
+  UK: Live Football 13:  [UK| LIVE FOOTBALL PPV]  ·  0 programmes
+  UK: Live Football 14:  [UK| LIVE FOOTBALL PPV]  ·  0 programmes
+  UK: Live Football 15:  [UK| LIVE FOOTBALL PPV]  ·  0 programmes
+  UK: Live Football 16:  [UK| LIVE FOOTBALL PPV]  ·  0 programmes
+  UK: Live Football 17:  [UK| LIVE FOOTBALL PPV]  ·  0 programmes
+  UK: Live Football 18:  [UK| LIVE FOOTBALL PPV]  ·  0 programmes
+  UK: Live Football 19:  [UK| LIVE FOOTBALL PPV]  ·  0 programmes
+  UK: Live Football 20:  [UK| LIVE FOOTBALL PPV]  ·  0 programmes
+  UK: Live Football  21 :  [UK| LIVE FOOTBALL PPV]  ·  0 programmes
+  UK: Live Football 22:  [UK| LIVE FOOTBALL PPV]  ·  0 programmes
+  UK: Live Football 23:  [UK| LIVE FOOTBALL PPV]  ·  0 programmes
+  UK: Live Football 24:  [UK| LIVE FOOTBALL PPV]  ·  0 programmes
+  UK: Live Football 25:  [UK| LIVE FOOTBALL PPV]  ·  0 programmes
+  UK: Live Football 26:  [UK| LIVE FOOTBALL PPV]  ·  0 programmes
+  UK: Live Football 27:  [UK| LIVE FOOTBALL PPV]  ·  0 programmes
+  UK: Live Football 28:  [UK| LIVE FOOTBALL PPV]  ·  0 programmes
+  UK: Live Football 29:  [UK| LIVE FOOTBALL PPV]  ·  0 programmes
+  UK: Live Football 30:  [UK| LIVE FOOTBALL PPV]  ·  0 programmes
+  UK: Live Football 31:  [UK| LIVE FOOTBALL PPV]  ·  0 programmes
+  UK: Live Football 32:  [UK| LIVE FOOTBALL PPV]  ·  0 programmes
+  UK: Live Football 33:  [UK| LIVE FOOTBALL PPV]  ·  0 programmes
+  UK: Live Football 34:  [UK| LIVE FOOTBALL PPV]  ·  0 programmes
+  UK: VIDIO EVENT 1  [UK| VIDIO EPL PPV]  ·  0 programmes
+  UK: VIDIO EVENT 2  [UK| VIDIO EPL PPV]  ·  0 programmes
+  UK: VIDIO EVENT 3  [UK| VIDIO EPL PPV]  ·  0 programmes
+  UK: VIDIO EVENT 4  [UK| VIDIO EPL PPV]  ·  0 programmes
+  UK: VIDIO EVENT 5  [UK| VIDIO EPL PPV]  ·  0 programmes
+  UK: VIDIO EVENT 6  [UK| VIDIO EPL PPV]  ·  0 programmes
+  UK: VIDIO EVENT 7  [UK| VIDIO EPL PPV]  ·  0 programmes
+  UK: VIDIO EVENT 8  [UK| VIDIO EPL PPV]  ·  0 programmes
+  UK: VIDIO EVENT 9  [UK| VIDIO EPL PPV]  ·  0 programmes
+  UK: VIDIO EVENT 10  [UK| VIDIO EPL PPV]  ·  0 programmes
+  UK: VIDIO EVENT 11  [UK| VIDIO EPL PPV]  ·  0 programmes
+  UK: VIDIO EVENT 12  [UK| VIDIO EPL PPV]  ·  0 programmes
+  UK: VIDIO EVENT 13  [UK| VIDIO EPL PPV]  ·  0 programmes
+  UK: VIDIO EVENT 14  [UK| VIDIO EPL PPV]  ·  0 programmes
+  UK: VIDIO EVENT 15  [UK| VIDIO EPL PPV]  ·  0 programmes
+  UK: VIDIO EVENT 16  [UK| VIDIO EPL PPV]  ·  0 programmes
+  UK: VIDIO EVENT 17  [UK| VIDIO EPL PPV]  ·  0 programmes
+  UK: VIDIO EVENT 18  [UK| VIDIO EPL PPV]  ·  0 programmes
+  UK: VIDIO EVENT 19  [UK| VIDIO EPL PPV]  ·  0 programmes
+  UK: VIDIO EVENT 20  [UK| VIDIO EPL PPV]  ·  0 programmes
+  UK: VIDIO EVENT 21  [UK| VIDIO EPL PPV]  ·  0 programmes
+  UK: VIDIO EVENT 22  [UK| VIDIO EPL PPV]  ·  0 programmes
+  UK: VIDIO EVENT 23  [UK| VIDIO EPL PPV]  ·  0 programmes
+  UK: VIDIO EVENT 24  [UK| VIDIO EPL PPV]  ·  0 programmes
+  UK: VIDIO EVENT 25  [UK| VIDIO EPL PPV]  ·  0 programmes
+  UK: VIDIO EVENT 26  [UK| VIDIO EPL PPV]  ·  0 programmes
+  UK: VIDIO EVENT 27  [UK| VIDIO EPL PPV]  ·  0 programmes
+  UK: VIDIO EVENT 28  [UK| VIDIO EPL PPV]  ·  0 programmes
+  UK: VIDIO EVENT 29  [UK| VIDIO EPL PPV]  ·  0 programmes
+  UK: VIDIO EVENT 30  [UK| VIDIO EPL PPV]  ·  0 programmes
+  UK: VIDIO EVENT 31  [UK| VIDIO EPL PPV]  ·  0 programmes
+  UK: VIDIO EVENT 32  [UK| VIDIO EPL PPV]  ·  0 programmes
+  UK: VIDIO EVENT 33  [UK| VIDIO EPL PPV]  ·  0 programmes
+  UK: VIDIO EVENT 34  [UK| VIDIO EPL PPV]  ·  0 programmes
+  UK: VIDIO EVENT 35  [UK| VIDIO EPL PPV]  ·  0 programmes
+  UK: EPL 01: 12:30 Aston Villa vs Manchester City  [UK| EPL PREMIER LEAGUE PPV ⱽᴵᴾ]  ·  0 programmes
+  UK: EPL 01: 12:30 Aston Villa vs Manchester City  [UK| EPL PREMIER LEAGUE PPV ⱽᴵᴾ]  ·  0 programmes
+  UK: EPL 01: 12:30 Aston Villa vs Manchester City  [UK| EPL PREMIER LEAGUE PPV ⱽᴵᴾ]  ·  0 programmes
+  UK: EPL 02: 15:00 Arsenal vs Everton  [UK| EPL PREMIER LEAGUE PPV ⱽᴵᴾ]  ·  0 programmes
+  UK: EPL 02: 15:00 Arsenal vs Everton  [UK| EPL PREMIER LEAGUE PPV ⱽᴵᴾ]  ·  0 programmes
+  UK: EPL 02: 15:00 Arsenal vs Everton  [UK| EPL PREMIER LEAGUE PPV ⱽᴵᴾ]  ·  0 programmes
+  UK: EPL 03: 15:00 Coventry City vs Fulham  [UK| EPL PREMIER LEAGUE PPV ⱽᴵᴾ]  ·  0 programmes
+  UK: EPL 03: 15:00 Coventry City vs Fulham  [UK| EPL PREMIER LEAGUE PPV ⱽᴵᴾ]  ·  0 programmes
+  UK: EPL 03: 15:00 Coventry City vs Fulham  [UK| EPL PREMIER LEAGUE PPV ⱽᴵᴾ]  ·  0 programmes
+  UK: EPL 04: 17:30 Chelsea vs Tottenham Hotspur  [UK| EPL PREMIER LEAGUE PPV ⱽᴵᴾ]  ·  0 programmes
+  UK: EPL 04: 17:30 Chelsea vs Tottenham Hotspur  [UK| EPL PREMIER LEAGUE PPV ⱽᴵᴾ]  ·  0 programmes
+  UK: EPL 04: 17:30 Chelsea vs Tottenham Hotspur  [UK| EPL PREMIER LEAGUE PPV ⱽᴵᴾ]  ·  0 programmes
+  UK: EPL 05:  [UK| EPL PREMIER LEAGUE PPV ⱽᴵᴾ]  ·  0 programmes
+  UK: EPL 05:  [UK| EPL PREMIER LEAGUE PPV ⱽᴵᴾ]  ·  0 programmes
+  UK: EPL 05:  [UK| EPL PREMIER LEAGUE PPV ⱽᴵᴾ]  ·  0 programmes
+  UK: EPL 06:  [UK| EPL PREMIER LEAGUE PPV ⱽᴵᴾ]  ·  0 programmes
+  UK: EPL 06:  [UK| EPL PREMIER LEAGUE PPV ⱽᴵᴾ]  ·  0 programmes
+  UK: EPL 06:  [UK| EPL PREMIER LEAGUE PPV ⱽᴵᴾ]  ·  0 programmes
+  UK: EPL 07:  [UK| EPL PREMIER LEAGUE PPV ⱽᴵᴾ]  ·  0 programmes
+  UK: EPL 07:  [UK| EPL PREMIER LEAGUE PPV ⱽᴵᴾ]  ·  0 programmes
+  UK: EPL 07:  [UK| EPL PREMIER LEAGUE PPV ⱽᴵᴾ]  ·  0 programmes
+  UK: EPL 08:  [UK| EPL PREMIER LEAGUE PPV ⱽᴵᴾ]  ·  0 programmes
+  UK: EPL 08:  [UK| EPL PREMIER LEAGUE PPV ⱽᴵᴾ]  ·  0 programmes
+  UK: EPL 08:  [UK| EPL PREMIER LEAGUE PPV ⱽᴵᴾ]  ·  0 programmes
+  UK: EPL 09:  [UK| EPL PREMIER LEAGUE PPV ⱽᴵᴾ]  ·  0 programmes
+  UK: EPL 09:  [UK| EPL PREMIER LEAGUE PPV ⱽᴵᴾ]  ·  0 programmes
+  UK: EPL 09:  [UK| EPL PREMIER LEAGUE PPV ⱽᴵᴾ]  ·  0 programmes
+  UK: EPL 10:  [UK| EPL PREMIER LEAGUE PPV ⱽᴵᴾ]  ·  0 programmes
+  UK: EPL 10:  [UK| EPL PREMIER LEAGUE PPV ⱽᴵᴾ]  ·  0 programmes
+  UK: EPL 10:  [UK| EPL PREMIER LEAGUE PPV ⱽᴵᴾ]  ·  0 programmes
+  UK: EPL 11:  [UK| EPL PREMIER LEAGUE PPV ⱽᴵᴾ]  ·  0 programmes
+  Sky Sports Main Event UHD 3840P  [Now TV Sport]  ·  0 programmes
+  TNT Sport Ultimate UHD 3840P  [Sport]  ·  0 programmes
+  UK: SKY SPORTS+ EVENT 1  [Sky Sport+ PPV]  ·  0 programmes
+  UK: SKY SPORTS+ EVENT 2  [Sky Sport+ PPV]  ·  0 programmes
+  UK: SKY SPORTS+ EVENT 3  [Sky Sport+ PPV]  ·  0 programmes
+  UK: SKY SPORTS+ EVENT 4  [Sky Sport+ PPV]  ·  0 programmes
+  UK: SKY SPORTS+ EVENT 5  [Sky Sport+ PPV]  ·  0 programmes
+  UK: SKY SPORTS+ EVENT 6  [Sky Sport+ PPV]  ·  0 programmes
+  UK: SKY SPORTS+ EVENT 7  [Sky Sport+ PPV]  ·  0 programmes
+  UK: SKY SPORTS+ EVENT 8  [Sky Sport+ PPV]  ·  0 programmes
+  UK: SKY SPORTS+ EVENT 9  [Sky Sport+ PPV]  ·  0 programmes
+  UK: SKY SPORTS+ EVENT 10  [Sky Sport+ PPV]  ·  0 programmes
+  UK: SKY SPORTS+ EVENT 11  [Sky Sport+ PPV]  ·  0 programmes
+  UK: SKY SPORTS+ EVENT 12  [Sky Sport+ PPV]  ·  0 programmes
+  UK: SKY SPORTS+ EVENT 13  [Sky Sport+ PPV]  ·  0 programmes
+  UK: SKY SPORTS+ EVENT 14  [Sky Sport+ PPV]  ·  0 programmes
+  UK: SKY SPORTS+ EVENT 15  [Sky Sport+ PPV]  ·  0 programmes
+  UK: SKY SPORTS+ EVENT 16  [Sky Sport+ PPV]  ·  0 programmes
+  UK: SKY SPORTS+ EVENT 17  [Sky Sport+ PPV]  ·  0 programmes
+  UK: SKY SPORTS+ EVENT 18  [Sky Sport+ PPV]  ·  0 programmes
+  UK: SKY SPORTS+ EVENT 19  [Sky Sport+ PPV]  ·  0 programmes
+  UK: SKY SPORTS+ EVENT 20  [Sky Sport+ PPV]  ·  0 programmes
+  UK: SKY SPORTS+ EVENT 21  [Sky Sport+ PPV]  ·  0 programmes
+  UK: SKY SPORTS+ EVENT 22  [Sky Sport+ PPV]  ·  0 programmes
+  UK: SKY SPORTS+ EVENT 23  [Sky Sport+ PPV]  ·  0 programmes
+  UK: SKY SPORTS+ EVENT 24  [Sky Sport+ PPV]  ·  0 programmes
+  UK: SKY SPORTS+ EVENT 25  [Sky Sport+ PPV]  ·  0 programmes
+  UK: SKY SPORTS+ EVENT 26  [Sky Sport+ PPV]  ·  0 programmes
+  UK: SKY SPORTS+ EVENT 27  [Sky Sport+ PPV]  ·  0 programmes
+  UK: SKY SPORTS+ EVENT 28  [Sky Sport+ PPV]  ·  0 programmes
+  UK: SKY SPORTS+ EVENT 29  [Sky Sport+ PPV]  ·  0 programmes
+  UK: SKY SPORTS+ EVENT 30  [Sky Sport+ PPV]  ·  0 programmes
+  UK: SKY SPORTS+ EVENT 31  [Sky Sport+ PPV]  ·  0 programmes
+  UK: SKY SPORTS+ EVENT 32  [Sky Sport+ PPV]  ·  0 programmes
+  UK: SKY SPORTS+ EVENT 33  [Sky Sport+ PPV]  ·  0 programmes
+  UK: SKY SPORTS+ EVENT 34  [Sky Sport+ PPV]  ·  0 programmes
+  UK: SKY SPORTS+ EVENT 35  [Sky Sport+ PPV]  ·  0 programmes
+  UK: SKY SPORTS+ EVENT 36  [Sky Sport+ PPV]  ·  0 programmes
+  UK: SKY SPORTS+ EVENT 37  [Sky Sport+ PPV]  ·  0 programmes
+  UK: SKY SPORTS+ EVENT 38  [Sky Sport+ PPV]  ·  0 programmes
+
+Goals shows (their own entry, never a game's channel) (0)
+
+Today's games and where they were found
+  12:30  Aston Villa v Manchester City  (epl)
+      guide: TNT Sports 1 HEVC 4K  — Live PL: Aston Villa v Man City
+      PPV: UK: EPL 01: 12:30 Aston Villa vs Manchester City
+      PPV: UK: EPL MANCHESTER CITY
+      PPV: UK: EPL ASTON VILLA
+      event: UK: EPL 01: 12:30 Aston Villa vs Manchester City
+      broadcaster (competition fit): Sky Sports Premier League HEVC 4K
+  15:00  Arsenal v Everton  (epl)
+      PPV: UK: EPL 02: 15:00 Arsenal vs Everton
+      PPV: UK: EPL ARSENAL
+      PPV: UK: EPL EVERTON
+      event: UK: EPL 02: 15:00 Arsenal vs Everton
+  15:00  Coventry City v Fulham  (epl)
+      PPV: UK: EPL 03: 15:00 Coventry City vs Fulham
+      PPV: UK: EPL FULHAM
+      PPV: UK: EPL COVENTRY CITY
+      event: UK: EPL 03: 15:00 Coventry City vs Fulham
+  17:30  Chelsea v Tottenham Hotspur  (epl)
+      guide: VIP: SKY SPORTS PREMIER LEAGUE ⁽ᴮᴷ²⁾ SD ʰᵉᵛᶜ  — Live: SNF
+      guide: Sky Sports Premier League HEVC 4K  — Live SNF: Chelsea v Spurs
+      guide: Sky Sports Main Event UHD 3840P  — Live SNF: Chelsea v Spurs
+      PPV: UK: EPL 04: 17:30 Chelsea vs Tottenham Hotspur
+      PPV: UK: EPL TOTTENHAM
+      PPV: UK: EPL CHELSEA
+      event: UK: EPL 04: 17:30 Chelsea vs Tottenham Hotspur
+      broadcaster (competition fit): Sky Sports Premier League HEVC 4K
+  15:00  Dundee United v Aberdeen  (spfl)
+      PPV: UK: SPFL: ABERDEEN FC (REDS TV)
+  15:00  Falkirk v Kilmarnock  (spfl)
+      PPV: UK: SPFL: KILIMARNOCK FC
+      PPV: UK: SPEL: SOCOTTISH PREM : FALKIRK FC TV
+  15:00  Rangers v St Johnstone  (spfl)
+      PPV: UK: SPFL: ST. JOHNSTONE FC
+      PPV: UK: SPFL: RANGERS TV
+      club TV: SPFL: RANGERS TV
+  15:00  St Mirren v Dundee  (spfl)
+      PPV: UK: SPFL: ST. MIRREN FC
+      PPV: UK: SPFL: DUNDEE
+  12:30  Charlton Athletic v Norwich City  (champ)
+      guide: Sky Sports Football HEVC 4K  — Live EFL: Charlton v Norwich City
+      guide: Sky Sports Main Event UHD 3840P  — Live EFL: Charlton v Norwich City
+      PPV: UK: CHAMP: NORWICH CITY
+      PPV: UK: CHAMP: CHARLTON ATHLETIC
+  12:30  Portsmouth v Millwall  (champ)
+      PPV: UK: CHAMP: PORTSMOUTH
+      PPV: UK: CHAMP: MILLWALL
+  12:30  Sheffield United v Derby County  (champ)
+      guide: Sky Sports + HEVC 4K  — Live EFL: Sheffield Utd v Derby
+      PPV: UK: CHAMP: SHEFFIELD UNITED
+      PPV: UK: CHAMP: DERBY COUNTY
+  15:00  Blackburn Rovers v Wrexham  (champ)
+      PPV: UK: CHAMP: WREXHAM
+      PPV: UK: CHAMP: BLACKBURN ROVERS
+  15:00  Cardiff City v Birmingham City  (champ)
+      PPV: UK: CHAMP: CARDIFF CITY
+      PPV: UK: CHAMP: BIRMINGHAM CITY
+  15:00  Lincoln City v Burnley  (champ)
+      PPV: UK: CHAMP: BURNLEY
+      PPV: UK: CHAMP: LINCOLN CITY
+  15:00  Preston North End v West Bromwich Albion  (champ)
+      PPV: UK: CHAMP: WEST BROMWICH ALBION
+      PPV: UK: CHAMP: PRESTON NORTH END
+  15:00  Queens Park Rangers v Swansea City  (champ)
+      PPV: UK: CHAMP: SWANSEA CITY
+      PPV: UK: CHAMP: QUEENS PARK RANGERS
+  15:00  Stoke City v Bristol City  (champ)
+      PPV: UK: CHAMP: STOKE CITY
+      PPV: UK: CHAMP: BRISTOL CITY
+  15:00  West Ham United v Southampton  (champ)
+      PPV: UK: CHAMP: WEST HAM UNITED
+      PPV: UK: CHAMP: SOUTHAMPTON
+  15:00  Wolverhampton Wanderers v Watford  (champ)
+      PPV: UK: CHAMP: WOLVERHAMPTON WANDERERS
+      PPV: UK: CHAMP: WATFORD
+  15:00  Bo'ness United v Forfar Athletic  (scocup)
+      not found on any of your channels
+  15:00  Bonnyton Thistle v Clachnacuddin  (scocup)
+      not found on any of your channels
+  15:00  Brechin City v Strathspey Thistle  (scocup)
+      not found on any of your channels
+  15:00  Brora Rangers v Cowdenbeath  (scocup)
+      not found on any of your channels
+  15:00  Clydebank v Tranent Juniors  (scocup)
+      not found on any of your channels
+  15:00  Cumbernauld Colts v Banks O'Dee  (scocup)
+      not found on any of your channels
+  15:00  Dumbarton v Keith  (scocup)
+      not found on any of your channels
+  15:00  Dunipace v Largs Thistle  (scocup)
+      not found on any of your channels
+  15:00  Edinburgh City v Kelty Hearts  (scocup)
+      not found on any of your channels
+  15:00  Gretna 2008 v Cumnock  (scocup)
+      not found on any of your channels
+  15:00  Hill of Beath Hawthorn v Musselburgh Athletic  (scocup)
+      not found on any of your channels
+  15:00  Huntly v Annan Athletic  (scocup)
+      not found on any of your channels
+  15:00  Johnstone Burgh FC v Formartine United  (scocup)
+      not found on any of your channels
+  15:00  Lochee United v Spartans FC  (scocup)
+      not found on any of your channels
+  15:00  Renfrew v Stirling Albion  (scocup)
+      not found on any of your channels
+  15:00  Stirling University v Elgin City  (scocup)
+      not found on any of your channels
+  15:00  Stranraer v Tayport  (scocup)
+      not found on any of your channels
+  15:00  Threave Rovers v Pollok  (scocup)
+      not found on any of your channels
+  15:00  Troon v Caledonian Braves  (scocup)
+      not found on any of your channels
+  13:00  Rayo Vallecano v Elche  (laliga)
+      PPV: UK: LA LIGA - RAYO VALLECANO
+  15:15  Racing Santander v Espanyol  (laliga)
+      not taken: Sky Sports Racing HEVC 4K — Raceday Live · Live Racing: Alex Hammond, Jamie Lynch and Vanessa Ryle bring you the G1 Futurity Trophy live f
+      not taken: Racing TV VIP HD — The Full SP: Live Racing · Today's live racing action from Cheltenham and Kelso.
+  17:30  Valencia v Villarreal  (laliga)
+      PPV: UK: LA LIGA - VALENCIA
+      PPV: UK: LA LIGA - VILLAREAL
+  20:00  Atlético Madrid v Deportivo  (laliga)
+      PPV: UK: LA LIGA - ATLETICO MADRID
+      PPV: UK: LA LIGA - DEPORTIVO LA CORUNA
+  14:00  Cagliari v Bologna  (seriea)
+      PPV: UK: SERIE A - CAGLIARI 4K
+      PPV: UK: SERIE A - BOLOGNA 4K
+  14:00  Como v Sassuolo  (seriea)
+      PPV: UK: SERIE A - SASSUOLO 4K
+  17:00  Napoli v AS Roma  (seriea)
+      guide: TNT Sports 4 HEVC 4K  — Live Serie A: Napoli v Roma
+      PPV: UK: SERIE A - ROMA 4K
+      PPV: UK: SERIE A - NAPOLI 4K
+  19:45  Lazio v Parma  (seriea)
+      PPV: UK: SERIE A - LAZIO 4K
+  14:30  FC Augsburg v 1. FC Union Berlin  (bundes)
+      not found on any of your channels
+  14:30  FC Cologne v Schalke 04  (bundes)
+      not found on any of your channels
+  14:30  Mainz v Werder Bremen  (bundes)
+      not found on any of your channels
+  14:30  RB Leipzig v SV Elversberg  (bundes)
+      not found on any of your channels
+  14:30  SC Paderborn 07 v Hamburg SV  (bundes)
+      not found on any of your channels
+  17:30  Borussia Dortmund v Eintracht Frankfurt  (bundes)
+      guide: Sky Sports + HEVC 4K  — Live B'Liga: Dortmund v Frankfurt
+  12:30  Huddersfield Town v Wigan Athletic  (l1)
+      PPV: UK: L1: WIGAN ATHLETIC
+      PPV: UK: L1: HUDDERSFIELD TOWN
+  12:30  Luton Town v Leicester City  (l1)
+      PPV: UK: L1: LUTON TOWN
+      PPV: UK: L1: LEICESTER CITY
+  15:00  AFC Wimbledon v Wycombe Wanderers  (l1)
+      PPV: UK: L1: WYCOMBE WANDERERS
+      PPV: UK: L1: AFC WIMBLEDON
+  15:00  Blackpool v Mansfield Town  (l1)
+      PPV: UK: L1: MANSFIELD TOWN
+      PPV: UK: L1: BLACKPOOL
+  15:00  Bromley v Peterborough United  (l1)
+      PPV: UK: L1: PETERBOROUGH UNITED
+      PPV: UK: L1: BROMLEY
+  15:00  Burton Albion v Leyton Orient  (l1)
+      PPV: UK: L1: LEYTON ORIENT
+      PPV: UK: L1: BURTON ALBION
+  15:00  Cambridge United v Plymouth Argyle  (l1)
+      PPV: UK: L1: PLYMOUTH ARGYLE
+      PPV: UK: L1: CAMBRIDGE UNITED
+  15:00  Doncaster Rovers v Sheffield Wednesday  (l1)
+      PPV: UK: L1: SHEFFIELD WEDNESDAY
+      PPV: UK: L1: DONCASTER ROVERS
+      not taken: Sky Sports Racing HEVC 4K — Raceday Live · Live Racing: Alex Hammond, Jamie Lynch and Vanessa Ryle bring you the G1 Futurity Trophy live f
+  15:00  Notts County v Stockport County  (l1)
+      PPV: UK: L1: STOCKPORT COUNTY
+      PPV: UK: L1: NOTTS COUNTY
+  15:00  Oxford United v Bradford City  (l1)
+      PPV: UK: L1: OXFORD UNITED
+      PPV: UK: L1: BRADFORD CITY
+  15:00  Reading v Barnsley  (l1)
+      PPV: UK: L1: READING
+      PPV: UK: L1: BARNSLEY
+  15:00  Stevenage v Milton Keynes Dons  (l1)
+      PPV: UK: L1: STEVENAGE
+      PPV: UK: L1: MK DONS
+  19:45  Lens v Paris FC  (ligue1)
+      not found on any of your channels
+
+Shown: 39 games on your channels (finished 0), 0 goals shows

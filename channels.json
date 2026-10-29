@@ -1,5 +1,5 @@
 {
-  "updated": "19 Oct 2026, 17:22",
+  "updated": "29 Oct 2026, 19:07",
   "channels": [
     {
       "number": 101,
@@ -16,7 +16,7 @@
       "category": "Entertainment",
       "sky": null,
       "channels": ["UK: BBC 2 4K ◉"],
-      "epg": "BBC2.uk",
+      "epg": "sky:2075",
       "logo": "https:\/\/raw.githubusercontent.com\/tv-logo\/tv-logos\/main\/countries\/united-kingdom\/bbc-two-uk.png"
     },
     {
@@ -304,6 +304,9 @@
       "category": "Entertainment",
       "sky": "4076",
       "channels": ["UK: E4 4K ◉"],
+      "quality": {
+        "FHD": ["UK: E4  HEVC 4K"]
+      },
       "epg": "sky:4076",
       "logo": "https:\/\/raw.githubusercontent.com\/tv-logo\/tv-logos\/main\/countries\/united-kingdom\/e-4-uk.png"
     },
@@ -1276,7 +1279,7 @@
       "category": "Sport",
       "sky": "4022",
       "channels": ["UK: TNT SPORT ULTIMATE ᵁᴴᴰ ³⁸⁴⁰ᴾ"],
-      "epg": "",
+      "epg": "sky:4022",
       "logo": "https:\/\/raw.githubusercontent.com\/tv-logo\/tv-logos\/main\/countries\/united-kingdom\/tnt-sports-ultimate-uk.png"
     },
     {

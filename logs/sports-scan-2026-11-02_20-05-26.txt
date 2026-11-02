@@ -1,0 +1,162 @@
+JPTV Live Sports scan · Mon 2 Nov 2026, 20:05
+
+Games found per category
+  1  UK| EPL PREMIER LEAGUE PPV ⱽᴵᴾ   [PPV / event category read]
+  0  UK| DAZN PPV VIP   [PPV / event category read]
+  0  UK| EPL PREMIER LEAGUE PPV   [PPV / event category read]
+  0  UK| LA LIGA TEAM PPV   [PPV / event category read]
+  0  UK| SERIE A TEAM PPV   [PPV / event category read]
+  3  Sport
+  2  Serie A Team PPV
+  1  Now TV Sport
+  1  EPL Premier League PPV
+  1  LA Liga Team PPV
+
+Leagues: ucl, uel, uecl, epl, spfl, scocup, laliga, seriea, bundes, l1, ligue1, champ, l2, eflcup, scolcup · today's fixtures: 5 (on now 4, still to come 0, finished 1)
+Channels looked at: 1544 (radio stations left out: 63)
+
+Learnt groups read for seriea, ligue1, epl, laliga (plus the broadcasters' and clubs' channels, always) (5)
+  UK| SERIE A TEAM PPV
+  UK| DAZN PPV VIP
+  UK| EPL PREMIER LEAGUE PPV ⱽᴵᴾ
+  UK| EPL PREMIER LEAGUE PPV
+  UK| LA LIGA TEAM PPV
+Step 1: 310 sports channels, their guide read once: 36 listings around today's kick-offs
+Step 1, sports channels: 3 of 5 games found so far
+Provider groups: 38 could be read; 5 read (what's been learnt), 33 left out
+Step 2, competition groups: 4 of 5 games found so far
+Step 3, club channels: 4 of 5 games found so far
+
+Provider groups read (5)
+  UK| EPL PREMIER LEAGUE PPV ⱽᴵᴾ  ·  37 channels
+  UK| EPL PREMIER LEAGUE PPV  ·  32 channels
+  UK| LA LIGA TEAM PPV  ·  23 channels
+  UK| SERIE A TEAM PPV  ·  21 channels
+  UK| DAZN PPV VIP  ·  100 channels
+
+Event channels read (their own short guide) (100)
+  UK: EPL 01: 20:00 Newcastle United vs Everton  [UK| EPL PREMIER LEAGUE PPV ⱽᴵᴾ]  ·  0 programmes
+  UK: EPL 01: 20:00 Newcastle United vs Everton  [UK| EPL PREMIER LEAGUE PPV ⱽᴵᴾ]  ·  0 programmes
+  UK: EPL 01: 20:00 Newcastle United vs Everton  [UK| EPL PREMIER LEAGUE PPV ⱽᴵᴾ]  ·  0 programmes
+  UK: EPL 02:  [UK| EPL PREMIER LEAGUE PPV ⱽᴵᴾ]  ·  0 programmes
+  UK: EPL 02:  [UK| EPL PREMIER LEAGUE PPV ⱽᴵᴾ]  ·  0 programmes
+  UK: EPL 02:  [UK| EPL PREMIER LEAGUE PPV ⱽᴵᴾ]  ·  0 programmes
+  UK: EPL 03:  [UK| EPL PREMIER LEAGUE PPV ⱽᴵᴾ]  ·  0 programmes
+  UK: EPL 03:  [UK| EPL PREMIER LEAGUE PPV ⱽᴵᴾ]  ·  0 programmes
+  UK: EPL 03:  [UK| EPL PREMIER LEAGUE PPV ⱽᴵᴾ]  ·  0 programmes
+  UK: EPL 04:  [UK| EPL PREMIER LEAGUE PPV ⱽᴵᴾ]  ·  0 programmes
+  UK: EPL 04:  [UK| EPL PREMIER LEAGUE PPV ⱽᴵᴾ]  ·  0 programmes
+  UK: EPL 04:  [UK| EPL PREMIER LEAGUE PPV ⱽᴵᴾ]  ·  0 programmes
+  UK: EPL 05:  [UK| EPL PREMIER LEAGUE PPV ⱽᴵᴾ]  ·  0 programmes
+  UK: EPL 05:  [UK| EPL PREMIER LEAGUE PPV ⱽᴵᴾ]  ·  0 programmes
+  UK: EPL 05:  [UK| EPL PREMIER LEAGUE PPV ⱽᴵᴾ]  ·  0 programmes
+  UK: EPL 06:  [UK| EPL PREMIER LEAGUE PPV ⱽᴵᴾ]  ·  0 programmes
+  UK: EPL 06:  [UK| EPL PREMIER LEAGUE PPV ⱽᴵᴾ]  ·  0 programmes
+  UK: EPL 06:  [UK| EPL PREMIER LEAGUE PPV ⱽᴵᴾ]  ·  0 programmes
+  UK: EPL 07:  [UK| EPL PREMIER LEAGUE PPV ⱽᴵᴾ]  ·  0 programmes
+  UK: EPL 07:  [UK| EPL PREMIER LEAGUE PPV ⱽᴵᴾ]  ·  0 programmes
+  UK: EPL 07:  [UK| EPL PREMIER LEAGUE PPV ⱽᴵᴾ]  ·  0 programmes
+  UK: EPL 08:  [UK| EPL PREMIER LEAGUE PPV ⱽᴵᴾ]  ·  0 programmes
+  UK: EPL 08:  [UK| EPL PREMIER LEAGUE PPV ⱽᴵᴾ]  ·  0 programmes
+  UK: EPL 08:  [UK| EPL PREMIER LEAGUE PPV ⱽᴵᴾ]  ·  0 programmes
+  UK: EPL 09:  [UK| EPL PREMIER LEAGUE PPV ⱽᴵᴾ]  ·  0 programmes
+  UK: EPL 09:  [UK| EPL PREMIER LEAGUE PPV ⱽᴵᴾ]  ·  0 programmes
+  UK: EPL 09:  [UK| EPL PREMIER LEAGUE PPV ⱽᴵᴾ]  ·  0 programmes
+  UK: EPL 10:  [UK| EPL PREMIER LEAGUE PPV ⱽᴵᴾ]  ·  0 programmes
+  UK: EPL 10:  [UK| EPL PREMIER LEAGUE PPV ⱽᴵᴾ]  ·  0 programmes
+  UK: EPL 10:  [UK| EPL PREMIER LEAGUE PPV ⱽᴵᴾ]  ·  0 programmes
+  UK: EPL 11:  [UK| EPL PREMIER LEAGUE PPV ⱽᴵᴾ]  ·  0 programmes
+  UK: EPL 11:  [UK| EPL PREMIER LEAGUE PPV ⱽᴵᴾ]  ·  0 programmes
+  UK: EPL 11:  [UK| EPL PREMIER LEAGUE PPV ⱽᴵᴾ]  ·  0 programmes
+  UK: EPL 12:  [UK| EPL PREMIER LEAGUE PPV ⱽᴵᴾ]  ·  0 programmes
+  UK: EPL 12:  [UK| EPL PREMIER LEAGUE PPV ⱽᴵᴾ]  ·  0 programmes
+  UK: EPL 12:  [UK| EPL PREMIER LEAGUE PPV ⱽᴵᴾ]  ·  0 programmes
+  UK: EPL beIN ENGLISH 1 STABLE  [UK| EPL PREMIER LEAGUE PPV]  ·  0 programmes
+  UK: EPL beIN ENGLISH 2 STABLE  [UK| EPL PREMIER LEAGUE PPV]  ·  0 programmes
+  UK: EPL MANCHESTER UTD  [UK| EPL PREMIER LEAGUE PPV]  ·  0 programmes
+  UK: EPL MANCHESTER CITY  [UK| EPL PREMIER LEAGUE PPV]  ·  0 programmes
+  UK: EPL LIVERPOOL  [UK| EPL PREMIER LEAGUE PPV]  ·  0 programmes
+  UK: EPL TOTTENHAM  [UK| EPL PREMIER LEAGUE PPV]  ·  0 programmes
+  UK: EPL ARSENAL  [UK| EPL PREMIER LEAGUE PPV]  ·  0 programmes
+  UK: EPL FULHAM  [UK| EPL PREMIER LEAGUE PPV]  ·  0 programmes
+  UK: EPL WEST HAM  [UK| EPL PREMIER LEAGUE PPV]  ·  0 programmes
+  UK: EPL EVERTON  [UK| EPL PREMIER LEAGUE PPV]  ·  0 programmes
+  UK: EPL CRYSTAL PALACE  [UK| EPL PREMIER LEAGUE PPV]  ·  0 programmes
+  UK: EPL CHELSEA  [UK| EPL PREMIER LEAGUE PPV]  ·  0 programmes
+  UK: EPL LEICESTER CITY  [UK| EPL PREMIER LEAGUE PPV]  ·  0 programmes
+  UK: EPL SOUTHAMPTON  [UK| EPL PREMIER LEAGUE PPV]  ·  0 programmes
+  UK: EPL IPSWICH  [UK| EPL PREMIER LEAGUE PPV]  ·  0 programmes
+  UK: EPL WOLVERHAMPTON WANDERERS  [UK| EPL PREMIER LEAGUE PPV]  ·  0 programmes
+  UK: EPL NOTTINGHAM FOREST  [UK| EPL PREMIER LEAGUE PPV]  ·  0 programmes
+  UK: EPL NEWCASTLE UTD  [UK| EPL PREMIER LEAGUE PPV]  ·  0 programmes
+  UK: EPL LUTON TOWN  [UK| EPL PREMIER LEAGUE PPV]  ·  0 programmes
+  UK: EPL BURNLEY  [UK| EPL PREMIER LEAGUE PPV]  ·  0 programmes
+  UK: EPL COVENTRY CITY  [UK| EPL PREMIER LEAGUE PPV]  ·  0 programmes
+  UK: EPL SHEFFIELD UNITED  [UK| EPL PREMIER LEAGUE PPV]  ·  0 programmes
+  UK: EPL BRIGHTON  [UK| EPL PREMIER LEAGUE PPV]  ·  0 programmes
+  UK: EPL BRENTFORD  [UK| EPL PREMIER LEAGUE PPV]  ·  0 programmes
+  UK: EPL AFC BOURNEMOUTH  [UK| EPL PREMIER LEAGUE PPV]  ·  0 programmes
+  UK: EPL ASTON VILLA  [UK| EPL PREMIER LEAGUE PPV]  ·  0 programmes
+  UK: EPL SUNDERLAND  [UK| EPL PREMIER LEAGUE PPV]  ·  0 programmes
+  UK: EPL LEEDS  [UK| EPL PREMIER LEAGUE PPV]  ·  0 programmes
+  UK: EPL HULL CITY  [UK| EPL PREMIER LEAGUE PPV]  ·  0 programmes
+  UK: EPL 1 PPV ᵁᴴᴰ ³⁸⁴⁰ᴾ  [UK| EPL PREMIER LEAGUE PPV]  ·  0 programmes
+  UK: EPL 2 PPV ᵁᴴᴰ ³⁸⁴⁰ᴾ  [UK| EPL PREMIER LEAGUE PPV]  ·  0 programmes
+  UK: LA LIGA - REAL MADRID  [UK| LA LIGA TEAM PPV]  ·  0 programmes
+  UK: LA LIGA - BARCELONA  [UK| LA LIGA TEAM PPV]  ·  0 programmes
+  UK: LA LIGA - ATLETICO MADRID  [UK| LA LIGA TEAM PPV]  ·  0 programmes
+  UK: LA LIGA - ATHLETIC BILBAO  [UK| LA LIGA TEAM PPV]  ·  0 programmes
+  UK: LA LIGA - REAL BETIS  [UK| LA LIGA TEAM PPV]  ·  0 programmes
+  UK: LA LIGA - SEVILLA  [UK| LA LIGA TEAM PPV]  ·  0 programmes
+  UK: LA LIGA - REAL SOCIEDAD  [UK| LA LIGA TEAM PPV]  ·  0 programmes
+  UK: LA LIGA - ALAVES  [UK| LA LIGA TEAM PPV]  ·  0 programmes
+  UK: LA LIGA - ALMERÍA  [UK| LA LIGA TEAM PPV]  ·  0 programmes
+  UK: LA LIGA - CADIZ  [UK| LA LIGA TEAM PPV]  ·  0 programmes
+  UK: LA LIGA - CELTA VIGO  [UK| LA LIGA TEAM PPV]  ·  0 programmes
+  UK: LA LIGA - GETAFE  [UK| LA LIGA TEAM PPV]  ·  0 programmes
+  UK: LA LIGA - GIRONA  [UK| LA LIGA TEAM PPV]  ·  0 programmes
+  UK: LA LIGA - GRANADA  [UK| LA LIGA TEAM PPV]  ·  0 programmes
+  UK: LA LIGA - LAS PALMAS  [UK| LA LIGA TEAM PPV]  ·  0 programmes
+  UK: LA LIGA - MALLORCA  [UK| LA LIGA TEAM PPV]  ·  0 programmes
+  UK: LA LIGA - OSASUNA  [UK| LA LIGA TEAM PPV]  ·  0 programmes
+  UK: LA LIGA - RAYO VALLECANO  [UK| LA LIGA TEAM PPV]  ·  0 programmes
+  UK: LA LIGA - VALENCIA  [UK| LA LIGA TEAM PPV]  ·  0 programmes
+  UK: LA LIGA - VILLAREAL  [UK| LA LIGA TEAM PPV]  ·  0 programmes
+  UK: LA LIGA - LEGANES  [UK| LA LIGA TEAM PPV]  ·  0 programmes
+  UK: LA LIGA - DEPORTIVO LA CORUNA  [UK| LA LIGA TEAM PPV]  ·  0 programmes
+  UK: SERIE A - JUVENTUS 4K  [UK| SERIE A TEAM PPV]  ·  0 programmes
+  UK: SERIE A - INTER MILAN 4K  [UK| SERIE A TEAM PPV]  ·  0 programmes
+  UK: SERIE A - AC MILAN 4K  [UK| SERIE A TEAM PPV]  ·  0 programmes
+  UK: SERIE A - ROMA 4K  [UK| SERIE A TEAM PPV]  ·  0 programmes
+  UK: SERIE A - NAPOLI 4K  [UK| SERIE A TEAM PPV]  ·  0 programmes
+  UK: SERIE A - ATALANTA 4K  [UK| SERIE A TEAM PPV]  ·  0 programmes
+  UK: SERIE A - VERONA 4K  [UK| SERIE A TEAM PPV]  ·  0 programmes
+  UK: SERIE A - UDINESE 4K  [UK| SERIE A TEAM PPV]  ·  0 programmes
+  UK: SERIE A - TORINO 4K  [UK| SERIE A TEAM PPV]  ·  0 programmes
+  UK: SERIE A - SALERNITANA 4K  [UK| SERIE A TEAM PPV]  ·  0 programmes
+  UK: SERIE A - SASSUOLO 4K  [UK| SERIE A TEAM PPV]  ·  0 programmes
+Step 4: the whole guide searched for 1 game(s) not found by then
+
+Today's games and where they were found
+  17:30  Sassuolo v Fiorentina  (seriea)
+      2 competition group: UK: SERIE A - SASSUOLO 4K  [UK| SERIE A TEAM PPV]
+      2 competition group: UK: SERIE A - FIORENTINA 4K  [UK| SERIE A TEAM PPV]
+  19:45  Atalanta v Parma  (seriea)
+      1 broadcaster guide: TNT Sports 1 HEVC 4K  — Live Serie A: Atalanta v Parma
+      2 competition group: UK: SERIE A - ATALANTA 4K  [UK| SERIE A TEAM PPV]
+  19:45  Lorient v Brest  (ligue1)
+      not found on any of your channels
+  20:00  Newcastle United v Everton  (epl)
+      1 broadcaster guide: Sky Sports Main Event UHD 3840P  — Live MNF: Newcastle v Everton
+      1 broadcaster guide: Sky Sports Premier League HEVC 4K  — Live MNF: Newcastle v Everton
+      1 broadcaster (competition fit): Sky Sports Premier League HEVC 4K
+      2 competition group: UK: EPL 01: 20:00 Newcastle United vs Everton  [UK| EPL PREMIER LEAGUE PPV ⱽᴵᴾ]
+      2 competition group: UK: EPL EVERTON  [UK| EPL PREMIER LEAGUE PPV]
+      2 competition group: UK: EPL NEWCASTLE UTD  [UK| EPL PREMIER LEAGUE PPV]
+      4 event: UK: EPL 01: 20:00 Newcastle United vs Everton
+  20:00  Deportivo v Osasuna  (laliga)
+      1 broadcaster guide: Premier Sport 1 VIP HD  — Live LALIGA: Deportivo v Osasuna
+      2 competition group: UK: LA LIGA - OSASUNA  [UK| LA LIGA TEAM PPV]
+      2 competition group: UK: LA LIGA - DEPORTIVO LA CORUNA  [UK| LA LIGA TEAM PPV]
+
+Shown: 4 games on your channels (finished 1), 0 goals shows

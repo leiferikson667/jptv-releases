@@ -1,0 +1,204 @@
+JPTV Live Sports scan · Tue 3 Nov 2026, 21:55
+
+Games found per category
+  0  UK| CHAMPIONSHIP PPV   [PPV / event category read]
+  0  UK| LEAGUE ONE PPV   [PPV / event category read]
+  0  UK| LEAGUE TWO PPV   [PPV / event category read]
+  0  UK| UEFA PPV   [PPV / event category read]
+  9  UEFA PPV
+  9  Championship PPV
+  6  Sport
+  2  League One PPV
+  1  League Two PPV
+  1  Now TV Sport
+
+Leagues: ucl, uel, uecl, epl, spfl, scocup, laliga, seriea, bundes, l1, ligue1, champ, l2, eflcup, scolcup · today's fixtures: 21 (on now 2, still to come 0, finished 19)
+Channels looked at: 1544 (radio stations left out: 63)
+
+Learnt groups read for ucl, l1, champ, l2 (plus the broadcasters' and clubs' channels, always) (4)
+  UK| UEFA PPV
+  UK| LEAGUE ONE PPV
+  UK| CHAMPIONSHIP PPV
+  UK| LEAGUE TWO PPV
+Step 1: 310 sports channels, their guide read once: 16 listings around today's kick-offs
+
+Goals shows (their own entry, never a game's channel) (2)
+  22:00  UCL Goals Show Xtra  (ucl)  ·  TNT Sports 2 HEVC 4K
+  19:30  UCL Goals Show Xtra  (ucl)  ·  TNT Sports 3 HEVC 4K
+Step 1, sports channels: 5 of 21 games found so far
+Provider groups: 38 could be read; 4 read (what's been learnt), 34 left out
+Step 2, competition groups: 21 of 21 games found so far
+Step 3, club channels: 21 of 21 games found so far
+
+Provider groups read (4)
+  UK| UEFA PPV  ·  38 channels
+  UK| CHAMPIONSHIP PPV  ·  25 channels
+  UK| LEAGUE ONE PPV  ·  25 channels
+  UK| LEAGUE TWO PPV  ·  25 channels
+
+Event channels read (their own short guide) (100)
+  UK: UEFA | 01 - Galatasaray vs Stuttgart 5:45pm  [UK| UEFA PPV]  ·  0 programmes
+  UK: UEFA | 02 - Shakhtar vs Sporting 5:45pm  [UK| UEFA PPV]  ·  0 programmes
+  UK: UEFA | 03 - UCL GOALS SHOW 8:00pm  [UK| UEFA PPV]  ·  0 programmes
+  UK: UEFA | 04 - Atletico Madrid vs Bayern Munich 8:00pm  [UK| UEFA PPV]  ·  0 programmes
+  UK: UEFA | 05 - Barcelona vs Aston Villa 8:00pm  [UK| UEFA PPV]  ·  0 programmes
+  UK: UEFA | 06 - Bodo/Glimt vs Lille 8:00pm  [UK| UEFA PPV]  ·  0 programmes
+  UK: UEFA | 07 - Feyenoord vs inter Milan 8:00pm  [UK| UEFA PPV]  ·  0 programmes
+  UK: UEFA | 08 - Lask vs Slovan Bratislava 8:00pm  [UK| UEFA PPV]  ·  0 programmes
+  UK: UEFA | 09 - Manchester United vs Roma 8:00pm  [UK| UEFA PPV]  ·  0 programmes
+  UK: UEFA | 10 - Villareal vs PSG 8:00pm  [UK| UEFA PPV]  ·  0 programmes
+  UK: UEFA | 11 - Celje vs Red Bull Salzburg 20:00 pm  [UK| UEFA PPV]  ·  0 programmes
+  UK: UEFA | 12 - Celtic vs Celta Vigo 20:00 pm  [UK| UEFA PPV]  ·  0 programmes
+  UK: UEFA | 13 - Hoffenheim vs Olympique Lyonnais 20:00 pm  [UK| UEFA PPV]  ·  0 programmes
+  UK: UEFA | 14 - Jagiellonia Białystok vs Anderlecht 20:00 pm  [UK| UEFA PPV]  ·  0 programmes
+  UK: UEFA | 15 - Lillestrøm vs Real Sociedad 20:00 pm  [UK| UEFA PPV]  ·  0 programmes
+  UK: UEFA | 16 - Olympiakos vs Sparta Prague 20:00 pm  [UK| UEFA PPV]  ·  0 programmes
+  UK: UEFA | 17 - Omonia Nicosia vs Benfica 20:00 pm  [UK| UEFA PPV]  ·  0 programmes
+  UK: UEFA | 18 - Viktoria Plzeň vs Levski Sofia 20:00 pm  [UK| UEFA PPV]  ·  0 programmes
+  UK: UEFA | 19 - Kairat vs Panathinaikos 13:30 pm  [UK| UEFA PPV]  ·  0 programmes
+  UK: UEFA | 20 - Getafe vs Lugano 17:45 pm  [UK| UEFA PPV]  ·  0 programmes
+  UK: UEFA | 21 - Iberia 1999 vs Mjällby 17:45 pm  [UK| UEFA PPV]  ·  0 programmes
+  UK: UEFA | 22 -  [UK| UEFA PPV]  ·  0 programmes
+  UK: UEFA | 23 -  [UK| UEFA PPV]  ·  0 programmes
+  UK: UEFA | 24 - Kauno Žalgiris vs Brann 17:45 pm  [UK| UEFA PPV]  ·  0 programmes
+  UK: UEFA | 25 - Nordsjælland vs CSKA Sofia 17:45 pm  [UK| UEFA PPV]  ·  0 programmes
+  UK: UEFA | 26 - Lille v KÍ Klaksvík 20.00  [UK| UEFA PPV]  ·  0 programmes
+  UK: UEFA | 27 - Red Star Belgrade vs Copenhagen 17:45 pm  [UK| UEFA PPV]  ·  0 programmes
+  UK: UEFA | 28 - Trabzonspor vs Heart of Midlothian 17:45 pm  [UK| UEFA PPV]  ·  0 programmes
+  UK: UEFA | 29 - AGF vs Egnatia Rrogozhinë 20:00 pm  [UK| UEFA PPV]  ·  0 programmes
+  UK: UEFA | 30 - Ajax vs Atalanta 20:00 pm  [UK| UEFA PPV]  ·  0 programmes
+  UK: UEFA | 31 - Borac Banja Luka vs KuPS 20:00 pm  [UK| UEFA PPV]  ·  0 programmes
+  UK: UEFA | 32 - Lincoln Red Imps vs Twente 20:00 pm  [UK| UEFA PPV]  ·  0 programmes
+  UK: UEFA | 33 - Midtjylland vs Sint-Truiden 20:00 pm  [UK| UEFA PPV]  ·  0 programmes
+  UK: UEFA | 34 - Monaco vs Freiburg 20:00 pm  [UK| UEFA PPV]  ·  0 programmes
+  UK: UEFA | 35 - Sporting Braga vs Gent 20:00 pm  [UK| UEFA PPV]  ·  0 programmes
+  UK: UEFA | 36 - Thun vs Hajduk Split 20:00 pm  [UK| UEFA PPV]  ·  0 programmes
+  UK: UEFA | 37 -  [UK| UEFA PPV]  ·  0 programmes
+  UK: CHAMP: BURNLEY  [UK| CHAMPIONSHIP PPV]  ·  0 programmes
+  UK: CHAMP: WREXHAM  [UK| CHAMPIONSHIP PPV]  ·  0 programmes
+  UK: CHAMP: WOLVERHAMPTON WANDERERS  [UK| CHAMPIONSHIP PPV]  ·  0 programmes
+  UK: CHAMP: WEST HAM UNITED  [UK| CHAMPIONSHIP PPV]  ·  0 programmes
+  UK: CHAMP: WEST BROMWICH ALBION  [UK| CHAMPIONSHIP PPV]  ·  0 programmes
+  UK: CHAMP: WATFORD  [UK| CHAMPIONSHIP PPV]  ·  0 programmes
+  UK: CHAMP: SWANSEA CITY  [UK| CHAMPIONSHIP PPV]  ·  0 programmes
+  UK: CHAMP: STOKE CITY  [UK| CHAMPIONSHIP PPV]  ·  0 programmes
+  UK: CHAMP: SOUTHAMPTON  [UK| CHAMPIONSHIP PPV]  ·  0 programmes
+  UK: CHAMP: SHEFFIELD UNITED  [UK| CHAMPIONSHIP PPV]  ·  0 programmes
+  UK: CHAMP: QUEENS PARK RANGERS  [UK| CHAMPIONSHIP PPV]  ·  0 programmes
+  UK: CHAMP: PRESTON NORTH END  [UK| CHAMPIONSHIP PPV]  ·  0 programmes
+  UK: CHAMP: PORTSMOUTH  [UK| CHAMPIONSHIP PPV]  ·  0 programmes
+  UK: CHAMP: NORWICH CITY  [UK| CHAMPIONSHIP PPV]  ·  0 programmes
+  UK: CHAMP: MILLWALL  [UK| CHAMPIONSHIP PPV]  ·  0 programmes
+  UK: CHAMP: MIDDLESBROUGH  [UK| CHAMPIONSHIP PPV]  ·  0 programmes
+  UK: CHAMP: LINCOLN CITY  [UK| CHAMPIONSHIP PPV]  ·  0 programmes
+  UK: CHAMP: DERBY COUNTY  [UK| CHAMPIONSHIP PPV]  ·  0 programmes
+  UK: CHAMP: CHARLTON ATHLETIC  [UK| CHAMPIONSHIP PPV]  ·  0 programmes
+  UK: CHAMP: CARDIFF CITY  [UK| CHAMPIONSHIP PPV]  ·  0 programmes
+  UK: CHAMP: BRISTOL CITY  [UK| CHAMPIONSHIP PPV]  ·  0 programmes
+  UK: CHAMP: BOLTON WANDERERS  [UK| CHAMPIONSHIP PPV]  ·  0 programmes
+  UK: CHAMP: BLACKBURN ROVERS  [UK| CHAMPIONSHIP PPV]  ·  0 programmes
+  UK: CHAMP: BIRMINGHAM CITY  [UK| CHAMPIONSHIP PPV]  ·  0 programmes
+  UK: L1: WYCOMBE WANDERERS  [UK| LEAGUE ONE PPV]  ·  0 programmes
+  UK: L1: WIGAN ATHLETIC  [UK| LEAGUE ONE PPV]  ·  0 programmes
+  UK: L1: STOCKPORT COUNTY  [UK| LEAGUE ONE PPV]  ·  0 programmes
+  UK: L1: STEVENAGE  [UK| LEAGUE ONE PPV]  ·  0 programmes
+  UK: L1: SHEFFIELD WEDNESDAY  [UK| LEAGUE ONE PPV]  ·  0 programmes
+  UK: L1: READING  [UK| LEAGUE ONE PPV]  ·  0 programmes
+  UK: L1: PLYMOUTH ARGYLE  [UK| LEAGUE ONE PPV]  ·  0 programmes
+  UK: L1: PETERBOROUGH UNITED  [UK| LEAGUE ONE PPV]  ·  0 programmes
+  UK: L1: OXFORD UNITED  [UK| LEAGUE ONE PPV]  ·  0 programmes
+  UK: L1: NOTTS COUNTY  [UK| LEAGUE ONE PPV]  ·  0 programmes
+  UK: L1: MK DONS  [UK| LEAGUE ONE PPV]  ·  0 programmes
+  UK: L1: MANSFIELD TOWN  [UK| LEAGUE ONE PPV]  ·  0 programmes
+  UK: L1: LUTON TOWN  [UK| LEAGUE ONE PPV]  ·  0 programmes
+  UK: L1: LEYTON ORIENT  [UK| LEAGUE ONE PPV]  ·  0 programmes
+  UK: L1: LEICESTER CITY  [UK| LEAGUE ONE PPV]  ·  0 programmes
+  UK: L1: HUDDERSFIELD TOWN  [UK| LEAGUE ONE PPV]  ·  0 programmes
+  UK: L1: DONCASTER ROVERS  [UK| LEAGUE ONE PPV]  ·  0 programmes
+  UK: L1: CAMBRIDGE UNITED  [UK| LEAGUE ONE PPV]  ·  0 programmes
+  UK: L1: BURTON ALBION  [UK| LEAGUE ONE PPV]  ·  0 programmes
+  UK: L1: BROMLEY  [UK| LEAGUE ONE PPV]  ·  0 programmes
+  UK: L1: BRADFORD CITY  [UK| LEAGUE ONE PPV]  ·  0 programmes
+  UK: L1: BLACKPOOL  [UK| LEAGUE ONE PPV]  ·  0 programmes
+  UK: L1: BARNSLEY  [UK| LEAGUE ONE PPV]  ·  0 programmes
+  UK: L1: AFC WIMBLEDON  [UK| LEAGUE ONE PPV]  ·  0 programmes
+  UK: L2: YORK CITY  [UK| LEAGUE TWO PPV]  ·  0 programmes
+  UK: L2: WALSALL  [UK| LEAGUE TWO PPV]  ·  0 programmes
+  UK: L2: TRANMERE ROVERS  [UK| LEAGUE TWO PPV]  ·  0 programmes
+  UK: L2: SWINDON TOWN  [UK| LEAGUE TWO PPV]  ·  0 programmes
+  UK: L2: SHREWSBURY TOWN  [UK| LEAGUE TWO PPV]  ·  0 programmes
+  UK: L2: SALFORD CITY  [UK| LEAGUE TWO PPV]  ·  0 programmes
+  UK: L2: ROTHERHAM UNITED  [UK| LEAGUE TWO PPV]  ·  0 programmes
+  UK: L2: ROCHDALE  [UK| LEAGUE TWO PPV]  ·  0 programmes
+  UK: L2: PORT VALE  [UK| LEAGUE TWO PPV]  ·  0 programmes
+  UK: L2: OLDHAM ATHLETIC  [UK| LEAGUE TWO PPV]  ·  0 programmes
+  UK: L2: NORTHAMPTON TOWN  [UK| LEAGUE TWO PPV]  ·  0 programmes
+  UK: L2: NEWPORT COUNTY  [UK| LEAGUE TWO PPV]  ·  0 programmes
+  UK: L2: GRIMSBY TOWN  [UK| LEAGUE TWO PPV]  ·  0 programmes
+  UK: L2: GILLINGHAM  [UK| LEAGUE TWO PPV]  ·  0 programmes
+  UK: L2: FLEETWOOD TOWN  [UK| LEAGUE TWO PPV]  ·  0 programmes
+
+Today's games and where they were found
+  17:45  Galatasaray v VfB Stuttgart  (ucl)
+      2 competition group: UK: UEFA | 01 - Galatasaray vs Stuttgart 5:45pm  [UK| UEFA PPV]
+  17:45  Shakhtar Donetsk v Sporting CP  (ucl)
+      2 competition group: UK: UEFA | 02 - Shakhtar vs Sporting 5:45pm  [UK| UEFA PPV]
+  19:45  Huddersfield Town v Luton Town  (l1)
+      2 competition group: UK: L1: LUTON TOWN  [UK| LEAGUE ONE PPV]
+      2 competition group: UK: L1: HUDDERSFIELD TOWN  [UK| LEAGUE ONE PPV]
+  19:45  Wigan Athletic v Mansfield Town  (l1)
+      2 competition group: UK: L1: WIGAN ATHLETIC  [UK| LEAGUE ONE PPV]
+      2 competition group: UK: L1: MANSFIELD TOWN  [UK| LEAGUE ONE PPV]
+  19:45  Blackburn Rovers v Stoke City  (champ)
+      2 competition group: UK: CHAMP: STOKE CITY  [UK| CHAMPIONSHIP PPV]
+      2 competition group: UK: CHAMP: BLACKBURN ROVERS  [UK| CHAMPIONSHIP PPV]
+  19:45  Charlton Athletic v Bolton Wanderers  (champ)
+      2 competition group: UK: CHAMP: CHARLTON ATHLETIC  [UK| CHAMPIONSHIP PPV]
+      2 competition group: UK: CHAMP: BOLTON WANDERERS  [UK| CHAMPIONSHIP PPV]
+  19:45  Derby County v Norwich City  (champ)
+      2 competition group: UK: CHAMP: NORWICH CITY  [UK| CHAMPIONSHIP PPV]
+      2 competition group: UK: CHAMP: DERBY COUNTY  [UK| CHAMPIONSHIP PPV]
+  19:45  Portsmouth v Swansea City  (champ)
+      2 competition group: UK: CHAMP: SWANSEA CITY  [UK| CHAMPIONSHIP PPV]
+      2 competition group: UK: CHAMP: PORTSMOUTH  [UK| CHAMPIONSHIP PPV]
+  19:45  Preston North End v Sheffield United  (champ)
+      2 competition group: UK: CHAMP: SHEFFIELD UNITED  [UK| CHAMPIONSHIP PPV]
+      2 competition group: UK: CHAMP: PRESTON NORTH END  [UK| CHAMPIONSHIP PPV]
+  19:45  Queens Park Rangers v Burnley  (champ)
+      2 competition group: UK: CHAMP: BURNLEY  [UK| CHAMPIONSHIP PPV]
+      2 competition group: UK: CHAMP: QUEENS PARK RANGERS  [UK| CHAMPIONSHIP PPV]
+  19:45  Watford v Lincoln City  (champ)
+      2 competition group: UK: CHAMP: WATFORD  [UK| CHAMPIONSHIP PPV]
+      2 competition group: UK: CHAMP: LINCOLN CITY  [UK| CHAMPIONSHIP PPV]
+  19:45  Northampton Town v Oldham Athletic  (l2)
+      2 competition group: UK: L2: OLDHAM ATHLETIC  [UK| LEAGUE TWO PPV]
+      2 competition group: UK: L2: NORTHAMPTON TOWN  [UK| LEAGUE TWO PPV]
+  20:00  Atlético Madrid v Bayern Munich  (ucl)
+      1 broadcaster guide: TNT Sports 2 HEVC 4K  — Live UCL: Atletico Madrid v Bayern
+      2 competition group: UK: UEFA | 04 - Atletico Madrid vs Bayern Munich 8:00pm  [UK| UEFA PPV]
+  20:00  Barcelona v Aston Villa  (ucl)
+      1 broadcaster guide: TNT Sports 1 HEVC 4K  — Live UCL: Barcelona v Aston Villa
+      2 competition group: UK: UEFA | 05 - Barcelona vs Aston Villa 8:00pm  [UK| UEFA PPV]
+  20:00  Bodo/Glimt v Lille  (ucl)
+      2 competition group: UK: UEFA | 06 - Bodo/Glimt vs Lille 8:00pm  [UK| UEFA PPV]
+  20:00  Feyenoord Rotterdam v Internazionale  (ucl)
+      2 competition group: UK: UEFA | 07 - Feyenoord vs inter Milan 8:00pm  [UK| UEFA PPV]
+  20:00  LASK Linz v Slovan Bratislava  (ucl)
+      2 competition group: UK: UEFA | 08 - Lask vs Slovan Bratislava 8:00pm  [UK| UEFA PPV]
+  20:00  Manchester United v AS Roma  (ucl)
+      2 competition group: UK: UEFA | 09 - Manchester United vs Roma 8:00pm  [UK| UEFA PPV]
+      3 club TV: MUTV RAW
+  20:00  Villarreal v Paris Saint-Germain  (ucl)
+      1 broadcaster guide: TNT Sports 4 HEVC 4K  — Live UCL: Villarreal v Paris SG
+      2 competition group: UK: UEFA | 10 - Villareal vs PSG 8:00pm  [UK| UEFA PPV]
+  20:00  Birmingham City v Millwall  (champ)
+      1 broadcaster guide: Sky Sports + HEVC 4K  — Live EFL: Birmingham v Millwall
+      2 competition group: UK: CHAMP: MILLWALL  [UK| CHAMPIONSHIP PPV]
+      2 competition group: UK: CHAMP: BIRMINGHAM CITY  [UK| CHAMPIONSHIP PPV]
+  20:00  West Bromwich Albion v Southampton  (champ)
+      1 broadcaster guide: Sky Sports Football HEVC 4K  — Live EFL: West Brom v Southampton
+      1 broadcaster guide: Sky Sports Main Event UHD 3840P  — Live EFL: West Brom v Southampton
+      2 competition group: UK: CHAMP: WEST BROMWICH ALBION  [UK| CHAMPIONSHIP PPV]
+      2 competition group: UK: CHAMP: SOUTHAMPTON  [UK| CHAMPIONSHIP PPV]
+
+Shown: 21 games on your channels (finished 19), 2 goals shows

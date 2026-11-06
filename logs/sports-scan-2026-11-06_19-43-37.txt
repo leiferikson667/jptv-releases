@@ -1,0 +1,168 @@
+JPTV Live Sports scan · Fri 6 Nov 2026, 19:43
+
+Games found per category
+  1  UK| EPL PREMIER LEAGUE PPV ⱽᴵᴾ   [PPV / event category read]
+  0  UK| CHAMPIONSHIP PPV   [PPV / event category read]
+  0  UK| DAZN PPV VIP   [PPV / event category read]
+  0  UK| EPL PREMIER LEAGUE PPV   [PPV / event category read]
+  0  UK| LA LIGA TEAM PPV   [PPV / event category read]
+  0  UK| SERIE A TEAM PPV   [PPV / event category read]
+  3  Sport
+  1  Serie A Team PPV
+  1  Now TV Sport
+  1  EPL Premier League PPV
+  1  LA Liga Team PPV
+  1  Championship PPV
+
+Leagues: ucl, uel, uecl, epl, spfl, scocup, laliga, seriea, bundes, l1, ligue1, champ, l2, eflcup, scolcup · today's fixtures: 6 (on now 1, still to come 5, finished 0)
+Channels looked at: 1544 (radio stations left out: 63)
+
+Learnt groups read for bundes, seriea, ligue1, epl, laliga, champ (plus the broadcasters' and clubs' channels, always) (6)
+  UK| SERIE A TEAM PPV
+  UK| DAZN PPV VIP
+  UK| EPL PREMIER LEAGUE PPV ⱽᴵᴾ
+  UK| EPL PREMIER LEAGUE PPV
+  UK| LA LIGA TEAM PPV
+  UK| CHAMPIONSHIP PPV
+Step 1: 310 sports channels, their guide read once: 71 listings around today's kick-offs
+Step 1, sports channels: 3 of 6 games found so far
+Provider groups: 38 could be read; 6 read (what's been learnt), 32 left out
+Step 2, competition groups: 4 of 6 games found so far
+Step 3, club channels: 4 of 6 games found so far
+
+Provider groups read (6)
+  UK| EPL PREMIER LEAGUE PPV ⱽᴵᴾ  ·  37 channels
+  UK| EPL PREMIER LEAGUE PPV  ·  32 channels
+  UK| CHAMPIONSHIP PPV  ·  25 channels
+  UK| LA LIGA TEAM PPV  ·  23 channels
+  UK| SERIE A TEAM PPV  ·  21 channels
+  UK| DAZN PPV VIP  ·  100 channels
+
+Event channels read (their own short guide) (100)
+  UK: EPL 01: 20:00 Everton vs Coventry City  [UK| EPL PREMIER LEAGUE PPV ⱽᴵᴾ]  ·  0 programmes
+  UK: EPL 01: 20:00 Everton vs Coventry City  [UK| EPL PREMIER LEAGUE PPV ⱽᴵᴾ]  ·  0 programmes
+  UK: EPL 01: 20:00 Everton vs Coventry City  [UK| EPL PREMIER LEAGUE PPV ⱽᴵᴾ]  ·  0 programmes
+  UK: EPL 02:  [UK| EPL PREMIER LEAGUE PPV ⱽᴵᴾ]  ·  0 programmes
+  UK: EPL 02:  [UK| EPL PREMIER LEAGUE PPV ⱽᴵᴾ]  ·  0 programmes
+  UK: EPL 02:  [UK| EPL PREMIER LEAGUE PPV ⱽᴵᴾ]  ·  0 programmes
+  UK: EPL 03:  [UK| EPL PREMIER LEAGUE PPV ⱽᴵᴾ]  ·  0 programmes
+  UK: EPL 03:  [UK| EPL PREMIER LEAGUE PPV ⱽᴵᴾ]  ·  0 programmes
+  UK: EPL 03:  [UK| EPL PREMIER LEAGUE PPV ⱽᴵᴾ]  ·  0 programmes
+  UK: EPL 04:  [UK| EPL PREMIER LEAGUE PPV ⱽᴵᴾ]  ·  0 programmes
+  UK: EPL 04:  [UK| EPL PREMIER LEAGUE PPV ⱽᴵᴾ]  ·  0 programmes
+  UK: EPL 04:  [UK| EPL PREMIER LEAGUE PPV ⱽᴵᴾ]  ·  0 programmes
+  UK: EPL 05:  [UK| EPL PREMIER LEAGUE PPV ⱽᴵᴾ]  ·  0 programmes
+  UK: EPL 05:  [UK| EPL PREMIER LEAGUE PPV ⱽᴵᴾ]  ·  0 programmes
+  UK: EPL 05:  [UK| EPL PREMIER LEAGUE PPV ⱽᴵᴾ]  ·  0 programmes
+  UK: EPL 06:  [UK| EPL PREMIER LEAGUE PPV ⱽᴵᴾ]  ·  0 programmes
+  UK: EPL 06:  [UK| EPL PREMIER LEAGUE PPV ⱽᴵᴾ]  ·  0 programmes
+  UK: EPL 06:  [UK| EPL PREMIER LEAGUE PPV ⱽᴵᴾ]  ·  0 programmes
+  UK: EPL 07:  [UK| EPL PREMIER LEAGUE PPV ⱽᴵᴾ]  ·  0 programmes
+  UK: EPL 07:  [UK| EPL PREMIER LEAGUE PPV ⱽᴵᴾ]  ·  0 programmes
+  UK: EPL 07:  [UK| EPL PREMIER LEAGUE PPV ⱽᴵᴾ]  ·  0 programmes
+  UK: EPL 08:  [UK| EPL PREMIER LEAGUE PPV ⱽᴵᴾ]  ·  0 programmes
+  UK: EPL 08:  [UK| EPL PREMIER LEAGUE PPV ⱽᴵᴾ]  ·  0 programmes
+  UK: EPL 08:  [UK| EPL PREMIER LEAGUE PPV ⱽᴵᴾ]  ·  0 programmes
+  UK: EPL 09:  [UK| EPL PREMIER LEAGUE PPV ⱽᴵᴾ]  ·  0 programmes
+  UK: EPL 09:  [UK| EPL PREMIER LEAGUE PPV ⱽᴵᴾ]  ·  0 programmes
+  UK: EPL 09:  [UK| EPL PREMIER LEAGUE PPV ⱽᴵᴾ]  ·  0 programmes
+  UK: EPL 10:  [UK| EPL PREMIER LEAGUE PPV ⱽᴵᴾ]  ·  0 programmes
+  UK: EPL 10:  [UK| EPL PREMIER LEAGUE PPV ⱽᴵᴾ]  ·  0 programmes
+  UK: EPL 10:  [UK| EPL PREMIER LEAGUE PPV ⱽᴵᴾ]  ·  0 programmes
+  UK: EPL 11:  [UK| EPL PREMIER LEAGUE PPV ⱽᴵᴾ]  ·  0 programmes
+  UK: EPL 11:  [UK| EPL PREMIER LEAGUE PPV ⱽᴵᴾ]  ·  0 programmes
+  UK: EPL 11:  [UK| EPL PREMIER LEAGUE PPV ⱽᴵᴾ]  ·  0 programmes
+  UK: EPL 12:  [UK| EPL PREMIER LEAGUE PPV ⱽᴵᴾ]  ·  0 programmes
+  UK: EPL 12:  [UK| EPL PREMIER LEAGUE PPV ⱽᴵᴾ]  ·  0 programmes
+  UK: EPL 12:  [UK| EPL PREMIER LEAGUE PPV ⱽᴵᴾ]  ·  0 programmes
+  UK: EPL beIN ENGLISH 1 STABLE  [UK| EPL PREMIER LEAGUE PPV]  ·  0 programmes
+  UK: EPL beIN ENGLISH 2 STABLE  [UK| EPL PREMIER LEAGUE PPV]  ·  0 programmes
+  UK: EPL MANCHESTER UTD  [UK| EPL PREMIER LEAGUE PPV]  ·  0 programmes
+  UK: EPL MANCHESTER CITY  [UK| EPL PREMIER LEAGUE PPV]  ·  0 programmes
+  UK: EPL LIVERPOOL  [UK| EPL PREMIER LEAGUE PPV]  ·  0 programmes
+  UK: EPL TOTTENHAM  [UK| EPL PREMIER LEAGUE PPV]  ·  0 programmes
+  UK: EPL ARSENAL  [UK| EPL PREMIER LEAGUE PPV]  ·  0 programmes
+  UK: EPL FULHAM  [UK| EPL PREMIER LEAGUE PPV]  ·  0 programmes
+  UK: EPL WEST HAM  [UK| EPL PREMIER LEAGUE PPV]  ·  0 programmes
+  UK: EPL EVERTON  [UK| EPL PREMIER LEAGUE PPV]  ·  0 programmes
+  UK: EPL CRYSTAL PALACE  [UK| EPL PREMIER LEAGUE PPV]  ·  0 programmes
+  UK: EPL CHELSEA  [UK| EPL PREMIER LEAGUE PPV]  ·  0 programmes
+  UK: EPL LEICESTER CITY  [UK| EPL PREMIER LEAGUE PPV]  ·  0 programmes
+  UK: EPL SOUTHAMPTON  [UK| EPL PREMIER LEAGUE PPV]  ·  0 programmes
+  UK: EPL IPSWICH  [UK| EPL PREMIER LEAGUE PPV]  ·  0 programmes
+  UK: EPL WOLVERHAMPTON WANDERERS  [UK| EPL PREMIER LEAGUE PPV]  ·  0 programmes
+  UK: EPL NOTTINGHAM FOREST  [UK| EPL PREMIER LEAGUE PPV]  ·  0 programmes
+  UK: EPL NEWCASTLE UTD  [UK| EPL PREMIER LEAGUE PPV]  ·  0 programmes
+  UK: EPL LUTON TOWN  [UK| EPL PREMIER LEAGUE PPV]  ·  0 programmes
+  UK: EPL BURNLEY  [UK| EPL PREMIER LEAGUE PPV]  ·  0 programmes
+  UK: EPL COVENTRY CITY  [UK| EPL PREMIER LEAGUE PPV]  ·  0 programmes
+  UK: EPL SHEFFIELD UNITED  [UK| EPL PREMIER LEAGUE PPV]  ·  0 programmes
+  UK: EPL BRIGHTON  [UK| EPL PREMIER LEAGUE PPV]  ·  0 programmes
+  UK: EPL BRENTFORD  [UK| EPL PREMIER LEAGUE PPV]  ·  0 programmes
+  UK: EPL AFC BOURNEMOUTH  [UK| EPL PREMIER LEAGUE PPV]  ·  0 programmes
+  UK: EPL ASTON VILLA  [UK| EPL PREMIER LEAGUE PPV]  ·  0 programmes
+  UK: EPL SUNDERLAND  [UK| EPL PREMIER LEAGUE PPV]  ·  0 programmes
+  UK: EPL LEEDS  [UK| EPL PREMIER LEAGUE PPV]  ·  0 programmes
+  UK: EPL HULL CITY  [UK| EPL PREMIER LEAGUE PPV]  ·  0 programmes
+  UK: EPL 1 PPV ᵁᴴᴰ ³⁸⁴⁰ᴾ  [UK| EPL PREMIER LEAGUE PPV]  ·  0 programmes
+  UK: EPL 2 PPV ᵁᴴᴰ ³⁸⁴⁰ᴾ  [UK| EPL PREMIER LEAGUE PPV]  ·  0 programmes
+  UK: CHAMP: BURNLEY  [UK| CHAMPIONSHIP PPV]  ·  0 programmes
+  UK: CHAMP: WREXHAM  [UK| CHAMPIONSHIP PPV]  ·  0 programmes
+  UK: CHAMP: WOLVERHAMPTON WANDERERS  [UK| CHAMPIONSHIP PPV]  ·  0 programmes
+  UK: CHAMP: WEST HAM UNITED  [UK| CHAMPIONSHIP PPV]  ·  0 programmes
+  UK: CHAMP: WEST BROMWICH ALBION  [UK| CHAMPIONSHIP PPV]  ·  0 programmes
+  UK: CHAMP: WATFORD  [UK| CHAMPIONSHIP PPV]  ·  0 programmes
+  UK: CHAMP: SWANSEA CITY  [UK| CHAMPIONSHIP PPV]  ·  0 programmes
+  UK: CHAMP: STOKE CITY  [UK| CHAMPIONSHIP PPV]  ·  0 programmes
+  UK: CHAMP: SOUTHAMPTON  [UK| CHAMPIONSHIP PPV]  ·  0 programmes
+  UK: CHAMP: SHEFFIELD UNITED  [UK| CHAMPIONSHIP PPV]  ·  0 programmes
+  UK: CHAMP: QUEENS PARK RANGERS  [UK| CHAMPIONSHIP PPV]  ·  0 programmes
+  UK: CHAMP: PRESTON NORTH END  [UK| CHAMPIONSHIP PPV]  ·  0 programmes
+  UK: CHAMP: PORTSMOUTH  [UK| CHAMPIONSHIP PPV]  ·  0 programmes
+  UK: CHAMP: NORWICH CITY  [UK| CHAMPIONSHIP PPV]  ·  0 programmes
+  UK: CHAMP: MILLWALL  [UK| CHAMPIONSHIP PPV]  ·  0 programmes
+  UK: CHAMP: MIDDLESBROUGH  [UK| CHAMPIONSHIP PPV]  ·  0 programmes
+  UK: CHAMP: LINCOLN CITY  [UK| CHAMPIONSHIP PPV]  ·  0 programmes
+  UK: CHAMP: DERBY COUNTY  [UK| CHAMPIONSHIP PPV]  ·  0 programmes
+  UK: CHAMP: CHARLTON ATHLETIC  [UK| CHAMPIONSHIP PPV]  ·  0 programmes
+  UK: CHAMP: CARDIFF CITY  [UK| CHAMPIONSHIP PPV]  ·  0 programmes
+  UK: CHAMP: BRISTOL CITY  [UK| CHAMPIONSHIP PPV]  ·  0 programmes
+  UK: CHAMP: BOLTON WANDERERS  [UK| CHAMPIONSHIP PPV]  ·  0 programmes
+  UK: CHAMP: BLACKBURN ROVERS  [UK| CHAMPIONSHIP PPV]  ·  0 programmes
+  UK: CHAMP: BIRMINGHAM CITY  [UK| CHAMPIONSHIP PPV]  ·  0 programmes
+  UK: LA LIGA - REAL MADRID  [UK| LA LIGA TEAM PPV]  ·  0 programmes
+  UK: LA LIGA - BARCELONA  [UK| LA LIGA TEAM PPV]  ·  0 programmes
+  UK: LA LIGA - ATLETICO MADRID  [UK| LA LIGA TEAM PPV]  ·  0 programmes
+  UK: LA LIGA - ATHLETIC BILBAO  [UK| LA LIGA TEAM PPV]  ·  0 programmes
+  UK: LA LIGA - REAL BETIS  [UK| LA LIGA TEAM PPV]  ·  0 programmes
+  UK: LA LIGA - SEVILLA  [UK| LA LIGA TEAM PPV]  ·  0 programmes
+  UK: LA LIGA - REAL SOCIEDAD  [UK| LA LIGA TEAM PPV]  ·  0 programmes
+  UK: LA LIGA - ALAVES  [UK| LA LIGA TEAM PPV]  ·  0 programmes
+  UK: LA LIGA - ALMERÍA  [UK| LA LIGA TEAM PPV]  ·  0 programmes
+Step 4: the whole guide searched for 2 game(s) not found by then
+
+Today's games and where they were found
+  19:30  Hamburg SV v Borussia Mönchengladbach  (bundes)
+      not found on any of your channels
+  19:45  Venezia v Udinese  (seriea)
+      2 competition group: UK: SERIE A - UDINESE 4K  [UK| SERIE A TEAM PPV]
+  19:45  Toulouse v Strasbourg  (ligue1)
+      not found on any of your channels
+  20:00  Everton v Coventry City  (epl)
+      1 broadcaster guide: Sky Sports Main Event UHD 3840P  — Live FNF: Everton v Coventry
+      1 broadcaster guide: Sky Sports Premier League HEVC 4K  — Live FNF: Everton v Coventry
+      1 broadcaster (competition fit): Sky Sports Premier League HEVC 4K
+      2 competition group: UK: EPL 01: 20:00 Everton vs Coventry City  [UK| EPL PREMIER LEAGUE PPV ⱽᴵᴾ]
+      2 competition group: UK: EPL EVERTON  [UK| EPL PREMIER LEAGUE PPV]
+      2 competition group: UK: EPL COVENTRY CITY  [UK| EPL PREMIER LEAGUE PPV]
+      4 event: UK: EPL 01: 20:00 Everton vs Coventry City
+  20:00  Sevilla v Alavés  (laliga)
+      1 broadcaster guide: Premier Sport 1 VIP HD  — Live LALIGA: Sevilla v Alaves
+      2 competition group: UK: LA LIGA - SEVILLA  [UK| LA LIGA TEAM PPV]
+      2 competition group: UK: LA LIGA - ALAVES  [UK| LA LIGA TEAM PPV]
+  20:00  Derby County v Bolton Wanderers  (champ)
+      1 broadcaster guide: Sky Sports Football HEVC 4K  — Live EFL: Derby County v Bolton
+      2 competition group: UK: CHAMP: DERBY COUNTY  [UK| CHAMPIONSHIP PPV]
+      2 competition group: UK: CHAMP: BOLTON WANDERERS  [UK| CHAMPIONSHIP PPV]
+
+Shown: 4 games on your channels (finished 0), 0 goals shows

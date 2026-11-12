@@ -1,0 +1,80 @@
+JPTV Live Sports scan · Thu 12 Nov 2026, 20:20
+
+Games found per category
+  0  UK| LIVE FOOTBALL PPV   [PPV / event category read]
+  8  Live Football PPV
+
+Leagues: ucl, uel, uecl, epl, spfl, scocup, laliga, seriea, bundes, l1, ligue1, champ, l2, eflcup, scolcup, facup, spfl2, unl · today's fixtures: 8 (on now 6, still to come 0, finished 2)
+Channels looked at: 1544 (radio stations left out: 63)
+
+Learnt groups read for unl (plus the broadcasters' and clubs' channels, always) (1)
+  UK| LIVE FOOTBALL PPV
+Step 1: 310 sports channels, their guide read once: 81 listings around today's kick-offs
+Step 1, sports channels: 0 of 8 games found so far
+Provider groups: 38 could be read; 1 read (what's been learnt), 37 left out
+Step 2, competition groups: 0 of 8 games found so far
+Step 3, club channels: 0 of 8 games found so far
+
+Provider groups read (1)
+  UK| LIVE FOOTBALL PPV  ·  35 channels
+
+Event channels read (their own short guide) (34)
+  UK: Live Football 01 : Turkey vs Belgium 17:00pm  [UK| LIVE FOOTBALL PPV]  ·  0 programmes
+  UK: Live Football 02 : Armenia vs Cyprus 17:00pm  [UK| LIVE FOOTBALL PPV]  ·  0 programmes
+  UK: Live Football 03 : Italy vs France 19:45  [UK| LIVE FOOTBALL PPV]  ·  0 programmes
+  UK: Live Football 04 : Czech Republic vs Spain 19:45pm  [UK| LIVE FOOTBALL PPV]  ·  0 programmes
+  UK: Live Football 05 : England vs Croatia 19:45pm  [UK| LIVE FOOTBALL PPV]  ·  0 programmes
+  UK: Live Football 06 : Albania vs Finland 19:45pm  [UK| LIVE FOOTBALL PPV]  ·  0 programmes
+  UK: Live Football 07 : San Marino vs Belarus 19:45pm  [UK| LIVE FOOTBALL PPV]  ·  0 programmes
+  UK: Live Football 08 : Montenegro vs Latvia 19:45pm  [UK| LIVE FOOTBALL PPV]  ·  0 programmes
+  UK: Live Football 09 :  [UK| LIVE FOOTBALL PPV]  ·  0 programmes
+  UK: Live Football 10:  [UK| LIVE FOOTBALL PPV]  ·  0 programmes
+  UK: Live Football 11:  [UK| LIVE FOOTBALL PPV]  ·  0 programmes
+  UK: Live Football 12:  [UK| LIVE FOOTBALL PPV]  ·  0 programmes
+  UK: Live Football 13:  [UK| LIVE FOOTBALL PPV]  ·  0 programmes
+  UK: Live Football 14:  [UK| LIVE FOOTBALL PPV]  ·  0 programmes
+  UK: Live Football 15:  [UK| LIVE FOOTBALL PPV]  ·  0 programmes
+  UK: Live Football 16:  [UK| LIVE FOOTBALL PPV]  ·  0 programmes
+  UK: Live Football 17:  [UK| LIVE FOOTBALL PPV]  ·  0 programmes
+  UK: Live Football 18:  [UK| LIVE FOOTBALL PPV]  ·  0 programmes
+  UK: Live Football 19:  [UK| LIVE FOOTBALL PPV]  ·  0 programmes
+  UK: Live Football 20:  [UK| LIVE FOOTBALL PPV]  ·  0 programmes
+  UK: Live Football  21 :  [UK| LIVE FOOTBALL PPV]  ·  0 programmes
+  UK: Live Football 22:  [UK| LIVE FOOTBALL PPV]  ·  0 programmes
+  UK: Live Football 23:  [UK| LIVE FOOTBALL PPV]  ·  0 programmes
+  UK: Live Football 24:  [UK| LIVE FOOTBALL PPV]  ·  0 programmes
+  UK: Live Football 25:  [UK| LIVE FOOTBALL PPV]  ·  0 programmes
+  UK: Live Football 26:  [UK| LIVE FOOTBALL PPV]  ·  0 programmes
+  UK: Live Football 27:  [UK| LIVE FOOTBALL PPV]  ·  0 programmes
+  UK: Live Football 28:  [UK| LIVE FOOTBALL PPV]  ·  0 programmes
+  UK: Live Football 29:  [UK| LIVE FOOTBALL PPV]  ·  0 programmes
+  UK: Live Football 30:  [UK| LIVE FOOTBALL PPV]  ·  0 programmes
+  UK: Live Football 31:  [UK| LIVE FOOTBALL PPV]  ·  0 programmes
+  UK: Live Football 32:  [UK| LIVE FOOTBALL PPV]  ·  0 programmes
+  UK: Live Football 33:  [UK| LIVE FOOTBALL PPV]  ·  0 programmes
+  UK: Live Football 34:  [UK| LIVE FOOTBALL PPV]  ·  0 programmes
+
+Today's games and where they were found
+  17:00  Armenia v Cyprus  (unl)
+      4 PPV / event group: UK: Live Football 02 : Armenia vs Cyprus 17:00pm  [UK| LIVE FOOTBALL PPV]
+  17:00  Türkiye v Belgium  (unl)
+      4 PPV / event group: UK: Live Football 01 : Turkey vs Belgium 17:00pm  [UK| LIVE FOOTBALL PPV]
+  19:45  Albania v Finland  (unl)
+      4 PPV / event group: UK: Live Football 06 : Albania vs Finland 19:45pm  [UK| LIVE FOOTBALL PPV]
+      4 event: UK: Live Football 06 : Albania vs Finland 19:45pm
+  19:45  Czechia v Spain  (unl)
+      4 PPV / event group: UK: Live Football 04 : Czech Republic vs Spain 19:45pm  [UK| LIVE FOOTBALL PPV]
+  19:45  England v Croatia  (unl)
+      4 PPV / event group: UK: Live Football 05 : England vs Croatia 19:45pm  [UK| LIVE FOOTBALL PPV]
+      4 event: UK: Live Football 05 : England vs Croatia 19:45pm
+  19:45  Italy v France  (unl)
+      4 PPV / event group: UK: Live Football 03 : Italy vs France 19:45  [UK| LIVE FOOTBALL PPV]
+      4 event: UK: Live Football 03 : Italy vs France 19:45
+  19:45  Montenegro v Latvia  (unl)
+      4 PPV / event group: UK: Live Football 08 : Montenegro vs Latvia 19:45pm  [UK| LIVE FOOTBALL PPV]
+      4 event: UK: Live Football 08 : Montenegro vs Latvia 19:45pm
+  19:45  San Marino v Belarus  (unl)
+      4 PPV / event group: UK: Live Football 07 : San Marino vs Belarus 19:45pm  [UK| LIVE FOOTBALL PPV]
+      4 event: UK: Live Football 07 : San Marino vs Belarus 19:45pm
+
+Shown: 8 games on your channels (finished 2), 0 goals shows

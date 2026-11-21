@@ -6,7 +6,7 @@
       "name": "BBC One ◉",
       "category": "Entertainment",
       "sky": "3000",
-      "channels": ["UK: BBC ONE SCOT HD ◉"],
+      "channels": ["UK: BBC ONE SCOT HD ◉", "UK: BBC ONE SCOTLAND ᴿᴬᵂ"],
       "epg": "sky:2082",
       "logo": "https:\/\/raw.githubusercontent.com\/tv-logo\/tv-logos\/main\/countries\/united-kingdom\/bbc-one-uk.png"
     },

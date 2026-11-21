@@ -1,0 +1,652 @@
+Sine trailer log · sent Sat 21 Nov 2026 22:47 · version 2026.11.37.0 · Amazon AFTKM (Android 11) · device 683887
+
+==== #1  Fri 20 Nov 2026 23:46:11.639  [box]  Lost  (show tmdb 4607)  video KTu8iDynwNc
+  23:46:11.646 +0.01s  streams (0ms, worked out 2s ago): video: video/mp4 avc1.4D401F 720p 30fps 2313699bps videoOnly true | sound: audio/mp4 mp4a.40.2 130487bps | offered 10 video-only, 5 sound, 0 combined · sound tracks: one
+  23:46:11.676 +0.04s  state BUFFERING · at 0ms · loaded to 0ms · playWhenReady false
+  23:46:11.680 +0.04s  playWhenReady true · asked (app)
+  23:46:11.692 +0.05s  loading true · loaded to 0ms
+  23:46:11.694 +0.06s  remote onto the box
+  23:46:12.264 +0.63s  video decoder OMX.MTK.VIDEO.DECODER.AVC (47ms to start)
+  23:46:12.266 +0.63s  video format video/avc avc1.4D401F 1280×720 -1.0fps 0kbps
+  23:46:12.372 +0.73s  audio decoder c2.android.aac.decoder
+  23:46:12.373 +0.74s  audio format audio/mp4a-latm mp4a.40.2 0kbps lang en
+  23:46:12.426 +0.79s  picture 1280×720
+  23:46:12.428 +0.79s  first frame drawn
+  23:46:13.249 +1.61s  state READY · at 0ms · loaded to 2856ms · playWhenReady true
+  23:46:13.250 +1.61s  isPlaying true · at 0ms · loaded to 2856ms
+  23:46:14.003 +2.37s  remote off the box
+  23:46:15.119 +3.48s  remote onto the box
+  23:46:15.919 +4.28s  OK: full screen from 2498ms (box paused)
+  23:46:15.921 +4.28s  playWhenReady false · asked (app)
+  23:46:15.922 +4.28s  isPlaying false · at 2498ms · loaded to 7964ms
+  23:46:15.942 +4.30s  page paused (left / another screen on top)
+
+==== #2  Fri 20 Nov 2026 23:46:16.068  [full]  Lost  (film tmdb ?)  video KTu8iDynwNc
+  23:46:16.097 +0.03s  streams: video: video/mp4 avc1.4D401F 720p 30fps 2313699bps videoOnly true | sound: audio/mp4 mp4a.40.2 130487bps | offered 10 video-only, 5 sound, 0 combined · sound tracks: one · from 2498ms
+  23:46:16.101 +0.03s  state BUFFERING · at 2498ms · loaded to 2498ms · playWhenReady false
+  23:46:16.119 +0.05s  playWhenReady true · asked (app)
+  23:46:16.165 +0.10s  loading true · loaded to 2498ms
+  23:46:16.206 +0.14s  playWhenReady false · audio focus lost
+  23:46:16.557 +0.49s  network ~2082kbps (1196KB in 4709ms)
+  23:46:16.559 +0.49s  network ~2082kbps (1196KB in 4709ms)
+  23:46:16.560 +0.49s  network ~2082kbps (0KB in 2ms)
+  23:46:16.561 +0.49s  network ~2082kbps (0KB in 2ms)
+  23:46:16.603 +0.54s  video decoder OMX.MTK.VIDEO.DECODER.AVC (32ms to start)
+  23:46:16.604 +0.54s  video format video/avc avc1.4D401F 1280×720 -1.0fps 0kbps
+  23:46:16.660 +0.59s  audio decoder c2.android.aac.decoder
+  23:46:16.661 +0.59s  audio format audio/mp4a-latm mp4a.40.2 0kbps lang en
+  23:46:17.012 +0.94s  picture 1280×720
+  23:46:17.017 +0.95s  first frame drawn
+  23:46:17.025 +0.96s  state READY · at 2498ms · loaded to 4738ms · playWhenReady true
+  23:46:17.026 +0.96s  isPlaying true · at 2498ms · loaded to 4738ms
+  23:46:29.786 +13.72s  back from full screen · carry on from 15044ms
+  23:46:29.788 +13.72s  state BUFFERING · at 15044ms · loaded to 16849ms · playWhenReady false
+  23:46:29.796 +13.73s  playWhenReady true · asked (app)
+  23:46:30.026 +13.96s  playWhenReady false · audio focus lost
+  23:46:30.028 +13.96s  isPlaying false · at 15310ms · loaded to 35769ms
+  23:46:30.307 +14.24s  network ~3644kbps (6114KB in 13744ms)
+  23:46:30.333 +14.27s  network ~3644kbps (16KB in 30ms)
+  23:46:30.437 +14.37s  first frame drawn
+  23:46:30.439 +14.37s  state READY · at 15046ms · loaded to 28261ms · playWhenReady true
+  23:46:30.440 +14.37s  isPlaying true · at 15046ms · loaded to 28261ms
+  23:46:33.083 +17.02s  remote off the box
+  23:46:35.322 +19.25s  box closed · at 19722ms
+
+==== #3  Fri 20 Nov 2026 23:48:35.623  [box]  Dark  (show tmdb 70523)  video ESEUoa-mz2c
+  23:48:35.626 +0.00s  streams (0ms, worked out 2s ago): video: video/mp4 avc1.640028 1080p 24fps 2971066bps videoOnly true | sound: audio/mp4 mp4a.40.2 130563bps | offered 12 video-only, 5 sound, 0 combined · sound tracks: one
+  23:48:35.639 +0.02s  state BUFFERING · at 0ms · loaded to 0ms · playWhenReady false
+  23:48:35.642 +0.02s  playWhenReady true · asked (app)
+  23:48:35.650 +0.03s  loading true · loaded to 0ms
+  23:48:35.651 +0.03s  remote onto the box
+  23:48:37.270 +1.65s  video decoder OMX.MTK.VIDEO.DECODER.AVC (27ms to start)
+  23:48:37.272 +1.65s  video format video/avc avc1.640028 1920×1080 -1.0fps 0kbps
+  23:48:37.333 +1.71s  audio decoder c2.android.aac.decoder
+  23:48:37.334 +1.71s  audio format audio/mp4a-latm mp4a.40.2 0kbps lang en
+  23:48:37.427 +1.80s  picture 1920×1080
+  23:48:37.428 +1.81s  first frame drawn
+  23:48:38.281 +2.66s  state READY · at 0ms · loaded to 2856ms · playWhenReady true
+  23:48:38.282 +2.66s  isPlaying true · at 0ms · loaded to 2856ms
+  23:48:42.887 +7.26s  remote off the box
+  23:48:43.725 +8.10s  remote onto the box
+  23:48:45.465 +9.84s  OK: full screen from 7023ms (box paused)
+  23:48:45.467 +9.84s  playWhenReady false · asked (app)
+  23:48:45.468 +9.85s  isPlaying false · at 7023ms · loaded to 7549ms
+  23:48:45.480 +9.86s  page paused (left / another screen on top)
+
+==== #4  Fri 20 Nov 2026 23:48:45.578  [full]  Dark  (film tmdb ?)  video ESEUoa-mz2c
+  23:48:45.587 +0.01s  streams: video: video/mp4 avc1.640028 1080p 24fps 2971066bps videoOnly true | sound: audio/mp4 mp4a.40.2 130563bps | offered 12 video-only, 5 sound, 0 combined · sound tracks: one · from 7023ms
+  23:48:45.591 +0.01s  state BUFFERING · at 7023ms · loaded to 7023ms · playWhenReady false
+  23:48:45.594 +0.02s  playWhenReady true · asked (app)
+  23:48:45.612 +0.04s  loading true · loaded to 7023ms
+  23:48:45.693 +0.12s  playWhenReady false · audio focus lost
+  23:48:46.162 +0.58s  network ~1216kbps (1370KB in 9233ms)
+  23:48:46.163 +0.59s  network ~1216kbps (1370KB in 9233ms)
+  23:48:46.165 +0.59s  network ~1216kbps (0KB in 1ms)
+  23:48:46.166 +0.59s  network ~1216kbps (0KB in 1ms)
+  23:48:46.202 +0.63s  video decoder OMX.MTK.VIDEO.DECODER.AVC (29ms to start)
+  23:48:46.203 +0.63s  video format video/avc avc1.640028 1920×1080 -1.0fps 0kbps
+  23:48:46.275 +0.70s  audio decoder c2.android.aac.decoder
+  23:48:46.276 +0.70s  audio format audio/mp4a-latm mp4a.40.2 0kbps lang en
+  23:48:46.439 +0.86s  network ~40692kbps (1371KB in 276ms)
+  23:48:46.440 +0.86s  network ~40692kbps (1371KB in 276ms)
+  23:48:46.639 +1.06s  picture 1920×1080
+  23:48:46.641 +1.06s  first frame drawn
+  23:48:46.654 +1.08s  state READY · at 7035ms · loaded to 20812ms · playWhenReady true
+  23:48:46.655 +1.08s  isPlaying true · at 7035ms · loaded to 20812ms
+  23:48:47.651 +2.07s  network ~62112kbps (9189KB in 1212ms)
+  23:48:47.653 +2.08s  network ~62112kbps (9189KB in 1212ms)
+  23:48:47.654 +2.08s  loading false · loaded to 46463ms
+  23:48:54.729 +9.15s  state BUFFERING · at 4907ms · loaded to 4907ms · playWhenReady true
+  23:48:54.730 +9.15s  isPlaying false · at 4907ms · loaded to 4907ms
+  23:48:54.748 +9.17s  loading true · loaded to 4907ms
+  23:48:54.823 +9.25s  network ~1785kbps (1563KB in 7171ms)
+  23:48:54.826 +9.25s  network ~1785kbps (1563KB in 7171ms)
+  23:48:54.890 +9.31s  first frame drawn
+  23:48:54.896 +9.32s  state READY · at 4907ms · loaded to 12971ms · playWhenReady true
+  23:48:54.897 +9.32s  isPlaying true · at 4907ms · loaded to 12971ms
+  23:48:56.575 +11.00s  network ~43167kbps (9237KB in 1753ms)
+  23:48:56.577 +11.00s  network ~43167kbps (9237KB in 1753ms)
+  23:48:56.578 +11.00s  loading false · loaded to 56264ms
+  23:49:02.972 +17.40s  network ~43167kbps (192KB in 6398ms)
+  23:49:02.974 +17.40s  network ~43167kbps (192KB in 6398ms)
+  23:49:02.996 +17.42s  network ~43167kbps (75KB in 23ms)
+  23:49:02.997 +17.42s  network ~43167kbps (75KB in 23ms)
+  23:49:08.346 +22.77s  back from full screen · carry on from 18131ms
+  23:49:08.348 +22.77s  state BUFFERING · at 18131ms · loaded to 18977ms · playWhenReady false
+  23:49:08.352 +22.77s  playWhenReady true · asked (app)
+  23:49:08.554 +22.98s  playWhenReady false · audio focus lost
+  23:49:08.557 +22.98s  isPlaying false · at 18358ms · loaded to 56306ms
+  23:49:08.835 +23.26s  first frame drawn
+  23:49:08.836 +23.26s  state READY · at 18134ms · loaded to 22355ms · playWhenReady true
+  23:49:08.838 +23.26s  isPlaying true · at 18134ms · loaded to 22355ms
+  23:49:12.553 +26.98s  page paused (left / another screen on top)
+  23:49:12.554 +26.98s  playWhenReady false · asked (app)
+  23:49:12.557 +26.98s  isPlaying false · at 21659ms · loaded to 28653ms
+
+==== #5  Fri 20 Nov 2026 23:50:55.630  [full]  Barnsley 1 – 2 Sheffield Wednesday · Highlights · Sky Sports Football  (film tmdb ?)  video i-8zJdYRI7k
+  23:50:55.695 +0.07s  streams: video: video/mp4 avc1.640028 1080p 25fps 4344600bps videoOnly true | sound: audio/mp4 mp4a.40.2 130273bps | offered 12 video-only, 5 sound, 0 combined · sound tracks: one · from 0ms
+  23:50:55.699 +0.07s  state BUFFERING · at 0ms · loaded to 0ms · playWhenReady false
+  23:50:55.704 +0.08s  playWhenReady true · asked (app)
+  23:50:55.724 +0.09s  loading true · loaded to 0ms
+  23:50:56.212 +0.58s  video decoder OMX.MTK.VIDEO.DECODER.AVC (35ms to start)
+  23:50:56.213 +0.58s  video format video/avc avc1.640028 1920×1080 -1.0fps 0kbps
+  23:50:56.279 +0.65s  audio decoder c2.android.aac.decoder
+  23:50:56.280 +0.65s  audio format audio/mp4a-latm mp4a.40.2 0kbps lang en
+  23:50:56.396 +0.77s  picture 1920×1080
+  23:50:56.399 +0.77s  first frame drawn
+  23:50:57.203 +1.57s  state READY · at 0ms · loaded to 2856ms · playWhenReady true
+  23:50:57.204 +1.58s  isPlaying true · at 0ms · loaded to 2856ms
+  23:51:02.411 +6.78s  state BUFFERING · at 5066ms · loaded to 5240ms · playWhenReady true
+  23:51:02.413 +6.78s  isPlaying false · at 5066ms · loaded to 5240ms
+  23:51:05.499 +9.87s  playWhenReady false · asked (app)
+
+==== #6  Fri 20 Nov 2026 23:51:08.418  [full]  Barnsley 1 – 2 Sheffield Wednesday · Highlights · Sky Sports Football  (film tmdb ?)  video i-8zJdYRI7k
+  23:51:08.466 +0.05s  streams: video: video/mp4 avc1.640028 1080p 25fps 4344600bps videoOnly true | sound: audio/mp4 mp4a.40.2 130273bps | offered 12 video-only, 5 sound, 0 combined · sound tracks: one · from 0ms
+  23:51:08.469 +0.05s  state BUFFERING · at 0ms · loaded to 0ms · playWhenReady false
+  23:51:08.478 +0.06s  playWhenReady true · asked (app)
+  23:51:08.486 +0.07s  loading true · loaded to 0ms
+  23:51:08.945 +0.53s  video decoder OMX.MTK.VIDEO.DECODER.AVC (28ms to start)
+  23:51:08.946 +0.53s  video format video/avc avc1.640028 1920×1080 -1.0fps 0kbps
+  23:51:08.993 +0.58s  audio decoder c2.android.aac.decoder
+  23:51:08.994 +0.58s  audio format audio/mp4a-latm mp4a.40.2 0kbps lang en
+  23:51:09.107 +0.69s  picture 1920×1080
+  23:51:09.113 +0.70s  first frame drawn
+  23:51:09.946 +1.53s  state READY · at 0ms · loaded to 2856ms · playWhenReady true
+  23:51:09.948 +1.53s  isPlaying true · at 0ms · loaded to 2856ms
+  23:51:15.178 +6.76s  state BUFFERING · at 5058ms · loaded to 5240ms · playWhenReady true
+  23:51:15.179 +6.76s  isPlaying false · at 5058ms · loaded to 5240ms
+  23:51:41.692 +33.28s  state READY · at 5059ms · loaded to 9120ms · playWhenReady true
+  23:51:41.694 +33.28s  isPlaying true · at 5059ms · loaded to 9120ms
+  23:52:52.988 +104.57s  playWhenReady false · asked (app)
+  23:52:52.989 +104.57s  isPlaying false · at 76424ms · loaded to 123200ms
+
+==== #7  Fri 20 Nov 2026 23:59:35.892  [full]  Barnsley 1 – 2 Sheffield Wednesday · Highlights · Sky Sports Football  (film tmdb ?)  video i-8zJdYRI7k
+  23:59:35.944 +0.05s  streams: video: video/mp4 avc1.640028 1080p 25fps 4344600bps videoOnly true | sound: audio/mp4 mp4a.40.2 130273bps | offered 12 video-only, 5 sound, 0 combined · sound tracks: one · from 0ms
+  23:59:35.947 +0.06s  state BUFFERING · at 0ms · loaded to 0ms · playWhenReady false
+  23:59:35.950 +0.06s  playWhenReady true · asked (app)
+  23:59:36.015 +0.12s  loading true · loaded to 0ms
+  23:59:36.442 +0.55s  video decoder OMX.MTK.VIDEO.DECODER.AVC (30ms to start)
+  23:59:36.444 +0.55s  video format video/avc avc1.640028 1920×1080 -1.0fps 0kbps
+  23:59:36.543 +0.65s  audio decoder c2.android.aac.decoder
+  23:59:36.545 +0.65s  audio format audio/mp4a-latm mp4a.40.2 0kbps lang en
+  23:59:36.559 +0.67s  picture 1920×1080
+  23:59:36.561 +0.67s  first frame drawn
+  23:59:37.447 +1.56s  state READY · at 0ms · loaded to 2856ms · playWhenReady true
+  23:59:37.449 +1.56s  isPlaying true · at 0ms · loaded to 2856ms
+  23:59:42.674 +6.78s  state BUFFERING · at 5066ms · loaded to 5240ms · playWhenReady true
+  23:59:42.675 +6.78s  isPlaying false · at 5066ms · loaded to 5240ms
+  23:59:47.069 +11.18s  playWhenReady false · asked (app)
+
+==== #1  Sat 21 Nov 2026 12:27:28.722  [box]  Prey  (film tmdb 766507)  video wZ7LytagKlc
+  12:27:28.725 +0.00s  streams (1ms, worked out 411s ago): video: video/mp4 avc1.640028 1080p 24fps 4363382bps videoOnly true | sound: audio/mp4 mp4a.40.2 130511bps | offered 12 video-only, 5 sound, 0 combined · sound tracks: one
+  12:27:28.825 +0.10s  state BUFFERING · at 0ms · loaded to 0ms · playWhenReady false
+  12:27:28.852 +0.13s  playWhenReady true · asked (app)
+  12:27:28.867 +0.15s  loading true · loaded to 0ms
+  12:27:28.869 +0.15s  remote onto the box
+  12:27:28.874 +0.15s  network ~3200kbps (0KB in 0ms)
+  12:27:29.551 +0.83s  video decoder OMX.MTK.VIDEO.DECODER.AVC (95ms to start)
+  12:27:29.554 +0.83s  video format video/avc avc1.640028 1920×1080 -1.0fps 0kbps
+  12:27:29.789 +1.07s  audio decoder c2.android.aac.decoder
+  12:27:29.791 +1.07s  audio format audio/mp4a-latm mp4a.40.2 0kbps lang en
+  12:27:29.856 +1.14s  picture 1920×1080
+  12:27:29.858 +1.14s  first frame drawn
+  12:27:30.533 +1.81s  state READY · at 0ms · loaded to 2856ms · playWhenReady true
+  12:27:30.534 +1.81s  isPlaying true · at 0ms · loaded to 2856ms
+  12:27:40.534 +11.81s  state BUFFERING · at 9825ms · loaded to 10051ms · playWhenReady true
+  12:27:40.535 +11.81s  isPlaying false · at 9825ms · loaded to 10051ms
+  12:27:42.229 +13.51s  remote off the box
+  12:27:43.324 +14.60s  remote onto the box
+  12:27:44.581 +15.86s  OK: full screen from 9825ms (box paused)
+  12:27:44.584 +15.86s  playWhenReady false · asked (app)
+  12:27:44.624 +15.90s  page paused (left / another screen on top)
+
+==== #2  Sat 21 Nov 2026 12:27:44.782  [full]  Prey  (film tmdb ?)  video wZ7LytagKlc
+  12:27:44.799 +0.02s  streams: video: video/mp4 avc1.640028 1080p 24fps 4363382bps videoOnly true | sound: audio/mp4 mp4a.40.2 130511bps | offered 12 video-only, 5 sound, 0 combined · sound tracks: one · from 9825ms
+  12:27:44.804 +0.02s  state BUFFERING · at 9825ms · loaded to 9825ms · playWhenReady false
+  12:27:44.812 +0.03s  playWhenReady true · asked (app)
+  12:27:44.835 +0.05s  loading true · loaded to 9825ms
+  12:27:44.905 +0.12s  playWhenReady false · audio focus lost
+  12:27:45.551 +0.77s  network ~765kbps (1542KB in 16509ms)
+  12:27:45.552 +0.77s  network ~765kbps (1542KB in 16509ms)
+  12:27:45.555 +0.77s  network ~765kbps (0KB in 4ms)
+  12:27:45.557 +0.77s  network ~765kbps (0KB in 4ms)
+  12:27:45.594 +0.81s  video decoder OMX.MTK.VIDEO.DECODER.AVC (33ms to start)
+  12:27:45.595 +0.81s  video format video/avc avc1.640028 1920×1080 -1.0fps 0kbps
+  12:27:45.722 +0.94s  audio decoder c2.android.aac.decoder
+  12:27:45.724 +0.94s  audio format audio/mp4a-latm mp4a.40.2 0kbps lang en
+  12:27:46.598 +1.82s  picture 1920×1080
+  12:27:46.599 +1.82s  first frame drawn
+  12:27:47.051 +2.27s  state READY · at 9825ms · loaded to 11845ms · playWhenReady true
+  12:27:47.053 +2.27s  isPlaying true · at 9825ms · loaded to 11845ms
+  12:28:02.132 +17.35s  state READY · at 9825ms · loaded to 13179ms · playWhenReady false
+  12:28:28.644 +43.86s  loading false · loaded to 60393ms
+  12:28:53.215 +68.43s  loading false · loaded to 129590ms
+  12:29:31.958 +107.18s  loading true · loaded to 129729ms
+  12:29:31.961 +107.18s  network ~3432kbps (44581KB in 106406ms)
+  12:29:31.962 +107.18s  network ~3432kbps (44581KB in 106406ms)
+  12:29:31.966 +107.18s  network ~3432kbps (296KB in 5ms)
+  12:29:31.967 +107.19s  network ~3432kbps (296KB in 5ms)
+  12:29:31.969 +107.19s  loading false · loaded to 136678ms
+  12:29:54.096 +129.31s  state ENDED · at 136747ms · loaded to 136678ms · playWhenReady true
+  12:29:54.114 +129.33s  isPlaying false · at 136747ms · loaded to 136678ms
+  12:29:54.139 +129.36s  back from full screen · it ended
+  12:29:54.140 +129.36s  box closed · at 9825ms
+  12:29:54.371 +129.59s  network ~3432kbps (0KB in 22314ms)
+  12:29:54.372 +129.59s  network ~3432kbps (0KB in 4ms)
+  12:29:54.602 +129.82s  playWhenReady false · asked (app)
+
+==== #1  Sat 21 Nov 2026 16:15:32.971  [box]  Best Pancakes in the County  (film tmdb 1615596)  video JQsr_JLAiq0
+  16:15:32.979 +0.01s  [box] streams (0ms, worked out 9s ago): video: video/mp4 avc1.640028 1080p 24fps 4333837bps videoOnly true | sound: audio/mp4 mp4a.40.2 130382bps | offered 12 video-only, 5 sound, 0 combined · sound tracks: one | subtitles: none
+  16:15:33.020 +0.05s  [box] state BUFFERING · at 0ms · loaded to 0ms · playWhenReady false
+  16:15:33.028 +0.06s  [box] playWhenReady true · asked (app)
+  16:15:33.046 +0.07s  [box] loading true · loaded to 0ms
+  16:15:33.047 +0.08s  [box] remote onto the box
+  16:15:33.384 +0.41s  [box] network ~64222kbps (1254KB in 160ms)
+  16:15:33.435 +0.46s  [box] video decoder OMX.MTK.VIDEO.DECODER.AVC (129ms to start)
+  16:15:33.443 +0.47s  [box] video format video/avc avc1.640028 1920×1080 -1.0fps 0kbps
+  16:15:33.573 +0.60s  [box] network ~64222kbps (795KB in 190ms)
+  16:15:33.935 +0.96s  [box] audio decoder c2.android.aac.decoder
+  16:15:33.937 +0.97s  [box] audio format audio/mp4a-latm mp4a.40.2 0kbps lang en
+  16:15:34.013 +1.04s  [box] picture 1920×1080
+  16:15:34.014 +1.04s  [box] first frame drawn
+  16:15:34.087 +1.12s  [box] state READY · at 0ms · loaded to 4546ms · playWhenReady true
+  16:15:34.088 +1.12s  [box] isPlaying true · at 0ms · loaded to 4546ms
+  16:15:34.136 +1.17s  [box] network ~14905kbps (1022KB in 562ms)
+  16:15:34.254 +1.28s  [box] network ~71697kbps (1024KB in 117ms)
+  16:15:34.424 +1.45s  [box] network ~49056kbps (1024KB in 171ms)
+  16:15:34.540 +1.57s  [box] network ~72944kbps (1024KB in 115ms)
+  16:15:34.683 +1.71s  [box] network ~58254kbps (1024KB in 144ms)
+  16:15:34.816 +1.85s  [box] network ~71089kbps (1024KB in 118ms)
+  16:15:34.952 +1.98s  [box] network ~55553kbps (1024KB in 151ms)
+  16:15:35.911 +2.94s  [box] network ~8747kbps (1024KB in 959ms)
+  16:15:36.124 +3.15s  [box] network ~39756kbps (1024KB in 211ms)
+  16:15:36.197 +3.23s  [box] network ~123361kbps (1024KB in 68ms)
+  16:15:36.261 +3.29s  [box] network ~116508kbps (1024KB in 72ms)
+  16:15:36.329 +3.36s  [box] network ~125203kbps (1024KB in 67ms)
+  16:15:36.379 +3.41s  [box] loading false · loaded to 54846ms
+  16:15:38.960 +5.99s  [box] remote off the box
+  16:15:40.035 +7.06s  [box] remote onto the box
+  16:15:41.130 +8.16s  [box] OK: full screen from 6843ms (box paused)
+  16:15:41.132 +8.16s  [box] playWhenReady false · asked (app)
+  16:15:41.133 +8.16s  [box] isPlaying false · at 6843ms · loaded to 54846ms
+  16:15:41.173 +8.20s  [box] page paused (left / another screen on top)
+
+==== #2  Sat 21 Nov 2026 16:15:41.326  [full]  Best Pancakes in the County  (film tmdb ?)  video JQsr_JLAiq0
+  16:15:41.353 +0.03s  [full] streams: video: video/mp4 avc1.640028 1080p 24fps 4333837bps videoOnly true | sound: audio/mp4 mp4a.40.2 130382bps | offered 12 video-only, 5 sound, 0 combined · sound tracks: one | subtitles: none · from 6843ms
+  16:15:41.356 +0.03s  [full] state BUFFERING · at 6843ms · loaded to 6843ms · playWhenReady false
+  16:15:41.366 +0.04s  [full] playWhenReady true · asked (app)
+  16:15:41.429 +0.10s  [full] loading true · loaded to 6843ms
+  16:15:41.441 +0.12s  [box] playWhenReady false · audio focus lost
+  16:15:41.601 +0.28s  [box] network ~125203kbps (281KB in 5272ms)
+  16:15:41.602 +0.28s  [full] network ~125203kbps (281KB in 5272ms)
+  16:15:41.607 +0.28s  [box] network ~125203kbps (0KB in 6ms)
+  16:15:41.609 +0.28s  [full] network ~125203kbps (0KB in 6ms)
+  16:15:41.664 +0.34s  [full] video decoder OMX.MTK.VIDEO.DECODER.AVC (49ms to start)
+  16:15:41.665 +0.34s  [full] video format video/avc avc1.640028 1920×1080 -1.0fps 0kbps
+  16:15:41.922 +0.60s  [full] audio decoder c2.android.aac.decoder
+  16:15:41.923 +0.60s  [full] audio format audio/mp4a-latm mp4a.40.2 0kbps lang en
+  16:15:41.925 +0.60s  [box] network ~45042kbps (1688KB in 307ms)
+  16:15:41.926 +0.60s  [full] network ~45042kbps (1688KB in 307ms)
+  16:15:41.929 +0.60s  [box] network ~45042kbps (360KB in 13ms)
+  16:15:41.934 +0.61s  [full] network ~45042kbps (360KB in 13ms)
+  16:15:42.101 +0.78s  [box] network ~48491kbps (1024KB in 173ms)
+  16:15:42.104 +0.78s  [full] network ~48491kbps (1024KB in 173ms)
+  16:15:42.263 +0.94s  [full] picture 1920×1080
+  16:15:42.266 +0.94s  [full] first frame drawn
+  16:15:42.283 +0.96s  [full] state READY · at 6849ms · loaded to 17142ms · playWhenReady true
+  16:15:42.284 +0.96s  [full] isPlaying true · at 6849ms · loaded to 17142ms
+  16:15:43.058 +1.73s  [box] network ~8747kbps (1024KB in 959ms)
+  16:15:43.059 +1.73s  [full] network ~8747kbps (1024KB in 959ms)
+  16:15:43.225 +1.90s  [box] network ~50533kbps (1024KB in 166ms)
+  16:15:43.226 +1.90s  [full] network ~50533kbps (1024KB in 166ms)
+  16:15:43.324 +2.00s  [box] network ~84733kbps (1024KB in 99ms)
+  16:15:43.325 +2.00s  [full] network ~84733kbps (1024KB in 99ms)
+  16:15:43.386 +2.06s  [box] network ~135300kbps (1024KB in 62ms)
+  16:15:43.387 +2.06s  [full] network ~135300kbps (1024KB in 62ms)
+  16:15:43.458 +2.13s  [box] network ~116508kbps (1024KB in 72ms)
+  16:15:43.459 +2.13s  [full] network ~116508kbps (1024KB in 72ms)
+  16:15:43.554 +2.23s  [box] network ~86480kbps (1024KB in 97ms)
+  16:15:43.556 +2.23s  [full] network ~86480kbps (1024KB in 97ms)
+  16:15:43.717 +2.39s  [box] network ~51781kbps (1024KB in 162ms)
+  16:15:43.718 +2.39s  [full] network ~51781kbps (1024KB in 162ms)
+  16:15:43.866 +2.54s  [box] network ~58661kbps (1024KB in 143ms)
+  16:15:43.867 +2.54s  [full] network ~58661kbps (1024KB in 143ms)
+  16:15:43.920 +2.59s  [box] network ~139810kbps (1024KB in 60ms)
+  16:15:43.921 +2.59s  [full] network ~139810kbps (1024KB in 60ms)
+  16:15:43.979 +2.65s  [box] network ~142179kbps (1024KB in 59ms)
+  16:15:43.980 +2.65s  [full] network ~142179kbps (1024KB in 59ms)
+  16:15:44.072 +2.75s  [box] network ~90200kbps (1024KB in 93ms)
+  16:15:44.073 +2.75s  [full] network ~90200kbps (1024KB in 93ms)
+  16:15:44.158 +2.83s  [box] network ~97541kbps (1024KB in 86ms)
+  16:15:44.159 +2.83s  [full] network ~97541kbps (1024KB in 86ms)
+  16:15:44.187 +2.86s  [full] loading false · loaded to 59517ms
+  16:16:20.618 +39.29s  [full] loading true · loaded to 59976ms
+  16:16:20.627 +39.30s  [box] network ~230kbps (1024KB in 36469ms)
+  16:16:20.628 +39.30s  [full] network ~230kbps (1024KB in 36469ms)
+  16:16:20.742 +39.42s  [box] network ~72944kbps (1024KB in 115ms)
+  16:16:20.743 +39.42s  [full] network ~72944kbps (1024KB in 115ms)
+  16:16:20.812 +39.49s  [box] network ~139355kbps (1190KB in 70ms)
+  16:16:20.813 +39.49s  [full] network ~139355kbps (1190KB in 70ms)
+  16:16:20.830 +39.50s  [box] network ~139355kbps (686KB in 19ms)
+  16:16:20.832 +39.51s  [full] network ~139355kbps (686KB in 19ms)
+  16:16:20.989 +39.66s  [box] network ~53092kbps (1024KB in 158ms)
+  16:16:20.990 +39.66s  [full] network ~53092kbps (1024KB in 158ms)
+  16:16:21.099 +39.77s  [box] network ~76260kbps (1024KB in 110ms)
+  16:16:21.100 +39.77s  [full] network ~76260kbps (1024KB in 110ms)
+  16:16:21.185 +39.86s  [box] network ~97541kbps (1024KB in 86ms)
+  16:16:21.186 +39.86s  [full] network ~97541kbps (1024KB in 86ms)
+  16:16:21.266 +39.94s  [box] network ~103563kbps (1024KB in 81ms)
+  16:16:21.267 +39.94s  [full] network ~103563kbps (1024KB in 81ms)
+  16:16:21.387 +40.06s  [box] network ~69327kbps (1024KB in 121ms)
+  16:16:21.388 +40.06s  [full] network ~69327kbps (1024KB in 121ms)
+  16:16:21.492 +40.17s  [box] network ~79891kbps (1024KB in 105ms)
+  16:16:21.493 +40.17s  [full] network ~79891kbps (1024KB in 105ms)
+  16:16:21.570 +40.24s  [box] network ~107546kbps (1024KB in 78ms)
+  16:16:21.571 +40.25s  [full] network ~107546kbps (1024KB in 78ms)
+  16:16:21.659 +40.33s  [box] network ~93206kbps (1024KB in 90ms)
+  16:16:21.660 +40.33s  [full] network ~93206kbps (1024KB in 90ms)
+  16:16:22.056 +40.73s  [box] network ~21183kbps (1024KB in 396ms)
+  16:16:22.058 +40.73s  [full] network ~21183kbps (1024KB in 396ms)
+  16:16:22.132 +40.81s  [full] loading false · loaded to 96513ms
+  16:16:57.998 +76.67s  [full] loading true · loaded to 97347ms
+  16:16:58.006 +76.68s  [box] network ~233kbps (1024KB in 35950ms)
+  16:16:58.007 +76.68s  [full] network ~233kbps (1024KB in 35950ms)
+  16:16:58.162 +76.84s  [box] network ~53773kbps (1024KB in 156ms)
+  16:16:58.163 +76.84s  [full] network ~53773kbps (1024KB in 156ms)
+  16:16:58.279 +76.95s  [box] network ~71697kbps (1024KB in 117ms)
+  16:16:58.281 +76.95s  [full] network ~71697kbps (1024KB in 117ms)
+  16:16:58.419 +77.09s  [box] network ~59918kbps (1024KB in 140ms)
+  16:16:58.420 +77.09s  [full] network ~59918kbps (1024KB in 140ms)
+  16:16:58.486 +77.16s  [box] network ~125203kbps (1024KB in 67ms)
+  16:16:58.487 +77.16s  [full] network ~125203kbps (1024KB in 67ms)
+  16:16:58.587 +77.26s  [box] network ~83055kbps (1024KB in 101ms)
+  16:16:58.588 +77.26s  [full] network ~83055kbps (1024KB in 101ms)
+  16:16:58.674 +77.35s  [box] network ~95325kbps (1024KB in 88ms)
+  16:16:58.676 +77.35s  [full] network ~95325kbps (1024KB in 88ms)
+  16:16:58.759 +77.43s  [box] network ~95325kbps (874KB in 85ms)
+  16:16:58.761 +77.43s  [full] network ~95325kbps (874KB in 85ms)
+  16:16:58.762 +77.44s  [full] loading false · loaded to 118201ms
+  16:17:17.807 +96.48s  [box] back from full screen · carry on from 102150ms
+  16:17:17.815 +96.49s  [box] state BUFFERING · at 102150ms · loaded to 102150ms · playWhenReady false
+  16:17:17.819 +96.49s  [box] playWhenReady true · asked (app)
+  16:17:18.118 +96.79s  [box] network ~95325kbps (0KB in 19063ms)
+  16:17:18.120 +96.79s  [full] network ~95325kbps (0KB in 19063ms)
+  16:17:18.128 +96.80s  [box] loading true · loaded to 100725ms
+  16:17:18.132 +96.81s  [box] network ~92749kbps (928KB in 82ms)
+  16:17:18.134 +96.81s  [full] network ~92749kbps (928KB in 82ms)
+  16:17:18.135 +96.81s  [box] network ~84313kbps (95KB in 10ms)
+  16:17:18.138 +96.81s  [full] network ~84313kbps (95KB in 10ms)
+  16:17:18.157 +96.83s  [box] network ~84313kbps (299KB in 34ms)
+  16:17:18.160 +96.83s  [full] network ~84313kbps (299KB in 34ms)
+  16:17:18.164 +96.84s  [full] playWhenReady false · audio focus lost
+  16:17:18.169 +96.84s  [full] isPlaying false · at 102541ms · loaded to 118743ms
+  16:17:18.174 +96.85s  [box] network ~71697kbps (1024KB in 117ms)
+  16:17:18.175 +96.85s  [full] network ~71697kbps (1024KB in 117ms)
+  16:17:18.263 +96.94s  [box] network ~83055kbps (1024KB in 101ms)
+  16:17:18.264 +96.94s  [full] network ~83055kbps (1024KB in 101ms)
+  16:17:18.402 +97.08s  [box] network ~97541kbps (1024KB in 86ms)
+  16:17:18.499 +97.17s  [box] first frame drawn
+  16:17:18.523 +97.20s  [box] state READY · at 102167ms · loaded to 107565ms · playWhenReady true
+  16:17:18.526 +97.20s  [box] isPlaying true · at 102167ms · loaded to 107565ms
+  16:17:18.547 +97.22s  [box] network ~95325kbps (1024KB in 88ms)
+  16:17:18.643 +97.32s  [box] network ~106184kbps (1024KB in 79ms)
+  16:17:18.796 +97.47s  [box] network ~113359kbps (1024KB in 74ms)
+  16:17:18.904 +97.58s  [box] network ~113359kbps (369KB in 24ms)
+  16:17:18.906 +97.58s  [box] loading false · loaded to 118368ms
+  16:17:35.363 +114.04s  [box] state ENDED · at 118816ms · loaded to 118743ms · playWhenReady true
+  16:17:35.364 +114.04s  [box] box closed · at 118816ms
+
+==== #3  Sat 21 Nov 2026 16:17:42.413  [box]  Best Pancakes in the County  (film tmdb 1615596)  video JQsr_JLAiq0
+  16:17:42.420 +0.01s  [box] streams (2ms, worked out 138s ago): video: video/mp4 avc1.640028 1080p 24fps 4333837bps videoOnly true | sound: audio/mp4 mp4a.40.2 130382bps | offered 12 video-only, 5 sound, 0 combined · sound tracks: one | subtitles: none
+  16:17:42.432 +0.02s  [box] state BUFFERING · at 0ms · loaded to 0ms · playWhenReady false
+  16:17:42.436 +0.02s  [box] playWhenReady true · asked (app)
+  16:17:42.444 +0.03s  [box] loading true · loaded to 0ms
+  16:17:42.449 +0.04s  [box] remote onto the box
+  16:17:42.591 +0.18s  [box] network ~137793kbps (1968KB in 117ms)
+  16:17:42.592 +0.18s  [box] video decoder OMX.MTK.VIDEO.DECODER.AVC (42ms to start)
+  16:17:42.593 +0.18s  [box] video format video/avc avc1.640028 1920×1080 -1.0fps 0kbps
+  16:17:42.594 +0.18s  [box] network ~137793kbps (80KB in 7ms)
+  16:17:42.636 +0.22s  [box] audio decoder c2.android.aac.decoder
+  16:17:42.646 +0.23s  [box] audio format audio/mp4a-latm mp4a.40.2 0kbps lang en
+  16:17:42.765 +0.35s  [box] picture 1920×1080
+  16:17:42.767 +0.36s  [box] first frame drawn
+  16:17:42.768 +0.36s  [box] state READY · at 0ms · loaded to 6881ms · playWhenReady true
+  16:17:42.771 +0.36s  [box] isPlaying true · at 0ms · loaded to 6881ms
+  16:17:42.779 +0.37s  [box] network ~97553kbps (1024KB in 86ms)
+  16:17:42.875 +0.46s  [box] network ~87381kbps (1024KB in 96ms)
+  16:17:42.970 +0.56s  [box] network ~101067kbps (1024KB in 83ms)
+  16:17:43.031 +0.62s  [box] network ~152520kbps (1024KB in 55ms)
+  16:17:43.129 +0.72s  [box] network ~72315kbps (1024KB in 116ms)
+  16:17:43.194 +0.78s  [box] network ~139810kbps (1024KB in 60ms)
+  16:17:43.279 +0.87s  [box] network ~107546kbps (1024KB in 78ms)
+  16:17:43.328 +0.92s  [box] network ~147168kbps (1024KB in 57ms)
+  16:17:43.413 +1.00s  [box] network ~99864kbps (1024KB in 84ms)
+  16:17:43.477 +1.07s  [box] network ~119837kbps (1024KB in 70ms)
+  16:17:43.591 +1.18s  [box] network ~74235kbps (1024KB in 113ms)
+  16:17:43.628 +1.22s  [box] loading false · loaded to 51926ms
+  16:17:44.722 +2.31s  [box] page paused (left / another screen on top)
+  16:17:44.723 +2.31s  [box] playWhenReady false · asked (app)
+  16:17:44.724 +2.31s  [box] isPlaying false · at 1817ms · loaded to 51926ms
+
+==== #4  Sat 21 Nov 2026 16:17:58.253  [box]  Coyote vs. Acme  (film tmdb 1204680)  video kMsiD1Nky5I
+  16:17:58.255 +0.00s  [box] streams (0ms, worked out 4s ago): video: video/mp4 avc1.640028 1080p 24fps 3528979bps videoOnly true | sound: audio/mp4 mp4a.40.2 130539bps | offered 16 video-only, 5 sound, 0 combined · sound tracks: one | subtitles: none
+  16:17:58.265 +0.01s  [box] state BUFFERING · at 0ms · loaded to 0ms · playWhenReady false
+  16:17:58.269 +0.02s  [box] playWhenReady true · asked (app)
+  16:17:58.279 +0.03s  [box] loading true · loaded to 0ms
+  16:17:58.280 +0.03s  [box] remote onto the box
+  16:17:58.629 +0.38s  [box] network ~67893kbps (1152KB in 139ms)
+  16:17:58.656 +0.40s  [box] video decoder OMX.MTK.VIDEO.DECODER.AVC (43ms to start)
+  16:17:58.657 +0.41s  [box] video format video/avc avc1.640028 1920×1080 -1.0fps 0kbps
+  16:17:58.695 +0.44s  [box] network ~67893kbps (897KB in 66ms)
+  16:17:58.724 +0.47s  [box] audio decoder c2.android.aac.decoder
+  16:17:58.725 +0.47s  [box] audio format audio/mp4a-latm mp4a.40.2 0kbps lang en
+  16:17:58.862 +0.61s  [box] picture 1920×1080
+  16:17:58.863 +0.61s  [box] first frame drawn
+  16:17:58.865 +0.61s  [box] state READY · at 0ms · loaded to 8633ms · playWhenReady true
+  16:17:58.870 +0.62s  [box] isPlaying true · at 0ms · loaded to 8633ms
+  16:17:59.057 +0.81s  [box] network ~23199kbps (1022KB in 361ms)
+  16:17:59.130 +0.88s  [box] network ~139810kbps (1024KB in 60ms)
+  16:17:59.211 +0.96s  [box] network ~89240kbps (1024KB in 94ms)
+  16:17:59.295 +1.04s  [box] network ~99864kbps (1024KB in 84ms)
+  16:17:59.427 +1.18s  [box] network ~67108kbps (1024KB in 125ms)
+  16:17:59.476 +1.22s  [box] network ~149796kbps (1024KB in 56ms)
+  16:17:59.562 +1.31s  [box] network ~97541kbps (1024KB in 86ms)
+  16:17:59.627 +1.38s  [box] network ~129055kbps (1024KB in 65ms)
+  16:17:59.710 +1.46s  [box] network ~99864kbps (1024KB in 84ms)
+  16:17:59.910 +1.66s  [box] network ~42153kbps (1024KB in 199ms)
+  16:18:00.096 +1.84s  [box] loading false · loaded to 51259ms
+  16:18:00.554 +2.30s  [box] OK: full screen from 1541ms (box paused)
+  16:18:00.556 +2.30s  [box] playWhenReady false · asked (app)
+  16:18:00.557 +2.31s  [box] isPlaying false · at 1541ms · loaded to 51593ms
+  16:18:00.575 +2.32s  [box] page paused (left / another screen on top)
+
+==== #5  Sat 21 Nov 2026 16:18:00.664  [full]  Coyote vs. Acme  (film tmdb ?)  video kMsiD1Nky5I
+  16:18:00.729 +0.07s  [full] streams: video: video/mp4 avc1.640028 1080p 24fps 3528979bps videoOnly true | sound: audio/mp4 mp4a.40.2 130539bps | offered 16 video-only, 5 sound, 0 combined · sound tracks: one | subtitles: none · from 1541ms
+  16:18:00.733 +0.07s  [full] state BUFFERING · at 1541ms · loaded to 1541ms · playWhenReady false
+  16:18:00.738 +0.07s  [full] playWhenReady true · asked (app)
+  16:18:00.765 +0.10s  [full] loading true · loaded to 1541ms
+  16:18:00.816 +0.15s  [box] playWhenReady false · audio focus lost
+  16:18:01.028 +0.36s  [box] network ~42153kbps (196KB in 1118ms)
+  16:18:01.029 +0.37s  [full] network ~42153kbps (196KB in 1118ms)
+  16:18:01.031 +0.37s  [box] network ~42153kbps (0KB in 1ms)
+  16:18:01.032 +0.37s  [full] network ~42153kbps (0KB in 1ms)
+  16:18:01.067 +0.40s  [full] video decoder OMX.MTK.VIDEO.DECODER.AVC (28ms to start)
+  16:18:01.068 +0.40s  [full] video format video/avc avc1.640028 1920×1080 -1.0fps 0kbps
+  16:18:01.138 +0.47s  [full] audio decoder c2.android.aac.decoder
+  16:18:01.139 +0.48s  [full] audio format audio/mp4a-latm mp4a.40.2 0kbps lang en
+  16:18:01.250 +0.59s  [box] network ~61680kbps (1664KB in 221ms)
+  16:18:01.252 +0.59s  [full] network ~61680kbps (1664KB in 221ms)
+  16:18:01.267 +0.60s  [box] network ~61680kbps (384KB in 17ms)
+  16:18:01.269 +0.60s  [full] network ~61680kbps (384KB in 17ms)
+  16:18:01.339 +0.68s  [full] picture 1920×1080
+  16:18:01.353 +0.69s  [full] first frame drawn
+  16:18:01.356 +0.69s  [full] state READY · at 1555ms · loaded to 7674ms · playWhenReady true
+  16:18:01.364 +0.70s  [full] isPlaying true · at 1555ms · loaded to 8633ms
+  16:18:01.366 +0.70s  [box] network ~96426kbps (1024KB in 87ms)
+  16:18:01.367 +0.70s  [full] network ~96426kbps (1024KB in 87ms)
+  16:18:01.498 +0.83s  [box] network ~58254kbps (1024KB in 144ms)
+  16:18:01.499 +0.83s  [full] network ~58254kbps (1024KB in 144ms)
+  16:18:01.651 +0.99s  [box] network ~54471kbps (1024KB in 154ms)
+  16:18:01.652 +0.99s  [full] network ~54471kbps (1024KB in 154ms)
+  16:18:01.805 +1.14s  [box] network ~54827kbps (1024KB in 153ms)
+  16:18:01.806 +1.14s  [full] network ~54827kbps (1024KB in 153ms)
+  16:18:01.958 +1.29s  [box] network ~54827kbps (1024KB in 153ms)
+  16:18:01.959 +1.30s  [full] network ~54827kbps (1024KB in 153ms)
+  16:18:02.105 +1.44s  [box] network ~57065kbps (1024KB in 147ms)
+  16:18:02.106 +1.44s  [full] network ~57065kbps (1024KB in 147ms)
+  16:18:02.267 +1.60s  [box] network ~51781kbps (1024KB in 162ms)
+  16:18:02.268 +1.60s  [full] network ~51781kbps (1024KB in 162ms)
+  16:18:02.436 +1.77s  [box] network ~49636kbps (1024KB in 169ms)
+  16:18:02.438 +1.77s  [full] network ~49636kbps (1024KB in 169ms)
+  16:18:03.062 +2.40s  [box] network ~13400kbps (1024KB in 626ms)
+  16:18:03.063 +2.40s  [full] network ~13400kbps (1024KB in 626ms)
+  16:18:03.593 +2.93s  [box] network ~15797kbps (1024KB in 531ms)
+  16:18:03.594 +2.93s  [full] network ~15797kbps (1024KB in 531ms)
+  16:18:04.020 +3.36s  [box] network ~19645kbps (1024KB in 427ms)
+  16:18:04.022 +3.36s  [full] network ~19645kbps (1024KB in 427ms)
+  16:18:04.181 +3.52s  [full] loading false · loaded to 55638ms
+  16:18:05.792 +5.13s  [box] back from full screen · carry on from 5777ms
+  16:18:05.794 +5.13s  [box] state BUFFERING · at 5777ms · loaded to 51592ms · playWhenReady false
+  16:18:05.798 +5.13s  [box] playWhenReady true · asked (app)
+  16:18:05.980 +5.32s  [full] playWhenReady false · audio focus lost
+  16:18:05.984 +5.32s  [full] isPlaying false · at 5987ms · loaded to 56222ms
+  16:18:06.168 +5.50s  [box] first frame drawn
+  16:18:06.172 +5.51s  [box] state READY · at 5781ms · loaded to 51593ms · playWhenReady true
+  16:18:06.175 +5.51s  [box] isPlaying true · at 5781ms · loaded to 51593ms
+  16:18:06.177 +5.51s  [box] network ~19645kbps (127KB in 2146ms)
+  16:18:06.189 +5.53s  [box] network ~19645kbps (0KB in 6ms)
+  16:18:07.359 +6.70s  [box] page paused (left / another screen on top)
+  16:18:07.361 +6.70s  [box] playWhenReady false · asked (app)
+  16:18:07.362 +6.70s  [box] isPlaying false · at 6806ms · loaded to 51593ms
+
+==== #6  Sat 21 Nov 2026 16:18:13.854  [box]  Hot Fuzz  (film tmdb 4638)  video L6PKkxn7pq0
+  16:18:13.855 +0.00s  [box] streams (1ms, worked out 2s ago): video: video/mp4 avc1.4D4015 360p 24fps 374425bps videoOnly true | sound: audio/mp4 mp4a.40.2 130615bps | offered 5 video-only, 5 sound, 0 combined · sound tracks: one | subtitles: none
+  16:18:13.866 +0.01s  [box] state BUFFERING · at 0ms · loaded to 0ms · playWhenReady false
+  16:18:13.869 +0.02s  [box] playWhenReady true · asked (app)
+  16:18:13.879 +0.03s  [box] loading true · loaded to 0ms
+  16:18:13.880 +0.03s  [box] remote onto the box
+  16:18:14.165 +0.31s  [box] video decoder OMX.MTK.VIDEO.DECODER.AVC (40ms to start)
+  16:18:14.166 +0.31s  [box] video format video/avc avc1.4D4015 570×242 -1.0fps 0kbps
+  16:18:14.213 +0.36s  [box] network ~96957kbps (1728KB in 146ms)
+  16:18:14.236 +0.38s  [box] network ~96957kbps (320KB in 23ms)
+  16:18:14.241 +0.39s  [box] audio decoder c2.android.aac.decoder
+  16:18:14.243 +0.39s  [box] audio format audio/mp4a-latm mp4a.40.2 0kbps lang en
+  16:18:14.281 +0.43s  [box] picture 570×242
+  16:18:14.283 +0.43s  [box] first frame drawn
+  16:18:14.317 +0.46s  [box] state READY · at 0ms · loaded to 53887ms · playWhenReady true
+  16:18:14.318 +0.47s  [box] isPlaying true · at 0ms · loaded to 53887ms
+  16:18:14.690 +0.84s  [box] loading false · loaded to 53887ms
+  16:18:22.597 +8.74s  [box] remote off the box
+  16:18:53.394 +39.54s  [box] loading true · loaded to 53887ms
+  16:18:53.414 +39.56s  [box] network ~214kbps (1024KB in 39168ms)
+  16:18:53.670 +39.82s  [box] network ~32709kbps (1026KB in 257ms)
+  16:19:01.408 +47.56s  [box] loading false · loaded to 98640ms
+  16:19:38.157 +84.30s  [box] loading true · loaded to 107398ms
+  16:19:38.172 +84.32s  [box] network ~188kbps (1021KB in 44500ms)
+  16:19:38.217 +84.36s  [box] network ~188kbps (369KB in 46ms)
+  16:19:38.239 +84.39s  [box] network ~65791kbps (559KB in 22ms)
+  16:19:38.241 +84.39s  [box] loading false · loaded to 152652ms
+  16:20:47.207 +153.35s  [box] state ENDED · at 152719ms · loaded to 152652ms · playWhenReady true
+  16:20:47.208 +153.36s  [box] box closed · at 152719ms
+
+==== #1  Sat 21 Nov 2026 18:44:58.907  [full]  Athletic Club 0 – 1 Espanyol · Highlights · LALIGA   (film tmdb ?)  video 4S2WJBRBMnM
+  18:44:58.998 +0.09s  [full] streams: video: video/mp4 avc1.64002A 1080p60 50fps 5825196bps videoOnly true | sound: audio/mp4 mp4a.40.2 130471bps lang es track ORIGINAL "Spanish original" | offered 14 video-only, 15 sound, 0 combined · sound tracks: English, Spanish (ES), Spanish original · from 0ms
+  18:44:59.017 +0.11s  [full] state BUFFERING · at 0ms · loaded to 0ms · playWhenReady false
+  18:44:59.060 +0.15s  [full] playWhenReady true · asked (app)
+  18:44:59.152 +0.24s  [full] network ~3200kbps (0KB in 0ms)
+  18:44:59.170 +0.26s  [full] loading true · loaded to 0ms
+  18:45:00.506 +1.60s  [full] network ~41940kbps (1218KB in 238ms)
+  18:45:00.522 +1.61s  [full] video decoder OMX.MTK.VIDEO.DECODER.AVC (116ms to start)
+  18:45:00.524 +1.62s  [full] video format video/avc avc1.64002A 1920×1080 -1.0fps 0kbps
+  18:45:00.801 +1.89s  [full] network ~41940kbps (849KB in 295ms)
+  18:45:01.242 +2.34s  [full] audio decoder c2.android.aac.decoder
+  18:45:01.244 +2.34s  [full] audio format audio/mp4a-latm mp4a.40.2 0kbps lang und
+  18:45:01.283 +2.38s  [full] picture 1920×1080
+  18:45:01.286 +2.38s  [full] first frame drawn
+  18:45:01.426 +2.52s  [full] state READY · at 0ms · loaded to 2080ms · playWhenReady true
+  18:45:01.433 +2.53s  [full] isPlaying true · at 0ms · loaded to 2200ms
+  18:45:01.485 +2.58s  [full] network ~12006kbps (1003KB in 685ms)
+  18:45:01.591 +2.68s  [full] network ~79137kbps (1024KB in 106ms)
+  18:45:01.746 +2.84s  [full] network ~54120kbps (1024KB in 155ms)
+  18:45:01.871 +2.96s  [full] network ~67108kbps (1024KB in 125ms)
+  18:45:01.992 +3.09s  [full] network ~69327kbps (1024KB in 121ms)
+  18:45:02.078 +3.17s  [full] network ~97541kbps (1024KB in 86ms)
+  18:45:02.160 +3.25s  [full] network ~102300kbps (1024KB in 82ms)
+  18:45:02.225 +3.32s  [full] network ~129055kbps (1024KB in 65ms)
+  18:45:02.307 +3.40s  [full] network ~102300kbps (1024KB in 82ms)
+  18:45:02.390 +3.48s  [full] network ~101067kbps (1024KB in 83ms)
+  18:45:02.544 +3.64s  [full] network ~54471kbps (1024KB in 154ms)
+  18:45:02.641 +3.73s  [full] network ~86480kbps (1024KB in 97ms)
+  18:45:02.740 +3.83s  [full] network ~84733kbps (1024KB in 99ms)
+  18:45:02.819 +3.91s  [full] network ~108942kbps (1024KB in 77ms)
+  18:45:02.897 +3.99s  [full] network ~104857kbps (1024KB in 80ms)
+  18:45:02.978 +4.07s  [full] network ~103563kbps (1024KB in 81ms)
+  18:45:03.143 +4.24s  [full] network ~50533kbps (1024KB in 166ms)
+  18:45:03.215 +4.31s  [full] network ~118149kbps (1024KB in 71ms)
+  18:45:03.554 +4.64s  [full] network ~25040kbps (1024KB in 335ms)
+  18:45:03.669 +4.76s  [full] network ~71697kbps (1024KB in 117ms)
+  18:45:04.063 +5.16s  [full] network ~21183kbps (1024KB in 396ms)
+  18:45:04.369 +5.46s  [full] network ~27413kbps (1024KB in 306ms)
+  18:45:04.441 +5.53s  [full] network ~116508kbps (1024KB in 72ms)
+  18:45:04.547 +5.64s  [full] network ~79891kbps (1024KB in 105ms)
+  18:45:04.612 +5.71s  [full] network ~127100kbps (1024KB in 66ms)
+  18:45:04.696 +5.79s  [full] network ~99864kbps (1024KB in 84ms)
+  18:45:04.777 +5.87s  [full] network ~103563kbps (1024KB in 81ms)
+  18:45:04.842 +5.94s  [full] network ~129055kbps (1024KB in 65ms)
+  18:45:04.945 +6.04s  [full] network ~81442kbps (1024KB in 103ms)
+  18:45:05.029 +6.12s  [full] network ~99864kbps (1024KB in 84ms)
+  18:45:05.116 +6.21s  [full] network ~95325kbps (1024KB in 88ms)
+  18:45:05.205 +6.30s  [full] network ~95325kbps (1024KB in 88ms)
+  18:45:05.918 +7.01s  [full] network ~11765kbps (1024KB in 713ms)
+  18:45:06.159 +7.25s  [full] network ~34807kbps (1024KB in 241ms)
+  18:45:06.288 +7.38s  [full] network ~65536kbps (1024KB in 128ms)
+  18:45:06.367 +7.46s  [full] network ~103563kbps (1024KB in 81ms)
+  18:45:06.475 +7.57s  [full] network ~79891kbps (1024KB in 105ms)
+  18:45:06.525 +7.62s  [full] loading false · loaded to 56120ms
+  18:45:07.280 +8.37s  [full] playWhenReady false · asked (app)
+  18:45:07.281 +8.37s  [full] isPlaying false · at 5662ms · loaded to 56120ms
+
+==== #1  Sat 21 Nov 2026 19:38:23.337  [full]  Manchester City 1 – 1 Fulham · Highlights · Sky Sports Premier League  (film tmdb ?)  video bMB52YNFKv4
+  19:38:25.989 +2.65s  [full] streams: video: video/mp4 avc1.640028 1080p 25fps 4348484bps videoOnly true | sound: audio/mp4 mp4a.40.2 130390bps | offered 12 video-only, 5 sound, 0 combined · sound tracks: one · from 0ms
+  19:38:26.000 +2.66s  [full] state BUFFERING · at 0ms · loaded to 0ms · playWhenReady false
+  19:38:26.007 +2.67s  [full] playWhenReady true · asked (app)
+  19:38:26.011 +2.67s  [full] loading true · loaded to 0ms
+  19:38:27.268 +3.93s  [full] video decoder OMX.MTK.VIDEO.DECODER.AVC (45ms to start)
+  19:38:27.288 +3.95s  [full] video format video/avc avc1.640028 1920×1080 -1.0fps 0kbps
+  19:38:27.365 +4.03s  [full] network ~12368kbps (1340KB in 888ms)
+  19:38:27.407 +4.07s  [full] audio decoder c2.android.aac.decoder
+  19:38:27.409 +4.07s  [full] audio format audio/mp4a-latm mp4a.40.2 0kbps lang en
+  19:38:27.609 +4.27s  [full] picture 1920×1080
+  19:38:27.610 +4.27s  [full] first frame drawn
+  19:38:27.613 +4.28s  [full] state READY · at 0ms · loaded to 6360ms · playWhenReady true
+  19:38:27.614 +4.28s  [full] isPlaying true · at 0ms · loaded to 6360ms
+  19:38:27.634 +4.30s  [full] network ~44793kbps (1492KB in 273ms)
+  19:38:27.783 +4.45s  [full] network ~64800kbps (1186KB in 150ms)
+  19:38:27.861 +4.52s  [full] network ~64800kbps (259KB in 77ms)
+  19:38:27.924 +4.59s  [full] network ~64800kbps (840KB in 64ms)
+  19:38:28.019 +4.68s  [full] network ~89240kbps (1024KB in 94ms)
+  19:38:28.180 +4.84s  [full] network ~52103kbps (1024KB in 161ms)
+  19:38:28.243 +4.91s  [full] network ~133152kbps (1024KB in 63ms)
+  19:38:28.315 +4.98s  [full] network ~116508kbps (1024KB in 72ms)
+  19:38:28.631 +5.29s  [full] network ~26546kbps (1024KB in 316ms)
+  19:38:28.783 +5.45s  [full] network ~55188kbps (1024KB in 152ms)
+  19:38:29.031 +5.69s  [full] network ~33689kbps (1024KB in 249ms)
+  19:38:29.226 +5.89s  [full] network ~43018kbps (1024KB in 195ms)
+  19:38:29.415 +6.08s  [full] network ~44384kbps (1024KB in 189ms)
+  19:38:29.562 +6.22s  [full] network ~57456kbps (1024KB in 146ms)
+  19:38:29.671 +6.33s  [full] network ~76959kbps (1024KB in 109ms)
+  19:38:29.823 +6.49s  [full] network ~55188kbps (1024KB in 152ms)
+  19:38:30.015 +6.68s  [full] network ~43690kbps (1024KB in 192ms)
+  19:38:30.152 +6.82s  [full] network ~60787kbps (1024KB in 138ms)
+  19:38:30.531 +7.19s  [full] network ~22192kbps (1024KB in 378ms)
+  19:38:30.689 +7.35s  [full] network ~53092kbps (1024KB in 158ms)
+  19:38:30.804 +7.47s  [full] network ~72315kbps (1024KB in 116ms)
+  19:38:30.970 +7.63s  [full] network ~50840kbps (1024KB in 165ms)
+  19:38:31.087 +7.75s  [full] network ~71089kbps (1024KB in 118ms)
+  19:38:31.287 +7.95s  [full] network ~41943kbps (1024KB in 200ms)
+  19:38:31.626 +8.29s  [full] network ~24745kbps (1024KB in 339ms)
+  19:38:31.985 +8.65s  [full] network ~23431kbps (1024KB in 358ms)
+  19:38:32.118 +8.78s  [full] network ~63072kbps (1024KB in 133ms)
+  19:38:32.250 +8.91s  [full] loading false · loaded to 55360ms
+  19:38:43.841 +20.50s  [full] playWhenReady false · asked (app)
+  19:38:43.845 +20.51s  [full] isPlaying false · at 16135ms · loaded to 55640ms

@@ -1,0 +1,178 @@
+JPTV Live Sports scan · Thu 26 Nov 2026, 23:08
+
+Games found per category
+  0  UK| LEAGUE ONE PPV   [PPV / event category read]
+  0  UK| UEFA PPV   [PPV / event category read]
+  33  UEFA PPV
+  6  Sport
+  1  Spfl/scottish PPV
+  1  League One PPV
+
+Leagues: ucl, uel, uecl, epl, spfl, scocup, laliga, seriea, bundes, ligue1, champ, eflcup, scolcup, facup, spfl2, unl, l1, l2, erediv, primeira, mls · today's fixtures: 37 (on now 0, still to come 0, finished 37)
+Channels looked at: 1545 (radio stations left out: 63)
+
+Learnt groups read for uecl, uel, l1 (plus the broadcasters' and clubs' channels, always) (2)
+  UK| UEFA PPV
+  UK| LEAGUE ONE PPV
+Step 1: 310 sports channels, their guide read once: 172 listings around today's kick-offs
+
+Goals shows (their own entry, never a game's channel) (0)
+Step 1, sports channels: 6 of 37 games found so far
+Provider groups: 38 could be read; 2 read (what's been learnt), 36 left out
+Step 2, competition groups: 34 of 37 games found so far
+Step 3, club channels: 34 of 37 games found so far
+
+Provider groups read (2)
+  UK| UEFA PPV  ·  38 channels
+  UK| LEAGUE ONE PPV  ·  25 channels
+
+Event channels read (their own short guide) (61)
+  UK: UEFA | 01 - Beşiktaş vs Hapoel Be'er Sheva 17:45pm  [UK| UEFA PPV]  ·  0 programmes
+  UK: UEFA | 02 - Celta Vigo vs Bournemouth 17:45pm  [UK| UEFA PPV]  ·  0 programmes
+  UK: UEFA | 03 - Dinamo Zagreb vs Bayer 04 Leverkusen 17:45pm  [UK| UEFA PPV]  ·  0 programmes
+  UK: UEFA | 04 - Marseille vs Levski Sofia 17:45pm  [UK| UEFA PPV]  ·  0 programmes
+  UK: UEFA | 05 - Olympiakos vs AC Milan 17:45pm  [UK| UEFA PPV]  ·  0 programmes
+  UK: UEFA | 06 - Red Bull Salzburg vs Ararat-Armenia 17:45pm  [UK| UEFA PPV]  ·  0 programmes
+  UK: UEFA | 07 - Union Saint-Gilloise vs Lech Poznań 17:45pm  [UK| UEFA PPV]  ·  0 programmes
+  UK: UEFA | 08 - Viktoria Plzeň vs Benfica 17:45pm  [UK| UEFA PPV]  ·  0 programmes
+  UK: UEFA | 09 - Crystal Palace vs Real Sociedad 20:00pm  [UK| UEFA PPV]  ·  0 programmes
+  UK: UEFA | 10 - Ferencváros vs Celje 20:00pm  [UK| UEFA PPV]  ·  0 programmes
+  UK: UEFA | 11 - Hoffenheim vs Sturm Graz 20:00pm  [UK| UEFA PPV]  ·  0 programmes
+  UK: UEFA | 12 - Juventus vs Omonia Nicosia 20:00pm  [UK| UEFA PPV]  ·  0 programmes
+  UK: UEFA | 13 - NEC Nijmegen vs Rennes 20:00pm  [UK| UEFA PPV]  ·  0 programmes
+  UK: UEFA | 14 - OFI Crete vs Anderlecht 20:00pm  [UK| UEFA PPV]  ·  0 programmes
+  UK: UEFA | 15 - Olympique Lyonnais vs Lillestrøm 20:00pm  [UK| UEFA PPV]  ·  0 programmes
+  UK: UEFA | 16 - Sparta Prague vs AZ Alkmaar 20:00pm  [UK| UEFA PPV]  ·  0 programmes
+  UK: UEFA | 17 - Sunderland vs Jagiellonia Białystok 20:00pm  [UK| UEFA PPV]  ·  0 programmes
+  UK: UEFA | 18 - Torreense vs Celtic 20:00pm  [UK| UEFA PPV]  ·  0 programmes
+  UK: UEFA | 19 - Kairat vs Mjällby 15:30pm  [UK| UEFA PPV]  ·  0 programmes
+  UK: UEFA | 20 - Ajax vs Thun 17:45pm  [UK| UEFA PPV]  ·  0 programmes
+  UK: UEFA | 21 - Brann vs AGF 17:45pm  [UK| UEFA PPV]  ·  0 programmes
+  UK: UEFA | 22 - Brighton & Hove Albion vs Universitatea Craiova 17:45pm  [UK| UEFA PPV]  ·  0 programmes
+  UK: UEFA | 23 - Egnatia Rrogozhinë vs Lincoln Red Imps 17:45pm  [UK| UEFA PPV]  ·  0 programmes
+  UK: UEFA | 24 - Heart of Midlothian vs Monaco 17:45pm  [UK| UEFA PPV]  ·  0 programmes
+  UK: UEFA | 25 - Iberia 1999 vs Getafe 17:45pm  [UK| UEFA PPV]  ·  0 programmes
+  UK: UEFA | 26 - Lille v KÍ Klaksvík 20.00  [UK| UEFA PPV]  ·  0 programmes
+  UK: UEFA | 27 - Kauno Žalgiris vs Riga 17:45pm  [UK| UEFA PPV]  ·  0 programmes
+  UK: UEFA | 28 - Pafos vs Midtjylland 17:45pm  [UK| UEFA PPV]  ·  0 programmes
+  UK: UEFA | 29 - Borac Banja Luka vs Atalanta 20:00pm  [UK| UEFA PPV]  ·  0 programmes
+  UK: UEFA | 30 - CSKA Sofia vs Trabzonspor 20:00pm  [UK| UEFA PPV]  ·  0 programmes
+  UK: UEFA | 31 - Freiburg vs Twente 20:00pm  [UK| UEFA PPV]  ·  0 programmes
+  UK: UEFA | 32 - Gent vs Red Star Belgrade 20:00pm  [UK| UEFA PPV]  ·  0 programmes
+  UK: UEFA | 33 - Hajduk Split vs Sint-Truiden 20:00pm  [UK| UEFA PPV]  ·  0 programmes
+  UK: UEFA | 34 - Inter Club d'Escaldes vs Copenhagen 20:00pm  [UK| UEFA PPV]  ·  0 programmes
+  UK: FBL - 35 - Nordsjælland vs Panathinaikos 20:00pm  [UK| UEFA PPV]  ·  0 programmes
+  UK: FBL - 36 - Sporting Braga vs KuPS 20:00pm  [UK| UEFA PPV]  ·  0 programmes
+  UK: UEFA | 37 -  [UK| UEFA PPV]  ·  0 programmes
+  UK: L1: WYCOMBE WANDERERS  [UK| LEAGUE ONE PPV]  ·  0 programmes
+  UK: L1: WIGAN ATHLETIC  [UK| LEAGUE ONE PPV]  ·  0 programmes
+  UK: L1: STOCKPORT COUNTY  [UK| LEAGUE ONE PPV]  ·  0 programmes
+  UK: L1: STEVENAGE  [UK| LEAGUE ONE PPV]  ·  0 programmes
+  UK: L1: SHEFFIELD WEDNESDAY  [UK| LEAGUE ONE PPV]  ·  0 programmes
+  UK: L1: READING  [UK| LEAGUE ONE PPV]  ·  0 programmes
+  UK: L1: PLYMOUTH ARGYLE  [UK| LEAGUE ONE PPV]  ·  0 programmes
+  UK: L1: PETERBOROUGH UNITED  [UK| LEAGUE ONE PPV]  ·  0 programmes
+  UK: L1: OXFORD UNITED  [UK| LEAGUE ONE PPV]  ·  0 programmes
+  UK: L1: NOTTS COUNTY  [UK| LEAGUE ONE PPV]  ·  0 programmes
+  UK: L1: MK DONS  [UK| LEAGUE ONE PPV]  ·  0 programmes
+  UK: L1: MANSFIELD TOWN  [UK| LEAGUE ONE PPV]  ·  0 programmes
+  UK: L1: LUTON TOWN  [UK| LEAGUE ONE PPV]  ·  0 programmes
+  UK: L1: LEYTON ORIENT  [UK| LEAGUE ONE PPV]  ·  0 programmes
+  UK: L1: LEICESTER CITY  [UK| LEAGUE ONE PPV]  ·  0 programmes
+  UK: L1: HUDDERSFIELD TOWN  [UK| LEAGUE ONE PPV]  ·  0 programmes
+  UK: L1: DONCASTER ROVERS  [UK| LEAGUE ONE PPV]  ·  0 programmes
+  UK: L1: CAMBRIDGE UNITED  [UK| LEAGUE ONE PPV]  ·  0 programmes
+  UK: L1: BURTON ALBION  [UK| LEAGUE ONE PPV]  ·  0 programmes
+  UK: L1: BROMLEY  [UK| LEAGUE ONE PPV]  ·  0 programmes
+  UK: L1: BRADFORD CITY  [UK| LEAGUE ONE PPV]  ·  0 programmes
+  UK: L1: BLACKPOOL  [UK| LEAGUE ONE PPV]  ·  0 programmes
+  UK: L1: BARNSLEY  [UK| LEAGUE ONE PPV]  ·  0 programmes
+  UK: L1: AFC WIMBLEDON  [UK| LEAGUE ONE PPV]  ·  0 programmes
+Step 4: the whole guide searched for 3 game(s) not found by then
+Step 4b: 3 game(s) still missing (uecl, uel): 36 more group(s) read, 0 channel(s) found
+
+Today's games and where they were found
+  15:30  Kairat Almaty v Mjällby AIF  (uecl)
+      2 competition group: UK: UEFA | 19 - Kairat vs Mjällby 15:30pm  [UK| UEFA PPV]
+  17:45  Besiktas v Hapoel Be'er  (uel)
+      2 competition group: UK: UEFA | 01 - Beşiktaş vs Hapoel Be'er Sheva 17:45pm  [UK| UEFA PPV]
+  17:45  Celta Vigo v AFC Bournemouth  (uel)
+      1 broadcaster guide: TNT Sports 1 HEVC 4K  — Live UEL: Celta Vigo v Bournemouth
+      2 competition group: UK: UEFA | 02 - Celta Vigo vs Bournemouth 17:45pm  [UK| UEFA PPV]
+  17:45  Dinamo Zagreb v Bayer Leverkusen  (uel)
+      2 competition group: UK: UEFA | 03 - Dinamo Zagreb vs Bayer 04 Leverkusen 17:45pm  [UK| UEFA PPV]
+  17:45  Marseille v Levski Sofia  (uel)
+      2 competition group: UK: UEFA | 04 - Marseille vs Levski Sofia 17:45pm  [UK| UEFA PPV]
+  17:45  Olympiacos v AC Milan  (uel)
+      1 broadcaster guide: TNT Sports 4 HEVC 4K  — Live UEL: Olympiacos v AC Milan
+      2 competition group: UK: UEFA | 05 - Olympiakos vs AC Milan 17:45pm  [UK| UEFA PPV]
+  17:45  RB Salzburg v Ararat-Armenia  (uel)
+      2 competition group: UK: UEFA | 06 - Red Bull Salzburg vs Ararat-Armenia 17:45pm  [UK| UEFA PPV]
+  17:45  Union St.-Gilloise v Lech Poznan  (uel)
+      2 competition group: UK: UEFA | 07 - Union Saint-Gilloise vs Lech Poznań 17:45pm  [UK| UEFA PPV]
+  17:45  Viktoria Plzen v Benfica  (uel)
+      2 competition group: UK: UEFA | 08 - Viktoria Plzeň vs Benfica 17:45pm  [UK| UEFA PPV]
+  17:45  Ajax Amsterdam v FC Thun  (uecl)
+      2 competition group: UK: UEFA | 20 - Ajax vs Thun 17:45pm  [UK| UEFA PPV]
+  17:45  Brighton & Hove Albion v Universitatea Craiova  (uecl)
+      2 competition group: UK: UEFA | 22 - Brighton & Hove Albion vs Universitatea Craiova 17:45pm  [UK| UEFA PPV]
+  17:45  Egnatia v Lincoln Red Imps  (uecl)
+      2 competition group: UK: UEFA | 23 - Egnatia Rrogozhinë vs Lincoln Red Imps 17:45pm  [UK| UEFA PPV]
+  17:45  Heart of Midlothian v AS Monaco  (uecl)
+      1 broadcaster guide: TNT Sports 3 HEVC 4K  — Live UCoL: Hearts v Monaco
+      2 competition group: UK: UEFA | 24 - Heart of Midlothian vs Monaco 17:45pm  [UK| UEFA PPV]
+  17:45  Iberia 1999 v Getafe  (uecl)
+      2 competition group: UK: UEFA | 25 - Iberia 1999 vs Getafe 17:45pm  [UK| UEFA PPV]
+  17:45  Jablonec v FC Lugano  (uecl)
+      not found on any of your channels
+  17:45  Kauno Zalgiris v Riga FC  (uecl)
+      2 competition group: UK: UEFA | 27 - Kauno Žalgiris vs Riga 17:45pm  [UK| UEFA PPV]
+  17:45  Pafos v FC Midtjylland  (uecl)
+      2 competition group: UK: UEFA | 28 - Pafos vs Midtjylland 17:45pm  [UK| UEFA PPV]
+  17:45  SK Brann v AGF  (uecl)
+      2 competition group: UK: UEFA | 21 - Brann vs AGF 17:45pm  [UK| UEFA PPV]
+  20:00  Crystal Palace v Real Sociedad  (uel)
+      1 broadcaster guide: TNT Sports 1 HEVC 4K  — Live UEL: Palace v Real Sociedad
+      2 competition group: UK: UEFA | 09 - Crystal Palace vs Real Sociedad 20:00pm  [UK| UEFA PPV]
+  20:00  Ferencvaros v NK Celje  (uel)
+      2 competition group: UK: UEFA | 10 - Ferencváros vs Celje 20:00pm  [UK| UEFA PPV]
+  20:00  Juventus v Omonia Nicosia  (uel)
+      2 competition group: UK: UEFA | 12 - Juventus vs Omonia Nicosia 20:00pm  [UK| UEFA PPV]
+  20:00  Lyon v Lillestrom  (uel)
+      not found on any of your channels
+  20:00  NEC Nijmegen v Stade Rennais  (uel)
+      2 competition group: UK: UEFA | 13 - NEC Nijmegen vs Rennes 20:00pm  [UK| UEFA PPV]
+  20:00  OFI Crete v Anderlecht  (uel)
+      2 competition group: UK: UEFA | 14 - OFI Crete vs Anderlecht 20:00pm  [UK| UEFA PPV]
+  20:00  Sparta Prague v AZ Alkmaar  (uel)
+      2 competition group: UK: UEFA | 16 - Sparta Prague vs AZ Alkmaar 20:00pm  [UK| UEFA PPV]
+  20:00  Sunderland v Jagiellonia Bialystok  (uel)
+      2 competition group: UK: UEFA | 17 - Sunderland vs Jagiellonia Białystok 20:00pm  [UK| UEFA PPV]
+  20:00  Torreense v Celtic  (uel)
+      1 broadcaster guide: TNT Sports 3 HEVC 4K  — Live UEL: Torreense v Celtic
+      2 competition group: UK: UEFA | 18 - Torreense vs Celtic 20:00pm  [UK| UEFA PPV]
+      3 club TV: SPFL: CELTIC TV
+  20:00  TSG Hoffenheim v SK Sturm Graz  (uel)
+      2 competition group: UK: UEFA | 11 - Hoffenheim vs Sturm Graz 20:00pm  [UK| UEFA PPV]
+  20:00  Borac Banja Luka v Atalanta  (uecl)
+      2 competition group: UK: UEFA | 29 - Borac Banja Luka vs Atalanta 20:00pm  [UK| UEFA PPV]
+  20:00  Braga v KuPS Kuopio  (uecl)
+      2 competition group: UK: FBL - 36 - Sporting Braga vs KuPS 20:00pm  [UK| UEFA PPV]
+  20:00  CSKA Sofia v Trabzonspor  (uecl)
+      2 competition group: UK: UEFA | 30 - CSKA Sofia vs Trabzonspor 20:00pm  [UK| UEFA PPV]
+  20:00  FC Nordsjælland v Panathinaikos  (uecl)
+      2 competition group: UK: FBL - 35 - Nordsjælland vs Panathinaikos 20:00pm  [UK| UEFA PPV]
+  20:00  Hajduk Split v Sint-Truidense  (uecl)
+      2 competition group: UK: UEFA | 33 - Hajduk Split vs Sint-Truiden 20:00pm  [UK| UEFA PPV]
+  20:00  Inter D'Escaldes v F.C. København  (uecl)
+      not found on any of your channels
+  20:00  KAA Gent v Red Star Belgrade  (uecl)
+      2 competition group: UK: UEFA | 32 - Gent vs Red Star Belgrade 20:00pm  [UK| UEFA PPV]
+  20:00  SC Freiburg v FC Twente  (uecl)
+      2 competition group: UK: UEFA | 31 - Freiburg vs Twente 20:00pm  [UK| UEFA PPV]
+  20:00  Doncaster Rovers v Huddersfield Town  (l1)
+      1 broadcaster guide: Sky Sports Football HEVC 4K  — Live EFL: Doncaster v Huddersfield
+      2 competition group: UK: L1: HUDDERSFIELD TOWN  [UK| LEAGUE ONE PPV]
+      2 competition group: UK: L1: DONCASTER ROVERS  [UK| LEAGUE ONE PPV]
+
+Shown: 34 games on your channels (finished 34), 0 goals shows
